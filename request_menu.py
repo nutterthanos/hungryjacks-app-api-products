@@ -8,9 +8,9 @@ import time
 logging.basicConfig(level=logging.DEBUG, format='%(asctime)s - %(levelname)s - %(message)s')
 
 # URLs and endpoints
-list_stores_url = "https://web-api.hungryjacks.com.au/prod/api/v2/stores/"
-list_menu_url_pickup = "https://web-api.hungryjacks.com.au/prod/api/v2/menu/{}/pickup"
-list_menu_url_delivery = "https://web-api.hungryjacks.com.au/prod/api/v2/menu/{}/delivery"
+list_stores_url = "https://web-api.hungryjacks.com.au/api/v2/stores/"
+list_menu_url_pickup = "https://web-api.hungryjacks.com.au/api/v2/menu/{}/pickup"
+list_menu_url_delivery = "https://web-api.hungryjacks.com.au/api/v2/menu/{}/delivery"
 apikey = "7O5jnagC8V4PwfavmfoRCXAFFEfdhks4pfgh8Kbj"
 
 # File to store ETags
