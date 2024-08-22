@@ -30,7 +30,10 @@ def fetch_stores():
     etags = load_etags()
     headers = {
         'X-Api-Key': apikey,
-        'Accept-Encoding': 'br'
+        'Accept-Encoding': 'br',
+        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36',
+        'Origin': 'https://order.hungryjacks.com.au',
+        'Referer': 'https://order.hungryjacks.com.au'
     }
     
     if 'stores' in etags:
@@ -68,8 +71,11 @@ def fetch_menu(store_id):
     etags = load_etags()
     menu_types = ['pickup', 'delivery']
     headers = {
-        'x-cf-api-key': cfapikey,
-        'Accept-Encoding': 'br'
+        'X-Api-Key': apikey,
+        'Accept-Encoding': 'br',
+        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36',
+        'Origin': 'https://order.hungryjacks.com.au',
+        'Referer': 'https://order.hungryjacks.com.au'
     }
     
     for menu_type in menu_types:
