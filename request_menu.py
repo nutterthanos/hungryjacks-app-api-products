@@ -8,10 +8,10 @@ import time
 logging.basicConfig(level=logging.DEBUG, format='%(asctime)s - %(levelname)s - %(message)s')
 
 # URLs and endpoints
-list_stores_url = "https://app-api.hungryjacks.com.au/prod/api/v2/stores/"
-list_menu_url_pickup = "https://app-api.hungryjacks.com.au/prod/api/v2/menu/{}/pickup"
-list_menu_url_delivery = "https://app-api.hungryjacks.com.au/prod/api/v2/menu/{}/delivery"
-cfapikey = "FSstqH3540WE91ORTCccRKCAT2TrU47YYMzubAi"
+list_stores_url = "https://web-api.hungryjacks.com.au/prod/api/v2/stores/"
+list_menu_url_pickup = "https://web-api.hungryjacks.com.au/prod/api/v2/menu/{}/pickup"
+list_menu_url_delivery = "https://web-api.hungryjacks.com.au/prod/api/v2/menu/{}/delivery"
+apikey = "7O5jnagC8V4PwfavmfoRCXAFFEfdhks4pfgh8Kbj"
 
 # File to store ETags
 etag_file = "etags.json"
@@ -29,7 +29,7 @@ def save_etags(etags):
 def fetch_stores():
     etags = load_etags()
     headers = {
-        'x-cf-api-key': cfapikey,
+        'X-Api-Key': apikey,
         'Accept-Encoding': 'br'
     }
     
