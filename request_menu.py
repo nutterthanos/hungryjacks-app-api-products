@@ -49,6 +49,7 @@ def fetch_stores():
 
     logging.debug(f"Response status code: {response.status_code}")
     logging.debug(f"Response headers: {response.headers}")
+    logging.debug(f"Response headers: {response.text}")
 
     if response.status_code == 200:
         etag = response.headers.get('ETag')
