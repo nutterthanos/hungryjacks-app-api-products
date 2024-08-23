@@ -4,7 +4,7 @@
  "store_name": "Beeliar",
  "order_mode": "Delivery",
  "menu_id": 1001,
- "last_updated": "2024-08-21T18:01:42.636975Z",
+ "last_updated": "2024-08-22T18:02:01.1883363Z",
  "images_category_basepath": "https://s3-ap-southeast-2.amazonaws.com/hungryjack-prod/image/category/1001/",
  "images_item_basepath": "https://s3-ap-southeast-2.amazonaws.com/hungryjack-prod/image/item/1001/",
  "images_promos_basepath": "https://s3-ap-southeast-2.amazonaws.com/hungryjack-prod/image/promo/1001/",
@@ -16137,11 +16137,11 @@
    "menu_item_id": 31562,
    "parent_menu_id": 1001,
    "name": "18 Nuggets & Sauces",
-   "image": "8268/2.png",
-   "thumb": "8268/2_thumb.png",
+   "image": "8268/0.png",
+   "thumb": "8268/0_thumb.png",
    "image_banner": "8268_banner.png",
    "image_mobile": "8268_mobile.png",
-   "option_name": "Large Meal",
+   "option_name": "Small Meal",
    "default_sales_item_ids": [
     40770,
     40559,
@@ -16168,7 +16168,7 @@
     41637
    ],
    "base_menu_item_id": 31562,
-   "combo_level": 2,
+   "combo_level": 0,
    "promo_id": 8268,
    "pos_item_id": null,
    "combo_next_level_diff_price": null,
@@ -16283,159 +16283,7 @@
     }
    ],
    "default_price": 20.55,
-   "is_visible": false
-  },
-  {
-   "menu_item_id": 31562,
-   "parent_menu_id": 1001,
-   "name": "18 Nuggets & Sauces",
-   "image": "8268/1.png",
-   "thumb": "8268/1_thumb.png",
-   "image_banner": "8268_banner.png",
-   "image_mobile": "8268_mobile.png",
-   "option_name": "Medium Meal",
-   "default_sales_item_ids": [
-    40770,
-    40559,
-    40559,
-    40559
-   ],
-   "description": "Crispy, golden nuggets made with 100% chicken breast, cooked in sunflower and canola oil for a better tasting golden finish. Our nuggets are as good as gold. Choose from our delicious dipping sauces BBQ, Spicy, or Sweet 'n Sour sauce.",
-   "sales_item_ids": [
-    40770,
-    40559,
-    40560,
-    40561,
-    40562,
-    41637,
-    40559,
-    40560,
-    40561,
-    40562,
-    41637,
-    40559,
-    40560,
-    40561,
-    40562,
-    41637
-   ],
-   "base_menu_item_id": 31562,
-   "combo_level": 1,
-   "promo_id": 8268,
-   "pos_item_id": null,
-   "combo_next_level_diff_price": 0.0,
-   "sales_groups": [
-    {
-     "menu_item_id": 31562,
-     "sales_group_id": 0,
-     "name": "Nuggets",
-     "component_id": 1,
-     "sales_item_ids": [
-      {
-       "id": 40770,
-       "diff": 0.0
-      }
-     ],
-     "default_sales_item_id": 40770,
-     "ranking": 0,
-     "is_visible": true
-    },
-    {
-     "menu_item_id": 31562,
-     "sales_group_id": 0,
-     "name": "Sauce",
-     "component_id": 2,
-     "sales_item_ids": [
-      {
-       "id": 40559,
-       "diff": 0.0
-      },
-      {
-       "id": 40560,
-       "diff": 0.0
-      },
-      {
-       "id": 40561,
-       "diff": 0.0
-      },
-      {
-       "id": 40562,
-       "diff": 0.0
-      },
-      {
-       "id": 41637,
-       "diff": 0.0
-      }
-     ],
-     "default_sales_item_id": 40559,
-     "ranking": 0,
-     "is_visible": true
-    },
-    {
-     "menu_item_id": 31562,
-     "sales_group_id": 0,
-     "name": "Sauce 2",
-     "component_id": 3,
-     "sales_item_ids": [
-      {
-       "id": 40559,
-       "diff": 0.0
-      },
-      {
-       "id": 40560,
-       "diff": 0.0
-      },
-      {
-       "id": 40561,
-       "diff": 0.0
-      },
-      {
-       "id": 40562,
-       "diff": 0.0
-      },
-      {
-       "id": 41637,
-       "diff": 0.0
-      }
-     ],
-     "default_sales_item_id": 40559,
-     "ranking": 0,
-     "is_visible": true
-    },
-    {
-     "menu_item_id": 31562,
-     "sales_group_id": 0,
-     "name": "Sauce 3",
-     "component_id": 4,
-     "sales_item_ids": [
-      {
-       "id": 40559,
-       "diff": 0.0
-      },
-      {
-       "id": 40560,
-       "diff": 0.0
-      },
-      {
-       "id": 40561,
-       "diff": 0.0
-      },
-      {
-       "id": 40562,
-       "diff": 0.0
-      },
-      {
-       "id": 41637,
-       "diff": 0.0
-      }
-     ],
-     "default_sales_item_id": 40559,
-     "ranking": 0,
-     "is_visible": true
-    }
-   ],
-   "default_price": 20.55,
-   "is_visible": false
+   "is_visible": true
   },
   {
    "menu_item_id": 30750,
@@ -17505,11 +17353,11 @@
    "menu_item_id": 31572,
    "parent_menu_id": 1001,
    "name": "18 Nuggets & Sauces",
-   "image": "8268/2.png",
-   "thumb": "8268/2_thumb.png",
+   "image": "8268/0.png",
+   "thumb": "8268/0_thumb.png",
    "image_banner": "8268_banner.png",
    "image_mobile": "8268_mobile.png",
-   "option_name": "Large Meal",
+   "option_name": "Small Meal",
    "default_sales_item_ids": [
     40770,
     40559,
@@ -17536,7 +17384,7 @@
     41637
    ],
    "base_menu_item_id": 31572,
-   "combo_level": 2,
+   "combo_level": 0,
    "promo_id": 8268,
    "pos_item_id": null,
    "combo_next_level_diff_price": null,
@@ -17651,159 +17499,7 @@
     }
    ],
    "default_price": 20.55,
-   "is_visible": false
-  },
-  {
-   "menu_item_id": 31572,
-   "parent_menu_id": 1001,
-   "name": "18 Nuggets & Sauces",
-   "image": "8268/1.png",
-   "thumb": "8268/1_thumb.png",
-   "image_banner": "8268_banner.png",
-   "image_mobile": "8268_mobile.png",
-   "option_name": "Medium Meal",
-   "default_sales_item_ids": [
-    40770,
-    40559,
-    40559,
-    40559
-   ],
-   "description": "Crispy, golden nuggets made with 100% chicken breast, cooked in sunflower and canola oil for a better tasting golden finish. Our nuggets are as good as gold. Choose from our delicious dipping sauces BBQ, Spicy, or Sweet 'n Sour sauce.",
-   "sales_item_ids": [
-    40770,
-    40559,
-    40560,
-    40561,
-    40562,
-    41637,
-    40559,
-    40560,
-    40561,
-    40562,
-    41637,
-    40559,
-    40560,
-    40561,
-    40562,
-    41637
-   ],
-   "base_menu_item_id": 31572,
-   "combo_level": 1,
-   "promo_id": 8268,
-   "pos_item_id": null,
-   "combo_next_level_diff_price": 0.0,
-   "sales_groups": [
-    {
-     "menu_item_id": 31572,
-     "sales_group_id": 0,
-     "name": "Nuggets",
-     "component_id": 1,
-     "sales_item_ids": [
-      {
-       "id": 40770,
-       "diff": 0.0
-      }
-     ],
-     "default_sales_item_id": 40770,
-     "ranking": 0,
-     "is_visible": true
-    },
-    {
-     "menu_item_id": 31572,
-     "sales_group_id": 0,
-     "name": "Sauce",
-     "component_id": 2,
-     "sales_item_ids": [
-      {
-       "id": 40559,
-       "diff": 0.0
-      },
-      {
-       "id": 40560,
-       "diff": 0.0
-      },
-      {
-       "id": 40561,
-       "diff": 0.0
-      },
-      {
-       "id": 40562,
-       "diff": 0.0
-      },
-      {
-       "id": 41637,
-       "diff": 0.0
-      }
-     ],
-     "default_sales_item_id": 40559,
-     "ranking": 0,
-     "is_visible": true
-    },
-    {
-     "menu_item_id": 31572,
-     "sales_group_id": 0,
-     "name": "Sauce 2",
-     "component_id": 3,
-     "sales_item_ids": [
-      {
-       "id": 40559,
-       "diff": 0.0
-      },
-      {
-       "id": 40560,
-       "diff": 0.0
-      },
-      {
-       "id": 40561,
-       "diff": 0.0
-      },
-      {
-       "id": 40562,
-       "diff": 0.0
-      },
-      {
-       "id": 41637,
-       "diff": 0.0
-      }
-     ],
-     "default_sales_item_id": 40559,
-     "ranking": 0,
-     "is_visible": true
-    },
-    {
-     "menu_item_id": 31572,
-     "sales_group_id": 0,
-     "name": "Sauce 3",
-     "component_id": 4,
-     "sales_item_ids": [
-      {
-       "id": 40559,
-       "diff": 0.0
-      },
-      {
-       "id": 40560,
-       "diff": 0.0
-      },
-      {
-       "id": 40561,
-       "diff": 0.0
-      },
-      {
-       "id": 40562,
-       "diff": 0.0
-      },
-      {
-       "id": 41637,
-       "diff": 0.0
-      }
-     ],
-     "default_sales_item_id": 40559,
-     "ranking": 0,
-     "is_visible": true
-    }
-   ],
-   "default_price": 20.55,
-   "is_visible": false
+   "is_visible": true
   },
   {
    "menu_item_id": 30774,
@@ -30883,228 +30579,6 @@
    "menu_item_id": 31569,
    "parent_menu_id": 1001,
    "name": "Grill Masters Chicago Angus Value Meal",
-   "image": "4147/2.png",
-   "thumb": "4147/2_thumb.png",
-   "image_banner": "4147_banner.png",
-   "image_mobile": "4147_mobile.png",
-   "option_name": "Large Meal",
-   "default_sales_item_ids": [
-    41442,
-    40349,
-    40003,
-    40410
-   ],
-   "description": "A thick and juicy Angus patty, stacked with Double Bacon, Natural Cheese, Peppercorn Sauce, Tomato and Lettuce on a toasted brioche bun.",
-   "sales_item_ids": [
-    41442,
-    40349,
-    40582,
-    40003,
-    41679,
-    40272,
-    40261,
-    40265,
-    41097,
-    40283,
-    40274,
-    40277,
-    40299,
-    40280,
-    41708,
-    40331,
-    40337,
-    40333,
-    40339,
-    40334,
-    41861,
-    40341,
-    41040,
-    40989,
-    41042,
-    41261,
-    41408,
-    41674,
-    41038,
-    40410
-   ],
-   "base_menu_item_id": 31563,
-   "combo_level": 2,
-   "promo_id": 4147,
-   "pos_item_id": null,
-   "combo_next_level_diff_price": null,
-   "sales_groups": [
-    {
-     "menu_item_id": 31569,
-     "sales_group_id": 0,
-     "name": "Burger",
-     "component_id": 1,
-     "sales_item_ids": [
-      {
-       "id": 41442,
-       "diff": 0.0
-      }
-     ],
-     "default_sales_item_id": 41442,
-     "ranking": 0,
-     "is_visible": true
-    },
-    {
-     "menu_item_id": 31569,
-     "sales_group_id": 0,
-     "name": "Side",
-     "component_id": 2,
-     "sales_item_ids": [
-      {
-       "id": 40349,
-       "diff": 0.0
-      },
-      {
-       "id": 40582,
-       "diff": 0.8
-      }
-     ],
-     "default_sales_item_id": 40349,
-     "ranking": 0,
-     "is_visible": true
-    },
-    {
-     "menu_item_id": 31569,
-     "sales_group_id": 0,
-     "name": "Drink 1",
-     "component_id": 3,
-     "sales_item_ids": [
-      {
-       "id": 40003,
-       "diff": 0.0
-      },
-      {
-       "id": 41679,
-       "diff": 0.0
-      },
-      {
-       "id": 40272,
-       "diff": 0.0
-      },
-      {
-       "id": 40261,
-       "diff": 0.0
-      },
-      {
-       "id": 40265,
-       "diff": 0.0
-      },
-      {
-       "id": 41097,
-       "diff": 0.0
-      },
-      {
-       "id": 40283,
-       "diff": 0.6
-      },
-      {
-       "id": 40274,
-       "diff": 1.0
-      },
-      {
-       "id": 40277,
-       "diff": 1.0
-      },
-      {
-       "id": 40299,
-       "diff": 1.0
-      },
-      {
-       "id": 40280,
-       "diff": 1.0
-      },
-      {
-       "id": 41708,
-       "diff": 2.0
-      },
-      {
-       "id": 40331,
-       "diff": 1.0
-      },
-      {
-       "id": 40337,
-       "diff": 1.0
-      },
-      {
-       "id": 40333,
-       "diff": 1.0
-      },
-      {
-       "id": 40339,
-       "diff": 1.0
-      },
-      {
-       "id": 40334,
-       "diff": 1.0
-      },
-      {
-       "id": 41861,
-       "diff": 1.45
-      },
-      {
-       "id": 40341,
-       "diff": 1.0
-      },
-      {
-       "id": 41040,
-       "diff": 2.0
-      },
-      {
-       "id": 40989,
-       "diff": 1.5
-      },
-      {
-       "id": 41042,
-       "diff": 1.5
-      },
-      {
-       "id": 41261,
-       "diff": 2.0
-      },
-      {
-       "id": 41408,
-       "diff": 1.0
-      },
-      {
-       "id": 41674,
-       "diff": 2.0
-      },
-      {
-       "id": 41038,
-       "diff": 1.0
-      }
-     ],
-     "default_sales_item_id": 40003,
-     "ranking": 0,
-     "is_visible": true
-    },
-    {
-     "menu_item_id": 31569,
-     "sales_group_id": 0,
-     "name": "Marker",
-     "component_id": 4,
-     "sales_item_ids": [
-      {
-       "id": 40410,
-       "diff": 0.0
-      }
-     ],
-     "default_sales_item_id": 40410,
-     "ranking": 0,
-     "is_visible": false
-    }
-   ],
-   "default_price": 23.9,
-   "is_visible": false
-  },
-  {
-   "menu_item_id": 31569,
-   "parent_menu_id": 1001,
-   "name": "Grill Masters Chicago Angus Value Meal",
    "image": "4147/1.png",
    "thumb": "4147/1_thumb.png",
    "image_banner": "4147_banner.png",
@@ -31321,6 +30795,228 @@
     }
    ],
    "default_price": 22.65,
+   "is_visible": false
+  },
+  {
+   "menu_item_id": 31569,
+   "parent_menu_id": 1001,
+   "name": "Grill Masters Chicago Angus Value Meal",
+   "image": "4147/2.png",
+   "thumb": "4147/2_thumb.png",
+   "image_banner": "4147_banner.png",
+   "image_mobile": "4147_mobile.png",
+   "option_name": "Large Meal",
+   "default_sales_item_ids": [
+    41442,
+    40349,
+    40003,
+    40410
+   ],
+   "description": "A thick and juicy Angus patty, stacked with Double Bacon, Natural Cheese, Peppercorn Sauce, Tomato and Lettuce on a toasted brioche bun.",
+   "sales_item_ids": [
+    41442,
+    40349,
+    40582,
+    40003,
+    41679,
+    40272,
+    40261,
+    40265,
+    41097,
+    40283,
+    40274,
+    40277,
+    40299,
+    40280,
+    41708,
+    40331,
+    40337,
+    40333,
+    40339,
+    40334,
+    41861,
+    40341,
+    41040,
+    40989,
+    41042,
+    41261,
+    41408,
+    41674,
+    41038,
+    40410
+   ],
+   "base_menu_item_id": 31563,
+   "combo_level": 2,
+   "promo_id": 4147,
+   "pos_item_id": null,
+   "combo_next_level_diff_price": null,
+   "sales_groups": [
+    {
+     "menu_item_id": 31569,
+     "sales_group_id": 0,
+     "name": "Burger",
+     "component_id": 1,
+     "sales_item_ids": [
+      {
+       "id": 41442,
+       "diff": 0.0
+      }
+     ],
+     "default_sales_item_id": 41442,
+     "ranking": 0,
+     "is_visible": true
+    },
+    {
+     "menu_item_id": 31569,
+     "sales_group_id": 0,
+     "name": "Side",
+     "component_id": 2,
+     "sales_item_ids": [
+      {
+       "id": 40349,
+       "diff": 0.0
+      },
+      {
+       "id": 40582,
+       "diff": 0.8
+      }
+     ],
+     "default_sales_item_id": 40349,
+     "ranking": 0,
+     "is_visible": true
+    },
+    {
+     "menu_item_id": 31569,
+     "sales_group_id": 0,
+     "name": "Drink 1",
+     "component_id": 3,
+     "sales_item_ids": [
+      {
+       "id": 40003,
+       "diff": 0.0
+      },
+      {
+       "id": 41679,
+       "diff": 0.0
+      },
+      {
+       "id": 40272,
+       "diff": 0.0
+      },
+      {
+       "id": 40261,
+       "diff": 0.0
+      },
+      {
+       "id": 40265,
+       "diff": 0.0
+      },
+      {
+       "id": 41097,
+       "diff": 0.0
+      },
+      {
+       "id": 40283,
+       "diff": 0.6
+      },
+      {
+       "id": 40274,
+       "diff": 1.0
+      },
+      {
+       "id": 40277,
+       "diff": 1.0
+      },
+      {
+       "id": 40299,
+       "diff": 1.0
+      },
+      {
+       "id": 40280,
+       "diff": 1.0
+      },
+      {
+       "id": 41708,
+       "diff": 2.0
+      },
+      {
+       "id": 40331,
+       "diff": 1.0
+      },
+      {
+       "id": 40337,
+       "diff": 1.0
+      },
+      {
+       "id": 40333,
+       "diff": 1.0
+      },
+      {
+       "id": 40339,
+       "diff": 1.0
+      },
+      {
+       "id": 40334,
+       "diff": 1.0
+      },
+      {
+       "id": 41861,
+       "diff": 1.45
+      },
+      {
+       "id": 40341,
+       "diff": 1.0
+      },
+      {
+       "id": 41040,
+       "diff": 2.0
+      },
+      {
+       "id": 40989,
+       "diff": 1.5
+      },
+      {
+       "id": 41042,
+       "diff": 1.5
+      },
+      {
+       "id": 41261,
+       "diff": 2.0
+      },
+      {
+       "id": 41408,
+       "diff": 1.0
+      },
+      {
+       "id": 41674,
+       "diff": 2.0
+      },
+      {
+       "id": 41038,
+       "diff": 1.0
+      }
+     ],
+     "default_sales_item_id": 40003,
+     "ranking": 0,
+     "is_visible": true
+    },
+    {
+     "menu_item_id": 31569,
+     "sales_group_id": 0,
+     "name": "Marker",
+     "component_id": 4,
+     "sales_item_ids": [
+      {
+       "id": 40410,
+       "diff": 0.0
+      }
+     ],
+     "default_sales_item_id": 40410,
+     "ranking": 0,
+     "is_visible": false
+    }
+   ],
+   "default_price": 23.9,
    "is_visible": false
   },
   {
@@ -40042,11 +39738,11 @@
    "menu_item_id": 31331,
    "parent_menu_id": 1001,
    "name": "BBQ Brekky Wrap & Hashbr",
-   "image": "8125/1.png",
-   "thumb": "8125/1_thumb.png",
+   "image": "8125/0.png",
+   "thumb": "8125/0_thumb.png",
    "image_banner": "8125_banner.png",
    "image_mobile": "8125_mobile.png",
-   "option_name": "Medium Meal",
+   "option_name": "Small Meal",
    "default_sales_item_ids": [
     41314,
     40249
@@ -40057,65 +39753,7 @@
     40249
    ],
    "base_menu_item_id": 31331,
-   "combo_level": 1,
-   "promo_id": 8125,
-   "pos_item_id": null,
-   "combo_next_level_diff_price": 0.0,
-   "sales_groups": [
-    {
-     "menu_item_id": 31331,
-     "sales_group_id": 0,
-     "name": "Wrap",
-     "component_id": 1,
-     "sales_item_ids": [
-      {
-       "id": 41314,
-       "diff": 0.0
-      }
-     ],
-     "default_sales_item_id": 41314,
-     "ranking": 0,
-     "is_visible": true
-    },
-    {
-     "menu_item_id": 31331,
-     "sales_group_id": 0,
-     "name": "Hash Brown",
-     "component_id": 2,
-     "sales_item_ids": [
-      {
-       "id": 40249,
-       "diff": 0.0
-      }
-     ],
-     "default_sales_item_id": 40249,
-     "ranking": 0,
-     "is_visible": true
-    }
-   ],
-   "default_price": 7.9,
-   "is_visible": false
-  },
-  {
-   "menu_item_id": 31331,
-   "parent_menu_id": 1001,
-   "name": "BBQ Brekky Wrap & Hashbr",
-   "image": "8125/2.png",
-   "thumb": "8125/2_thumb.png",
-   "image_banner": "8125_banner.png",
-   "image_mobile": "8125_mobile.png",
-   "option_name": "Large Meal",
-   "default_sales_item_ids": [
-    41314,
-    40249
-   ],
-   "description": null,
-   "sales_item_ids": [
-    41314,
-    40249
-   ],
-   "base_menu_item_id": 31331,
-   "combo_level": 2,
+   "combo_level": 0,
    "promo_id": 8125,
    "pos_item_id": null,
    "combo_next_level_diff_price": null,
@@ -40152,7 +39790,7 @@
     }
    ],
    "default_price": 7.9,
-   "is_visible": false
+   "is_visible": true
   },
   {
    "menu_item_id": 31424,
@@ -126330,28 +125968,6 @@
        "level": 0,
        "base_sales_item_id": 41314,
        "prices": [
-        0.0,
-        0.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 41314,
-       "level": 1,
-       "base_sales_item_id": 41314,
-       "prices": [
-        0.0,
-        0.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 41314,
-       "level": 2,
-       "base_sales_item_id": 41314,
-       "prices": [
-        0.0,
-        0.0,
         0.0
        ]
       }
@@ -126365,28 +125981,6 @@
        "level": 0,
        "base_sales_item_id": 40249,
        "prices": [
-        0.0,
-        0.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 40249,
-       "level": 1,
-       "base_sales_item_id": 40249,
-       "prices": [
-        0.0,
-        0.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 40249,
-       "level": 2,
-       "base_sales_item_id": 40249,
-       "prices": [
-        0.0,
-        0.0,
         0.0
        ]
       }
@@ -138959,28 +138553,6 @@
        "level": 0,
        "base_sales_item_id": 40770,
        "prices": [
-        0.0,
-        0.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 40770,
-       "level": 1,
-       "base_sales_item_id": 40770,
-       "prices": [
-        0.0,
-        0.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 40770,
-       "level": 2,
-       "base_sales_item_id": 40770,
-       "prices": [
-        0.0,
-        0.0,
         0.0
        ]
       }
@@ -138994,28 +138566,6 @@
        "level": 0,
        "base_sales_item_id": 40559,
        "prices": [
-        0.0,
-        0.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 40559,
-       "level": 1,
-       "base_sales_item_id": 40559,
-       "prices": [
-        0.0,
-        0.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 40559,
-       "level": 2,
-       "base_sales_item_id": 40559,
-       "prices": [
-        0.0,
-        0.0,
         0.0
        ]
       },
@@ -139024,28 +138574,6 @@
        "level": 0,
        "base_sales_item_id": 40560,
        "prices": [
-        0.0,
-        0.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 40560,
-       "level": 1,
-       "base_sales_item_id": 40560,
-       "prices": [
-        0.0,
-        0.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 40560,
-       "level": 2,
-       "base_sales_item_id": 40560,
-       "prices": [
-        0.0,
-        0.0,
         0.0
        ]
       },
@@ -139054,28 +138582,6 @@
        "level": 0,
        "base_sales_item_id": 40561,
        "prices": [
-        0.0,
-        0.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 40561,
-       "level": 1,
-       "base_sales_item_id": 40561,
-       "prices": [
-        0.0,
-        0.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 40561,
-       "level": 2,
-       "base_sales_item_id": 40561,
-       "prices": [
-        0.0,
-        0.0,
         0.0
        ]
       },
@@ -139084,28 +138590,6 @@
        "level": 0,
        "base_sales_item_id": 40562,
        "prices": [
-        0.0,
-        0.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 40562,
-       "level": 1,
-       "base_sales_item_id": 40562,
-       "prices": [
-        0.0,
-        0.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 40562,
-       "level": 2,
-       "base_sales_item_id": 40562,
-       "prices": [
-        0.0,
-        0.0,
         0.0
        ]
       },
@@ -139114,28 +138598,6 @@
        "level": 0,
        "base_sales_item_id": 41637,
        "prices": [
-        0.0,
-        0.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 41637,
-       "level": 1,
-       "base_sales_item_id": 41637,
-       "prices": [
-        0.0,
-        0.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 41637,
-       "level": 2,
-       "base_sales_item_id": 41637,
-       "prices": [
-        0.0,
-        0.0,
         0.0
        ]
       }
@@ -139149,28 +138611,6 @@
        "level": 0,
        "base_sales_item_id": 40559,
        "prices": [
-        0.0,
-        0.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 40559,
-       "level": 1,
-       "base_sales_item_id": 40559,
-       "prices": [
-        0.0,
-        0.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 40559,
-       "level": 2,
-       "base_sales_item_id": 40559,
-       "prices": [
-        0.0,
-        0.0,
         0.0
        ]
       },
@@ -139179,28 +138619,6 @@
        "level": 0,
        "base_sales_item_id": 40560,
        "prices": [
-        0.0,
-        0.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 40560,
-       "level": 1,
-       "base_sales_item_id": 40560,
-       "prices": [
-        0.0,
-        0.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 40560,
-       "level": 2,
-       "base_sales_item_id": 40560,
-       "prices": [
-        0.0,
-        0.0,
         0.0
        ]
       },
@@ -139209,28 +138627,6 @@
        "level": 0,
        "base_sales_item_id": 40561,
        "prices": [
-        0.0,
-        0.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 40561,
-       "level": 1,
-       "base_sales_item_id": 40561,
-       "prices": [
-        0.0,
-        0.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 40561,
-       "level": 2,
-       "base_sales_item_id": 40561,
-       "prices": [
-        0.0,
-        0.0,
         0.0
        ]
       },
@@ -139239,28 +138635,6 @@
        "level": 0,
        "base_sales_item_id": 40562,
        "prices": [
-        0.0,
-        0.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 40562,
-       "level": 1,
-       "base_sales_item_id": 40562,
-       "prices": [
-        0.0,
-        0.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 40562,
-       "level": 2,
-       "base_sales_item_id": 40562,
-       "prices": [
-        0.0,
-        0.0,
         0.0
        ]
       },
@@ -139269,28 +138643,6 @@
        "level": 0,
        "base_sales_item_id": 41637,
        "prices": [
-        0.0,
-        0.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 41637,
-       "level": 1,
-       "base_sales_item_id": 41637,
-       "prices": [
-        0.0,
-        0.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 41637,
-       "level": 2,
-       "base_sales_item_id": 41637,
-       "prices": [
-        0.0,
-        0.0,
         0.0
        ]
       }
@@ -139304,28 +138656,6 @@
        "level": 0,
        "base_sales_item_id": 40559,
        "prices": [
-        0.0,
-        0.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 40559,
-       "level": 1,
-       "base_sales_item_id": 40559,
-       "prices": [
-        0.0,
-        0.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 40559,
-       "level": 2,
-       "base_sales_item_id": 40559,
-       "prices": [
-        0.0,
-        0.0,
         0.0
        ]
       },
@@ -139334,28 +138664,6 @@
        "level": 0,
        "base_sales_item_id": 40560,
        "prices": [
-        0.0,
-        0.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 40560,
-       "level": 1,
-       "base_sales_item_id": 40560,
-       "prices": [
-        0.0,
-        0.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 40560,
-       "level": 2,
-       "base_sales_item_id": 40560,
-       "prices": [
-        0.0,
-        0.0,
         0.0
        ]
       },
@@ -139364,28 +138672,6 @@
        "level": 0,
        "base_sales_item_id": 40561,
        "prices": [
-        0.0,
-        0.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 40561,
-       "level": 1,
-       "base_sales_item_id": 40561,
-       "prices": [
-        0.0,
-        0.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 40561,
-       "level": 2,
-       "base_sales_item_id": 40561,
-       "prices": [
-        0.0,
-        0.0,
         0.0
        ]
       },
@@ -139394,28 +138680,6 @@
        "level": 0,
        "base_sales_item_id": 40562,
        "prices": [
-        0.0,
-        0.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 40562,
-       "level": 1,
-       "base_sales_item_id": 40562,
-       "prices": [
-        0.0,
-        0.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 40562,
-       "level": 2,
-       "base_sales_item_id": 40562,
-       "prices": [
-        0.0,
-        0.0,
         0.0
        ]
       },
@@ -139424,28 +138688,6 @@
        "level": 0,
        "base_sales_item_id": 41637,
        "prices": [
-        0.0,
-        0.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 41637,
-       "level": 1,
-       "base_sales_item_id": 41637,
-       "prices": [
-        0.0,
-        0.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 41637,
-       "level": 2,
-       "base_sales_item_id": 41637,
-       "prices": [
-        0.0,
-        0.0,
         0.0
        ]
       }
@@ -141358,28 +140600,6 @@
        "level": 0,
        "base_sales_item_id": 40770,
        "prices": [
-        0.0,
-        0.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 40770,
-       "level": 1,
-       "base_sales_item_id": 40770,
-       "prices": [
-        0.0,
-        0.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 40770,
-       "level": 2,
-       "base_sales_item_id": 40770,
-       "prices": [
-        0.0,
-        0.0,
         0.0
        ]
       }
@@ -141393,28 +140613,6 @@
        "level": 0,
        "base_sales_item_id": 40559,
        "prices": [
-        0.0,
-        0.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 40559,
-       "level": 1,
-       "base_sales_item_id": 40559,
-       "prices": [
-        0.0,
-        0.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 40559,
-       "level": 2,
-       "base_sales_item_id": 40559,
-       "prices": [
-        0.0,
-        0.0,
         0.0
        ]
       },
@@ -141423,28 +140621,6 @@
        "level": 0,
        "base_sales_item_id": 40560,
        "prices": [
-        0.0,
-        0.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 40560,
-       "level": 1,
-       "base_sales_item_id": 40560,
-       "prices": [
-        0.0,
-        0.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 40560,
-       "level": 2,
-       "base_sales_item_id": 40560,
-       "prices": [
-        0.0,
-        0.0,
         0.0
        ]
       },
@@ -141453,28 +140629,6 @@
        "level": 0,
        "base_sales_item_id": 40561,
        "prices": [
-        0.0,
-        0.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 40561,
-       "level": 1,
-       "base_sales_item_id": 40561,
-       "prices": [
-        0.0,
-        0.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 40561,
-       "level": 2,
-       "base_sales_item_id": 40561,
-       "prices": [
-        0.0,
-        0.0,
         0.0
        ]
       },
@@ -141483,28 +140637,6 @@
        "level": 0,
        "base_sales_item_id": 40562,
        "prices": [
-        0.0,
-        0.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 40562,
-       "level": 1,
-       "base_sales_item_id": 40562,
-       "prices": [
-        0.0,
-        0.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 40562,
-       "level": 2,
-       "base_sales_item_id": 40562,
-       "prices": [
-        0.0,
-        0.0,
         0.0
        ]
       },
@@ -141513,28 +140645,6 @@
        "level": 0,
        "base_sales_item_id": 41637,
        "prices": [
-        0.0,
-        0.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 41637,
-       "level": 1,
-       "base_sales_item_id": 41637,
-       "prices": [
-        0.0,
-        0.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 41637,
-       "level": 2,
-       "base_sales_item_id": 41637,
-       "prices": [
-        0.0,
-        0.0,
         0.0
        ]
       }
@@ -141548,28 +140658,6 @@
        "level": 0,
        "base_sales_item_id": 40559,
        "prices": [
-        0.0,
-        0.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 40559,
-       "level": 1,
-       "base_sales_item_id": 40559,
-       "prices": [
-        0.0,
-        0.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 40559,
-       "level": 2,
-       "base_sales_item_id": 40559,
-       "prices": [
-        0.0,
-        0.0,
         0.0
        ]
       },
@@ -141578,28 +140666,6 @@
        "level": 0,
        "base_sales_item_id": 40560,
        "prices": [
-        0.0,
-        0.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 40560,
-       "level": 1,
-       "base_sales_item_id": 40560,
-       "prices": [
-        0.0,
-        0.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 40560,
-       "level": 2,
-       "base_sales_item_id": 40560,
-       "prices": [
-        0.0,
-        0.0,
         0.0
        ]
       },
@@ -141608,28 +140674,6 @@
        "level": 0,
        "base_sales_item_id": 40561,
        "prices": [
-        0.0,
-        0.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 40561,
-       "level": 1,
-       "base_sales_item_id": 40561,
-       "prices": [
-        0.0,
-        0.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 40561,
-       "level": 2,
-       "base_sales_item_id": 40561,
-       "prices": [
-        0.0,
-        0.0,
         0.0
        ]
       },
@@ -141638,28 +140682,6 @@
        "level": 0,
        "base_sales_item_id": 40562,
        "prices": [
-        0.0,
-        0.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 40562,
-       "level": 1,
-       "base_sales_item_id": 40562,
-       "prices": [
-        0.0,
-        0.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 40562,
-       "level": 2,
-       "base_sales_item_id": 40562,
-       "prices": [
-        0.0,
-        0.0,
         0.0
        ]
       },
@@ -141668,28 +140690,6 @@
        "level": 0,
        "base_sales_item_id": 41637,
        "prices": [
-        0.0,
-        0.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 41637,
-       "level": 1,
-       "base_sales_item_id": 41637,
-       "prices": [
-        0.0,
-        0.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 41637,
-       "level": 2,
-       "base_sales_item_id": 41637,
-       "prices": [
-        0.0,
-        0.0,
         0.0
        ]
       }
@@ -141703,28 +140703,6 @@
        "level": 0,
        "base_sales_item_id": 40559,
        "prices": [
-        0.0,
-        0.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 40559,
-       "level": 1,
-       "base_sales_item_id": 40559,
-       "prices": [
-        0.0,
-        0.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 40559,
-       "level": 2,
-       "base_sales_item_id": 40559,
-       "prices": [
-        0.0,
-        0.0,
         0.0
        ]
       },
@@ -141733,28 +140711,6 @@
        "level": 0,
        "base_sales_item_id": 40560,
        "prices": [
-        0.0,
-        0.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 40560,
-       "level": 1,
-       "base_sales_item_id": 40560,
-       "prices": [
-        0.0,
-        0.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 40560,
-       "level": 2,
-       "base_sales_item_id": 40560,
-       "prices": [
-        0.0,
-        0.0,
         0.0
        ]
       },
@@ -141763,28 +140719,6 @@
        "level": 0,
        "base_sales_item_id": 40561,
        "prices": [
-        0.0,
-        0.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 40561,
-       "level": 1,
-       "base_sales_item_id": 40561,
-       "prices": [
-        0.0,
-        0.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 40561,
-       "level": 2,
-       "base_sales_item_id": 40561,
-       "prices": [
-        0.0,
-        0.0,
         0.0
        ]
       },
@@ -141793,28 +140727,6 @@
        "level": 0,
        "base_sales_item_id": 40562,
        "prices": [
-        0.0,
-        0.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 40562,
-       "level": 1,
-       "base_sales_item_id": 40562,
-       "prices": [
-        0.0,
-        0.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 40562,
-       "level": 2,
-       "base_sales_item_id": 40562,
-       "prices": [
-        0.0,
-        0.0,
         0.0
        ]
       },
@@ -141823,28 +140735,6 @@
        "level": 0,
        "base_sales_item_id": 41637,
        "prices": [
-        0.0,
-        0.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 41637,
-       "level": 1,
-       "base_sales_item_id": 41637,
-       "prices": [
-        0.0,
-        0.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 41637,
-       "level": 2,
-       "base_sales_item_id": 41637,
-       "prices": [
-        0.0,
-        0.0,
         0.0
        ]
       }

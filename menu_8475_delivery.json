@@ -1,10 +1,10 @@
 {
  "key": "8475_delivery",
  "store_id": 8475,
- "store_name": "Griffith(Relocation)",
+ "store_name": "Griffith",
  "order_mode": "Delivery",
  "menu_id": 1001,
- "last_updated": "2024-08-21T17:25:22.1675698Z",
+ "last_updated": "2024-08-22T17:25:28.8870832Z",
  "images_category_basepath": "https://s3-ap-southeast-2.amazonaws.com/hungryjack-prod/image/category/1001/",
  "images_item_basepath": "https://s3-ap-southeast-2.amazonaws.com/hungryjack-prod/image/item/1001/",
  "images_promos_basepath": "https://s3-ap-southeast-2.amazonaws.com/hungryjack-prod/image/promo/1001/",
