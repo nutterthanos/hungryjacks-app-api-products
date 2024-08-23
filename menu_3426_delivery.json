@@ -4,7 +4,7 @@
  "store_name": "Armidale",
  "order_mode": "Delivery",
  "menu_id": 1001,
- "last_updated": "2024-08-22T17:38:40.6374752Z",
+ "last_updated": "2024-08-23T17:38:23.1474745Z",
  "images_category_basepath": "https://s3-ap-southeast-2.amazonaws.com/hungryjack-prod/image/category/1001/",
  "images_item_basepath": "https://s3-ap-southeast-2.amazonaws.com/hungryjack-prod/image/item/1001/",
  "images_promos_basepath": "https://s3-ap-southeast-2.amazonaws.com/hungryjack-prod/image/promo/1001/",
