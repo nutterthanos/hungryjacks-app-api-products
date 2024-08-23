@@ -45,15 +45,22 @@ def fetch_stores():
 
     if response.status_code == 304:
         logging.debug("No changes in stores data (304 Not Modified).")
-        return []
+        # Load store IDs from existing stores.json if the stores request returns 304
+        if os.path.exists('stores.json'):
+            with open('stores.json', 'r', encoding='utf-8') as f:
+                data = json.load(f)
+                return [store['store_id'] for store in data if 'store_id' in store]
+        else:
+            logging.error("stores.json not found, cannot proceed.")
+            return []
 
     logging.debug(f"Response status code: {response.status_code}")
     logging.debug(f"Response headers: {response.headers}")
-    logging.debug(f"Response headers: {response.text}")
+    logging.debug(f"Response text: {response.text}")
 
     if response.status_code == 200:
         etag = response.headers.get('ETag')
-        if etag:
+        if (etag):
             logging.debug(f"Storing ETag for stores: {etag}")
             etags['stores'] = etag
             save_etags(etags)
@@ -68,7 +75,7 @@ def fetch_stores():
         logging.error(f"Failed to fetch stores data: {response.status_code}")
         return []
 
-def fetch_menu(store_id):
+def fetch_menu(store_id, quit_on_304=False):
     etags = load_etags()
     menu_types = ['pickup', 'delivery']
     headers = {
@@ -92,6 +99,9 @@ def fetch_menu(store_id):
 
         if response.status_code == 304:
             logging.debug(f"No changes in {menu_type} menu data for store {store_id} (304 Not Modified).")
+            if quit_on_304:
+                logging.debug(f"Quitting after receiving 304 for first menu request.")
+                return False
             time.sleep(3)
             continue
 
@@ -111,12 +121,16 @@ def fetch_menu(store_id):
                 json.dump(data, f, ensure_ascii=False, indent=1)
         else:
             logging.error(f"Failed to fetch {menu_type} menu data for store {store_id}: {response.status_code}")
+    
+    return True
 
 def main():
     store_ids = fetch_stores()
     if store_ids:
         for store_id in store_ids:
-            fetch_menu(store_id)
+            success = fetch_menu(store_id, quit_on_304=True)
+            if not success:
+                break
 
 if __name__ == "__main__":
     main()
