@@ -41,7 +41,7 @@ def fetch_stores():
         logging.debug(f"Using ETag for stores: {etags['stores']}")
 
     logging.debug(f"Sending request to {list_stores_url} with headers: {headers}")
-    response = requests.get(list_stores_url, headers=headers)
+    response = requests.get(list_stores_url, headers=headers, verify=False)
 
     if response.status_code == 304:
         logging.debug("No changes in stores data (304 Not Modified).")
@@ -95,7 +95,7 @@ def fetch_menu(store_id, quit_on_304=False):
             logging.debug(f"Using ETag for {menu_type} menu of store {store_id}: {etags[etag_key]}")
 
         logging.debug(f"Sending request to {url} with headers: {headers}")
-        response = requests.get(url, headers=headers)
+        response = requests.get(url, headers=headers, verify=False)
 
         if response.status_code == 304:
             logging.debug(f"No changes in {menu_type} menu data for store {store_id} (304 Not Modified).")
