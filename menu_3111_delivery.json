@@ -4,7 +4,7 @@
  "store_name": "Balga",
  "order_mode": "Delivery",
  "menu_id": 1001,
- "last_updated": "2024-08-24T17:23:36.0630821Z",
+ "last_updated": "2024-08-25T17:23:32.0056004Z",
  "images_category_basepath": "https://s3-ap-southeast-2.amazonaws.com/hungryjack-prod/image/category/1001/",
  "images_item_basepath": "https://s3-ap-southeast-2.amazonaws.com/hungryjack-prod/image/item/1001/",
  "images_promos_basepath": "https://s3-ap-southeast-2.amazonaws.com/hungryjack-prod/image/promo/1001/",
