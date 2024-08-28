@@ -4,7 +4,7 @@
  "store_name": "Perth Virgin",
  "order_mode": "Delivery",
  "menu_id": 1001,
- "last_updated": "2024-08-26T17:40:13.0265451Z",
+ "last_updated": "2024-08-27T17:40:36.9244262Z",
  "images_category_basepath": "https://s3-ap-southeast-2.amazonaws.com/hungryjack-prod/image/category/1001/",
  "images_item_basepath": "https://s3-ap-southeast-2.amazonaws.com/hungryjack-prod/image/item/1001/",
  "images_promos_basepath": "https://s3-ap-southeast-2.amazonaws.com/hungryjack-prod/image/promo/1001/",
@@ -76,7 +76,7 @@
    "name": "What's New",
    "category_id": 53,
    "banner_text": "What's New",
-   "banner_link": "/product/2427",
+   "banner_link": "na",
    "banner_image_large": "banner_53.png",
    "banner_image_small": "banner_53_small.png",
    "image": "submenu_53.png",
@@ -13377,7 +13377,7 @@
   {
    "menu_item_id": 32807,
    "parent_menu_id": 1001,
-   "name": "5 Jack's Fried Chicken Southern Tenders",
+   "name": "5 Jack's Fried Chicken Southern Style Tenders",
    "image": "8834/0.png",
    "thumb": "8834/0_thumb.png",
    "image_banner": "8834_banner.png",
@@ -13455,7 +13455,7 @@
   {
    "menu_item_id": 32808,
    "parent_menu_id": 1001,
-   "name": "3 Jack's Fried Chicken Southern Tenders",
+   "name": "3 Jack's Fried Chicken Southern Style Tenders",
    "image": "8830/0.png",
    "thumb": "8830/0_thumb.png",
    "image_banner": "8830_banner.png",
@@ -38680,7 +38680,7 @@
   {
    "menu_item_id": 32768,
    "parent_menu_id": 1001,
-   "name": "3 Jack's Fried Chicken Southern Styler Tenders Medium",
+   "name": "3 Jack's Fried Chicken Southern Style Tenders Medium",
    "image": "8831/0.png",
    "thumb": "8831/0_thumb.png",
    "image_banner": "8831_banner.png",
@@ -38914,7 +38914,7 @@
   {
    "menu_item_id": 32769,
    "parent_menu_id": 1001,
-   "name": "3 Jack's Fried Chicken Southern Styler Tenders Large",
+   "name": "3 Jack's Fried Chicken Southern Style Tenders Large",
    "image": "8832/0.png",
    "thumb": "8832/0_thumb.png",
    "image_banner": "8832_banner.png",
@@ -39221,7 +39221,7 @@
   {
    "menu_item_id": 32771,
    "parent_menu_id": 1001,
-   "name": "5 Jack's Fried Chicken Southern Styler Tenders Medium",
+   "name": "5 Jack's Fried Chicken Southern Style Tenders Medium",
    "image": "8835/0.png",
    "thumb": "8835/0_thumb.png",
    "image_banner": "8835_banner.png",
@@ -39455,7 +39455,7 @@
   {
    "menu_item_id": 32772,
    "parent_menu_id": 1001,
-   "name": "5 Jack's Fried Chicken Southern Styler Tenders Large",
+   "name": "5 Jack's Fried Chicken Southern Style Tenders Large",
    "image": "8836/0.png",
    "thumb": "8836/0_thumb.png",
    "image_banner": "8836_banner.png",
@@ -39684,7 +39684,7 @@
   {
    "menu_item_id": 32795,
    "parent_menu_id": 1001,
-   "name": "Jack's Fried Chicken Southern Style Tenders Mega Feast Small",
+   "name": "Southern Style Tenders Mega Bundle Small",
    "image": "6062/0.png",
    "thumb": "6062/0_thumb.png",
    "image_banner": "6062_banner.png",
@@ -40098,7 +40098,7 @@
   {
    "menu_item_id": 32796,
    "parent_menu_id": 1001,
-   "name": "Jack's Fried Chicken Southern Style Tenders Mega Feast Large",
+   "name": "Southern Style Tenders Mega Bundle Large",
    "image": "6063/0.png",
    "thumb": "6063/0_thumb.png",
    "image_banner": "6063_banner.png",
@@ -40512,7 +40512,7 @@
   {
    "menu_item_id": 32802,
    "parent_menu_id": 1001,
-   "name": "3 Jack's Frled Chicken Southern Style Tenders",
+   "name": "3 Jack's Fried Chicken Southern Style Tenders",
    "image": "8830/0.png",
    "thumb": "8830/0_thumb.png",
    "image_banner": "8830_banner.png",
@@ -40590,7 +40590,7 @@
   {
    "menu_item_id": 32803,
    "parent_menu_id": 1001,
-   "name": "3 Jack's Fried Chicken Southern Styler Tenders Small",
+   "name": "3 Jack's Fried Chicken Southern Style Tenders Small",
    "image": "8837/0.png",
    "thumb": "8837/0_thumb.png",
    "image_banner": "8837_banner.png",
@@ -40824,7 +40824,7 @@
   {
    "menu_item_id": 32804,
    "parent_menu_id": 1001,
-   "name": "5 Jack's Fried Chicken Southern Styler Tenders Small",
+   "name": "5 Jack's Fried Chicken Southern Style Tenders Small",
    "image": "8838/0.png",
    "thumb": "8838/0_thumb.png",
    "image_banner": "8838_banner.png",
