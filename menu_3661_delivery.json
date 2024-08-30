@@ -4,11 +4,11 @@
  "store_name": "Nambour",
  "order_mode": "Delivery",
  "menu_id": 1001,
- "last_updated": "2024-08-27T17:31:30.8695216Z",
+ "last_updated": "2024-08-28T17:31:02.8681233Z",
  "images_category_basepath": "https://s3-ap-southeast-2.amazonaws.com/hungryjack-prod/image/category/1001/",
  "images_item_basepath": "https://s3-ap-southeast-2.amazonaws.com/hungryjack-prod/image/item/1001/",
  "images_promos_basepath": "https://s3-ap-southeast-2.amazonaws.com/hungryjack-prod/image/promo/1001/",
- "ordering_enabled": false,
+ "ordering_enabled": true,
  "additional_fees": {
   "delivery": 5.95
  },
