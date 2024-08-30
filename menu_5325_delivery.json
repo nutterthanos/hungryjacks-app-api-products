@@ -4,7 +4,7 @@
  "store_name": "Michaels",
  "order_mode": "Delivery",
  "menu_id": 1001,
- "last_updated": "2024-08-28T18:07:20.8879571Z",
+ "last_updated": "2024-08-29T18:07:26.0297986Z",
  "images_category_basepath": "https://s3-ap-southeast-2.amazonaws.com/hungryjack-prod/image/category/1001/",
  "images_item_basepath": "https://s3-ap-southeast-2.amazonaws.com/hungryjack-prod/image/item/1001/",
  "images_promos_basepath": "https://s3-ap-southeast-2.amazonaws.com/hungryjack-prod/image/promo/1001/",
@@ -39425,11 +39425,11 @@
    "menu_item_id": 32729,
    "parent_menu_id": 1001,
    "name": "Medium Family Bundle",
-   "image": "4177/2.png",
-   "thumb": "4177/2_thumb.png",
+   "image": "4177/0.png",
+   "thumb": "4177/0_thumb.png",
    "image_banner": "4177_banner.png",
    "image_mobile": "4177_mobile.png",
-   "option_name": "Large Meal",
+   "option_name": "Small Meal",
    "default_sales_item_ids": [
     40057,
     40057,
@@ -39586,7 +39586,7 @@
     40297
    ],
    "base_menu_item_id": 32729,
-   "combo_level": 2,
+   "combo_level": 0,
    "promo_id": 4177,
    "pos_item_id": null,
    "combo_next_level_diff_price": null,
@@ -40263,851 +40263,7 @@
     }
    ],
    "default_price": 39.95,
-   "is_visible": false
-  },
-  {
-   "menu_item_id": 32729,
-   "parent_menu_id": 1001,
-   "name": "Medium Family Bundle",
-   "image": "4177/1.png",
-   "thumb": "4177/1_thumb.png",
-   "image_banner": "4177_banner.png",
-   "image_mobile": "4177_mobile.png",
-   "option_name": "Medium Meal",
-   "default_sales_item_ids": [
-    40057,
-    40057,
-    40186,
-    40186,
-    41176,
-    40948,
-    40002,
-    40002,
-    40002,
-    40002
-   ],
-   "description": "Treat the family and enjoy two 100% Aussie beef flame-grilled Whoppers®, two Cheeseburgers, ten crispy golden nuggets made with 100% chicken breast + two ketchup sauces, four medium thick cut chips and four medium soft drinks.",
-   "sales_item_ids": [
-    40057,
-    40685,
-    40189,
-    40219,
-    41049,
-    40205,
-    41431,
-    41434,
-    40207,
-    40199,
-    40568,
-    41442,
-    41514,
-    41515,
-    40057,
-    40685,
-    40189,
-    40219,
-    41049,
-    40205,
-    41431,
-    41434,
-    40207,
-    40199,
-    40568,
-    41442,
-    41514,
-    41515,
-    40186,
-    40201,
-    40191,
-    40186,
-    40201,
-    40191,
-    41176,
-    40948,
-    40002,
-    41678,
-    40270,
-    40259,
-    40263,
-    40501,
-    40282,
-    40273,
-    40276,
-    40279,
-    40297,
-    41707,
-    40330,
-    40336,
-    40332,
-    40335,
-    40338,
-    41862,
-    40340,
-    41039,
-    40988,
-    41260,
-    41041,
-    41407,
-    41037,
-    41673,
-    40002,
-    41678,
-    40270,
-    40259,
-    40263,
-    40501,
-    40282,
-    40273,
-    40276,
-    40279,
-    40297,
-    41707,
-    40330,
-    40336,
-    40332,
-    40335,
-    40338,
-    40340,
-    41862,
-    41260,
-    41039,
-    40988,
-    41041,
-    41407,
-    41037,
-    41673,
-    40002,
-    41678,
-    40270,
-    40259,
-    40263,
-    40501,
-    40282,
-    40273,
-    40276,
-    41707,
-    40330,
-    40336,
-    40332,
-    40338,
-    40335,
-    41862,
-    40340,
-    41039,
-    40988,
-    41260,
-    41041,
-    41407,
-    41673,
-    41037,
-    40279,
-    40297,
-    40002,
-    41678,
-    40270,
-    40259,
-    40263,
-    40501,
-    40282,
-    40273,
-    40276,
-    41707,
-    40336,
-    40338,
-    40332,
-    40330,
-    40335,
-    41862,
-    40340,
-    41039,
-    40988,
-    41260,
-    41041,
-    41407,
-    41673,
-    41037,
-    40279,
-    40297
-   ],
-   "base_menu_item_id": 32729,
-   "combo_level": 1,
-   "promo_id": 4177,
-   "pos_item_id": null,
-   "combo_next_level_diff_price": 0.0,
-   "sales_groups": [
-    {
-     "menu_item_id": 32729,
-     "sales_group_id": 0,
-     "name": "Burger 1",
-     "component_id": 1,
-     "sales_item_ids": [
-      {
-       "id": 40057,
-       "diff": 0.0
-      },
-      {
-       "id": 40685,
-       "diff": 0.0
-      },
-      {
-       "id": 40189,
-       "diff": 1.25
-      },
-      {
-       "id": 40219,
-       "diff": 5.5
-      },
-      {
-       "id": 41049,
-       "diff": 0.0
-      },
-      {
-       "id": 40205,
-       "diff": 1.0
-      },
-      {
-       "id": 41431,
-       "diff": 2.2
-      },
-      {
-       "id": 41434,
-       "diff": 4.2
-      },
-      {
-       "id": 40207,
-       "diff": 4.0
-      },
-      {
-       "id": 40199,
-       "diff": 3.5
-      },
-      {
-       "id": 40568,
-       "diff": 7.0
-      },
-      {
-       "id": 41442,
-       "diff": 4.3
-      },
-      {
-       "id": 41514,
-       "diff": 4.85
-      },
-      {
-       "id": 41515,
-       "diff": 8.85
-      }
-     ],
-     "default_sales_item_id": 40057,
-     "ranking": 0,
-     "is_visible": true
-    },
-    {
-     "menu_item_id": 32729,
-     "sales_group_id": 0,
-     "name": "Burger 2",
-     "component_id": 2,
-     "sales_item_ids": [
-      {
-       "id": 40057,
-       "diff": 0.0
-      },
-      {
-       "id": 40685,
-       "diff": 0.0
-      },
-      {
-       "id": 40189,
-       "diff": 1.25
-      },
-      {
-       "id": 40219,
-       "diff": 5.5
-      },
-      {
-       "id": 41049,
-       "diff": 0.0
-      },
-      {
-       "id": 40205,
-       "diff": 1.0
-      },
-      {
-       "id": 41431,
-       "diff": 2.2
-      },
-      {
-       "id": 41434,
-       "diff": 4.2
-      },
-      {
-       "id": 40207,
-       "diff": 4.0
-      },
-      {
-       "id": 40199,
-       "diff": 3.5
-      },
-      {
-       "id": 40568,
-       "diff": 7.0
-      },
-      {
-       "id": 41442,
-       "diff": 4.3
-      },
-      {
-       "id": 41514,
-       "diff": 4.85
-      },
-      {
-       "id": 41515,
-       "diff": 8.85
-      }
-     ],
-     "default_sales_item_id": 40057,
-     "ranking": 0,
-     "is_visible": true
-    },
-    {
-     "menu_item_id": 32729,
-     "sales_group_id": 0,
-     "name": "Burger 3",
-     "component_id": 3,
-     "sales_item_ids": [
-      {
-       "id": 40186,
-       "diff": 0.0
-      },
-      {
-       "id": 40201,
-       "diff": 1.0
-      },
-      {
-       "id": 40191,
-       "diff": 2.5
-      }
-     ],
-     "default_sales_item_id": 40186,
-     "ranking": 0,
-     "is_visible": true
-    },
-    {
-     "menu_item_id": 32729,
-     "sales_group_id": 0,
-     "name": "Burger 4",
-     "component_id": 4,
-     "sales_item_ids": [
-      {
-       "id": 40186,
-       "diff": 0.0
-      },
-      {
-       "id": 40201,
-       "diff": 1.0
-      },
-      {
-       "id": 40191,
-       "diff": 2.5
-      }
-     ],
-     "default_sales_item_id": 40186,
-     "ranking": 0,
-     "is_visible": true
-    },
-    {
-     "menu_item_id": 32729,
-     "sales_group_id": 0,
-     "name": "4 Chips",
-     "component_id": 5,
-     "sales_item_ids": [
-      {
-       "id": 41176,
-       "diff": 0.0
-      }
-     ],
-     "default_sales_item_id": 41176,
-     "ranking": 0,
-     "is_visible": true
-    },
-    {
-     "menu_item_id": 32729,
-     "sales_group_id": 0,
-     "name": "10 Nuggets",
-     "component_id": 6,
-     "sales_item_ids": [
-      {
-       "id": 40948,
-       "diff": 0.0
-      }
-     ],
-     "default_sales_item_id": 40948,
-     "ranking": 0,
-     "is_visible": true
-    },
-    {
-     "menu_item_id": 32729,
-     "sales_group_id": 0,
-     "name": "Medium Drink 1",
-     "component_id": 7,
-     "sales_item_ids": [
-      {
-       "id": 40002,
-       "diff": 0.0
-      },
-      {
-       "id": 41678,
-       "diff": 0.0
-      },
-      {
-       "id": 40270,
-       "diff": 0.0
-      },
-      {
-       "id": 40259,
-       "diff": 0.0
-      },
-      {
-       "id": 40263,
-       "diff": 0.0
-      },
-      {
-       "id": 40501,
-       "diff": 0.0
-      },
-      {
-       "id": 40282,
-       "diff": 0.6
-      },
-      {
-       "id": 40273,
-       "diff": 1.0
-      },
-      {
-       "id": 40276,
-       "diff": 1.0
-      },
-      {
-       "id": 40279,
-       "diff": 1.0
-      },
-      {
-       "id": 40297,
-       "diff": 1.0
-      },
-      {
-       "id": 41707,
-       "diff": 2.0
-      },
-      {
-       "id": 40330,
-       "diff": 1.0
-      },
-      {
-       "id": 40336,
-       "diff": 1.0
-      },
-      {
-       "id": 40332,
-       "diff": 1.0
-      },
-      {
-       "id": 40335,
-       "diff": 1.0
-      },
-      {
-       "id": 40338,
-       "diff": 1.0
-      },
-      {
-       "id": 41862,
-       "diff": 1.45
-      },
-      {
-       "id": 40340,
-       "diff": 1.0
-      },
-      {
-       "id": 41039,
-       "diff": 2.0
-      },
-      {
-       "id": 40988,
-       "diff": 1.0
-      },
-      {
-       "id": 41260,
-       "diff": 2.0
-      },
-      {
-       "id": 41041,
-       "diff": 1.0
-      },
-      {
-       "id": 41407,
-       "diff": 1.0
-      },
-      {
-       "id": 41037,
-       "diff": 1.0
-      },
-      {
-       "id": 41673,
-       "diff": 2.0
-      }
-     ],
-     "default_sales_item_id": 40002,
-     "ranking": 0,
-     "is_visible": true
-    },
-    {
-     "menu_item_id": 32729,
-     "sales_group_id": 0,
-     "name": "Medium Drink 2",
-     "component_id": 8,
-     "sales_item_ids": [
-      {
-       "id": 40002,
-       "diff": 0.0
-      },
-      {
-       "id": 41678,
-       "diff": 0.0
-      },
-      {
-       "id": 40270,
-       "diff": 0.0
-      },
-      {
-       "id": 40259,
-       "diff": 0.0
-      },
-      {
-       "id": 40263,
-       "diff": 0.0
-      },
-      {
-       "id": 40501,
-       "diff": 0.0
-      },
-      {
-       "id": 40282,
-       "diff": 0.6
-      },
-      {
-       "id": 40273,
-       "diff": 1.0
-      },
-      {
-       "id": 40276,
-       "diff": 1.0
-      },
-      {
-       "id": 40279,
-       "diff": 1.0
-      },
-      {
-       "id": 40297,
-       "diff": 1.0
-      },
-      {
-       "id": 41707,
-       "diff": 2.0
-      },
-      {
-       "id": 40330,
-       "diff": 1.0
-      },
-      {
-       "id": 40336,
-       "diff": 1.0
-      },
-      {
-       "id": 40332,
-       "diff": 1.0
-      },
-      {
-       "id": 40335,
-       "diff": 1.0
-      },
-      {
-       "id": 40338,
-       "diff": 1.0
-      },
-      {
-       "id": 40340,
-       "diff": 1.0
-      },
-      {
-       "id": 41862,
-       "diff": 1.45
-      },
-      {
-       "id": 41260,
-       "diff": 2.0
-      },
-      {
-       "id": 41039,
-       "diff": 2.0
-      },
-      {
-       "id": 40988,
-       "diff": 1.0
-      },
-      {
-       "id": 41041,
-       "diff": 1.0
-      },
-      {
-       "id": 41407,
-       "diff": 1.0
-      },
-      {
-       "id": 41037,
-       "diff": 1.0
-      },
-      {
-       "id": 41673,
-       "diff": 2.0
-      }
-     ],
-     "default_sales_item_id": 40002,
-     "ranking": 0,
-     "is_visible": true
-    },
-    {
-     "menu_item_id": 32729,
-     "sales_group_id": 0,
-     "name": "Medium Drink 3",
-     "component_id": 9,
-     "sales_item_ids": [
-      {
-       "id": 40002,
-       "diff": 0.0
-      },
-      {
-       "id": 41678,
-       "diff": 0.0
-      },
-      {
-       "id": 40270,
-       "diff": 0.0
-      },
-      {
-       "id": 40259,
-       "diff": 0.0
-      },
-      {
-       "id": 40263,
-       "diff": 0.0
-      },
-      {
-       "id": 40501,
-       "diff": 0.0
-      },
-      {
-       "id": 40282,
-       "diff": 0.6
-      },
-      {
-       "id": 40273,
-       "diff": 1.0
-      },
-      {
-       "id": 40276,
-       "diff": 1.0
-      },
-      {
-       "id": 41707,
-       "diff": 2.0
-      },
-      {
-       "id": 40330,
-       "diff": 1.0
-      },
-      {
-       "id": 40336,
-       "diff": 1.0
-      },
-      {
-       "id": 40332,
-       "diff": 1.0
-      },
-      {
-       "id": 40338,
-       "diff": 1.0
-      },
-      {
-       "id": 40335,
-       "diff": 1.0
-      },
-      {
-       "id": 41862,
-       "diff": 1.45
-      },
-      {
-       "id": 40340,
-       "diff": 1.0
-      },
-      {
-       "id": 41039,
-       "diff": 2.0
-      },
-      {
-       "id": 40988,
-       "diff": 1.0
-      },
-      {
-       "id": 41260,
-       "diff": 2.0
-      },
-      {
-       "id": 41041,
-       "diff": 1.0
-      },
-      {
-       "id": 41407,
-       "diff": 1.0
-      },
-      {
-       "id": 41673,
-       "diff": 2.0
-      },
-      {
-       "id": 41037,
-       "diff": 1.0
-      },
-      {
-       "id": 40279,
-       "diff": 1.0
-      },
-      {
-       "id": 40297,
-       "diff": 1.0
-      }
-     ],
-     "default_sales_item_id": 40002,
-     "ranking": 0,
-     "is_visible": true
-    },
-    {
-     "menu_item_id": 32729,
-     "sales_group_id": 0,
-     "name": "Medium Drink 4",
-     "component_id": 10,
-     "sales_item_ids": [
-      {
-       "id": 40002,
-       "diff": 0.0
-      },
-      {
-       "id": 41678,
-       "diff": 0.0
-      },
-      {
-       "id": 40270,
-       "diff": 0.0
-      },
-      {
-       "id": 40259,
-       "diff": 0.0
-      },
-      {
-       "id": 40263,
-       "diff": 0.0
-      },
-      {
-       "id": 40501,
-       "diff": 0.0
-      },
-      {
-       "id": 40282,
-       "diff": 0.6
-      },
-      {
-       "id": 40273,
-       "diff": 1.0
-      },
-      {
-       "id": 40276,
-       "diff": 1.0
-      },
-      {
-       "id": 41707,
-       "diff": 2.0
-      },
-      {
-       "id": 40336,
-       "diff": 1.0
-      },
-      {
-       "id": 40338,
-       "diff": 1.0
-      },
-      {
-       "id": 40332,
-       "diff": 1.0
-      },
-      {
-       "id": 40330,
-       "diff": 1.0
-      },
-      {
-       "id": 40335,
-       "diff": 1.0
-      },
-      {
-       "id": 41862,
-       "diff": 1.45
-      },
-      {
-       "id": 40340,
-       "diff": 1.0
-      },
-      {
-       "id": 41039,
-       "diff": 2.0
-      },
-      {
-       "id": 40988,
-       "diff": 1.0
-      },
-      {
-       "id": 41260,
-       "diff": 2.0
-      },
-      {
-       "id": 41041,
-       "diff": 1.0
-      },
-      {
-       "id": 41407,
-       "diff": 1.0
-      },
-      {
-       "id": 41673,
-       "diff": 2.0
-      },
-      {
-       "id": 41037,
-       "diff": 1.0
-      },
-      {
-       "id": 40279,
-       "diff": 1.0
-      },
-      {
-       "id": 40297,
-       "diff": 1.0
-      }
-     ],
-     "default_sales_item_id": 40002,
-     "ranking": 0,
-     "is_visible": true
-    }
-   ],
-   "default_price": 39.95,
-   "is_visible": false
+   "is_visible": true
   },
   {
    "menu_item_id": 32730,
@@ -175234,28 +174390,6 @@
        "level": 0,
        "base_sales_item_id": 40057,
        "prices": [
-        0.0,
-        0.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 40057,
-       "level": 1,
-       "base_sales_item_id": 40057,
-       "prices": [
-        0.0,
-        0.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 40057,
-       "level": 2,
-       "base_sales_item_id": 40057,
-       "prices": [
-        0.0,
-        0.0,
         0.0
        ]
       },
@@ -175264,28 +174398,6 @@
        "level": 0,
        "base_sales_item_id": 40685,
        "prices": [
-        0.0,
-        0.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 40685,
-       "level": 1,
-       "base_sales_item_id": 40685,
-       "prices": [
-        0.0,
-        0.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 40685,
-       "level": 2,
-       "base_sales_item_id": 40685,
-       "prices": [
-        0.0,
-        0.0,
         0.0
        ]
       },
@@ -175294,28 +174406,6 @@
        "level": 0,
        "base_sales_item_id": 40189,
        "prices": [
-        1.25,
-        0.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 40189,
-       "level": 1,
-       "base_sales_item_id": 40189,
-       "prices": [
-        1.25,
-        1.25,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 40189,
-       "level": 2,
-       "base_sales_item_id": 40189,
-       "prices": [
-        1.25,
-        1.25,
         1.25
        ]
       },
@@ -175324,28 +174414,6 @@
        "level": 0,
        "base_sales_item_id": 40219,
        "prices": [
-        5.5,
-        0.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 40219,
-       "level": 1,
-       "base_sales_item_id": 40219,
-       "prices": [
-        5.5,
-        5.5,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 40219,
-       "level": 2,
-       "base_sales_item_id": 40219,
-       "prices": [
-        5.5,
-        5.5,
         5.5
        ]
       },
@@ -175354,28 +174422,6 @@
        "level": 0,
        "base_sales_item_id": 41049,
        "prices": [
-        0.0,
-        0.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 41049,
-       "level": 1,
-       "base_sales_item_id": 41049,
-       "prices": [
-        0.0,
-        0.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 41049,
-       "level": 2,
-       "base_sales_item_id": 41049,
-       "prices": [
-        0.0,
-        0.0,
         0.0
        ]
       },
@@ -175384,28 +174430,6 @@
        "level": 0,
        "base_sales_item_id": 40205,
        "prices": [
-        1.0,
-        0.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 40205,
-       "level": 1,
-       "base_sales_item_id": 40205,
-       "prices": [
-        1.0,
-        1.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 40205,
-       "level": 2,
-       "base_sales_item_id": 40205,
-       "prices": [
-        1.0,
-        1.0,
         1.0
        ]
       },
@@ -175414,28 +174438,6 @@
        "level": 0,
        "base_sales_item_id": 41431,
        "prices": [
-        2.2,
-        0.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 41431,
-       "level": 1,
-       "base_sales_item_id": 41431,
-       "prices": [
-        2.2,
-        2.2,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 41431,
-       "level": 2,
-       "base_sales_item_id": 41431,
-       "prices": [
-        2.2,
-        2.2,
         2.2
        ]
       },
@@ -175444,28 +174446,6 @@
        "level": 0,
        "base_sales_item_id": 41434,
        "prices": [
-        4.2,
-        0.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 41434,
-       "level": 1,
-       "base_sales_item_id": 41434,
-       "prices": [
-        4.2,
-        4.2,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 41434,
-       "level": 2,
-       "base_sales_item_id": 41434,
-       "prices": [
-        4.2,
-        4.2,
         4.2
        ]
       },
@@ -175474,28 +174454,6 @@
        "level": 0,
        "base_sales_item_id": 40207,
        "prices": [
-        4.0,
-        0.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 40207,
-       "level": 1,
-       "base_sales_item_id": 40207,
-       "prices": [
-        4.0,
-        4.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 40207,
-       "level": 2,
-       "base_sales_item_id": 40207,
-       "prices": [
-        4.0,
-        4.0,
         4.0
        ]
       },
@@ -175504,28 +174462,6 @@
        "level": 0,
        "base_sales_item_id": 40199,
        "prices": [
-        3.5,
-        0.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 40199,
-       "level": 1,
-       "base_sales_item_id": 40199,
-       "prices": [
-        3.5,
-        3.5,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 40199,
-       "level": 2,
-       "base_sales_item_id": 40199,
-       "prices": [
-        3.5,
-        3.5,
         3.5
        ]
       },
@@ -175534,28 +174470,6 @@
        "level": 0,
        "base_sales_item_id": 40568,
        "prices": [
-        7.0,
-        0.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 40568,
-       "level": 1,
-       "base_sales_item_id": 40568,
-       "prices": [
-        7.0,
-        7.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 40568,
-       "level": 2,
-       "base_sales_item_id": 40568,
-       "prices": [
-        7.0,
-        7.0,
         7.0
        ]
       },
@@ -175564,28 +174478,6 @@
        "level": 0,
        "base_sales_item_id": 41442,
        "prices": [
-        4.3,
-        0.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 41442,
-       "level": 1,
-       "base_sales_item_id": 41442,
-       "prices": [
-        4.3,
-        4.3,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 41442,
-       "level": 2,
-       "base_sales_item_id": 41442,
-       "prices": [
-        4.3,
-        4.3,
         4.3
        ]
       },
@@ -175594,28 +174486,6 @@
        "level": 0,
        "base_sales_item_id": 41514,
        "prices": [
-        4.85,
-        0.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 41514,
-       "level": 1,
-       "base_sales_item_id": 41514,
-       "prices": [
-        4.85,
-        4.85,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 41514,
-       "level": 2,
-       "base_sales_item_id": 41514,
-       "prices": [
-        4.85,
-        4.85,
         4.85
        ]
       },
@@ -175624,28 +174494,6 @@
        "level": 0,
        "base_sales_item_id": 41515,
        "prices": [
-        8.85,
-        0.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 41515,
-       "level": 1,
-       "base_sales_item_id": 41515,
-       "prices": [
-        8.85,
-        8.85,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 41515,
-       "level": 2,
-       "base_sales_item_id": 41515,
-       "prices": [
-        8.85,
-        8.85,
         8.85
        ]
       }
@@ -175659,28 +174507,6 @@
        "level": 0,
        "base_sales_item_id": 40057,
        "prices": [
-        0.0,
-        0.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 40057,
-       "level": 1,
-       "base_sales_item_id": 40057,
-       "prices": [
-        0.0,
-        0.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 40057,
-       "level": 2,
-       "base_sales_item_id": 40057,
-       "prices": [
-        0.0,
-        0.0,
         0.0
        ]
       },
@@ -175689,28 +174515,6 @@
        "level": 0,
        "base_sales_item_id": 40685,
        "prices": [
-        0.0,
-        0.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 40685,
-       "level": 1,
-       "base_sales_item_id": 40685,
-       "prices": [
-        0.0,
-        0.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 40685,
-       "level": 2,
-       "base_sales_item_id": 40685,
-       "prices": [
-        0.0,
-        0.0,
         0.0
        ]
       },
@@ -175719,28 +174523,6 @@
        "level": 0,
        "base_sales_item_id": 40189,
        "prices": [
-        1.25,
-        0.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 40189,
-       "level": 1,
-       "base_sales_item_id": 40189,
-       "prices": [
-        1.25,
-        1.25,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 40189,
-       "level": 2,
-       "base_sales_item_id": 40189,
-       "prices": [
-        1.25,
-        1.25,
         1.25
        ]
       },
@@ -175749,28 +174531,6 @@
        "level": 0,
        "base_sales_item_id": 40219,
        "prices": [
-        5.5,
-        0.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 40219,
-       "level": 1,
-       "base_sales_item_id": 40219,
-       "prices": [
-        5.5,
-        5.5,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 40219,
-       "level": 2,
-       "base_sales_item_id": 40219,
-       "prices": [
-        5.5,
-        5.5,
         5.5
        ]
       },
@@ -175779,28 +174539,6 @@
        "level": 0,
        "base_sales_item_id": 41049,
        "prices": [
-        0.0,
-        0.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 41049,
-       "level": 1,
-       "base_sales_item_id": 41049,
-       "prices": [
-        0.0,
-        0.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 41049,
-       "level": 2,
-       "base_sales_item_id": 41049,
-       "prices": [
-        0.0,
-        0.0,
         0.0
        ]
       },
@@ -175809,28 +174547,6 @@
        "level": 0,
        "base_sales_item_id": 40205,
        "prices": [
-        1.0,
-        0.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 40205,
-       "level": 1,
-       "base_sales_item_id": 40205,
-       "prices": [
-        1.0,
-        1.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 40205,
-       "level": 2,
-       "base_sales_item_id": 40205,
-       "prices": [
-        1.0,
-        1.0,
         1.0
        ]
       },
@@ -175839,28 +174555,6 @@
        "level": 0,
        "base_sales_item_id": 41431,
        "prices": [
-        2.2,
-        0.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 41431,
-       "level": 1,
-       "base_sales_item_id": 41431,
-       "prices": [
-        2.2,
-        2.2,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 41431,
-       "level": 2,
-       "base_sales_item_id": 41431,
-       "prices": [
-        2.2,
-        2.2,
         2.2
        ]
       },
@@ -175869,28 +174563,6 @@
        "level": 0,
        "base_sales_item_id": 41434,
        "prices": [
-        4.2,
-        0.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 41434,
-       "level": 1,
-       "base_sales_item_id": 41434,
-       "prices": [
-        4.2,
-        4.2,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 41434,
-       "level": 2,
-       "base_sales_item_id": 41434,
-       "prices": [
-        4.2,
-        4.2,
         4.2
        ]
       },
@@ -175899,28 +174571,6 @@
        "level": 0,
        "base_sales_item_id": 40207,
        "prices": [
-        4.0,
-        0.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 40207,
-       "level": 1,
-       "base_sales_item_id": 40207,
-       "prices": [
-        4.0,
-        4.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 40207,
-       "level": 2,
-       "base_sales_item_id": 40207,
-       "prices": [
-        4.0,
-        4.0,
         4.0
        ]
       },
@@ -175929,28 +174579,6 @@
        "level": 0,
        "base_sales_item_id": 40199,
        "prices": [
-        3.5,
-        0.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 40199,
-       "level": 1,
-       "base_sales_item_id": 40199,
-       "prices": [
-        3.5,
-        3.5,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 40199,
-       "level": 2,
-       "base_sales_item_id": 40199,
-       "prices": [
-        3.5,
-        3.5,
         3.5
        ]
       },
@@ -175959,28 +174587,6 @@
        "level": 0,
        "base_sales_item_id": 40568,
        "prices": [
-        7.0,
-        0.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 40568,
-       "level": 1,
-       "base_sales_item_id": 40568,
-       "prices": [
-        7.0,
-        7.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 40568,
-       "level": 2,
-       "base_sales_item_id": 40568,
-       "prices": [
-        7.0,
-        7.0,
         7.0
        ]
       },
@@ -175989,28 +174595,6 @@
        "level": 0,
        "base_sales_item_id": 41442,
        "prices": [
-        4.3,
-        0.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 41442,
-       "level": 1,
-       "base_sales_item_id": 41442,
-       "prices": [
-        4.3,
-        4.3,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 41442,
-       "level": 2,
-       "base_sales_item_id": 41442,
-       "prices": [
-        4.3,
-        4.3,
         4.3
        ]
       },
@@ -176019,28 +174603,6 @@
        "level": 0,
        "base_sales_item_id": 41514,
        "prices": [
-        4.85,
-        0.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 41514,
-       "level": 1,
-       "base_sales_item_id": 41514,
-       "prices": [
-        4.85,
-        4.85,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 41514,
-       "level": 2,
-       "base_sales_item_id": 41514,
-       "prices": [
-        4.85,
-        4.85,
         4.85
        ]
       },
@@ -176049,28 +174611,6 @@
        "level": 0,
        "base_sales_item_id": 41515,
        "prices": [
-        8.85,
-        0.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 41515,
-       "level": 1,
-       "base_sales_item_id": 41515,
-       "prices": [
-        8.85,
-        8.85,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 41515,
-       "level": 2,
-       "base_sales_item_id": 41515,
-       "prices": [
-        8.85,
-        8.85,
         8.85
        ]
       }
@@ -176084,28 +174624,6 @@
        "level": 0,
        "base_sales_item_id": 40186,
        "prices": [
-        0.0,
-        0.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 40186,
-       "level": 1,
-       "base_sales_item_id": 40186,
-       "prices": [
-        0.0,
-        0.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 40186,
-       "level": 2,
-       "base_sales_item_id": 40186,
-       "prices": [
-        0.0,
-        0.0,
         0.0
        ]
       },
@@ -176114,28 +174632,6 @@
        "level": 0,
        "base_sales_item_id": 40201,
        "prices": [
-        1.0,
-        0.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 40201,
-       "level": 1,
-       "base_sales_item_id": 40201,
-       "prices": [
-        1.0,
-        1.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 40201,
-       "level": 2,
-       "base_sales_item_id": 40201,
-       "prices": [
-        1.0,
-        1.0,
         1.0
        ]
       },
@@ -176144,28 +174640,6 @@
        "level": 0,
        "base_sales_item_id": 40191,
        "prices": [
-        2.5,
-        0.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 40191,
-       "level": 1,
-       "base_sales_item_id": 40191,
-       "prices": [
-        2.5,
-        2.5,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 40191,
-       "level": 2,
-       "base_sales_item_id": 40191,
-       "prices": [
-        2.5,
-        2.5,
         2.5
        ]
       }
@@ -176179,28 +174653,6 @@
        "level": 0,
        "base_sales_item_id": 40186,
        "prices": [
-        0.0,
-        0.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 40186,
-       "level": 1,
-       "base_sales_item_id": 40186,
-       "prices": [
-        0.0,
-        0.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 40186,
-       "level": 2,
-       "base_sales_item_id": 40186,
-       "prices": [
-        0.0,
-        0.0,
         0.0
        ]
       },
@@ -176209,28 +174661,6 @@
        "level": 0,
        "base_sales_item_id": 40201,
        "prices": [
-        1.0,
-        0.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 40201,
-       "level": 1,
-       "base_sales_item_id": 40201,
-       "prices": [
-        1.0,
-        1.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 40201,
-       "level": 2,
-       "base_sales_item_id": 40201,
-       "prices": [
-        1.0,
-        1.0,
         1.0
        ]
       },
@@ -176239,28 +174669,6 @@
        "level": 0,
        "base_sales_item_id": 40191,
        "prices": [
-        2.5,
-        0.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 40191,
-       "level": 1,
-       "base_sales_item_id": 40191,
-       "prices": [
-        2.5,
-        2.5,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 40191,
-       "level": 2,
-       "base_sales_item_id": 40191,
-       "prices": [
-        2.5,
-        2.5,
         2.5
        ]
       }
@@ -176274,28 +174682,6 @@
        "level": 0,
        "base_sales_item_id": 41176,
        "prices": [
-        0.0,
-        0.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 41176,
-       "level": 1,
-       "base_sales_item_id": 41176,
-       "prices": [
-        0.0,
-        0.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 41176,
-       "level": 2,
-       "base_sales_item_id": 41176,
-       "prices": [
-        0.0,
-        0.0,
         0.0
        ]
       }
@@ -176309,28 +174695,6 @@
        "level": 0,
        "base_sales_item_id": 40948,
        "prices": [
-        0.0,
-        0.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 40948,
-       "level": 1,
-       "base_sales_item_id": 40948,
-       "prices": [
-        0.0,
-        0.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 40948,
-       "level": 2,
-       "base_sales_item_id": 40948,
-       "prices": [
-        0.0,
-        0.0,
         0.0
        ]
       }
@@ -176344,28 +174708,6 @@
        "level": 0,
        "base_sales_item_id": 40002,
        "prices": [
-        0.0,
-        0.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 40002,
-       "level": 1,
-       "base_sales_item_id": 40002,
-       "prices": [
-        0.0,
-        0.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 40002,
-       "level": 2,
-       "base_sales_item_id": 40002,
-       "prices": [
-        0.0,
-        0.0,
         0.0
        ]
       },
@@ -176374,28 +174716,6 @@
        "level": 0,
        "base_sales_item_id": 41678,
        "prices": [
-        0.0,
-        0.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 41678,
-       "level": 1,
-       "base_sales_item_id": 41678,
-       "prices": [
-        0.0,
-        0.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 41678,
-       "level": 2,
-       "base_sales_item_id": 41678,
-       "prices": [
-        0.0,
-        0.0,
         0.0
        ]
       },
@@ -176404,28 +174724,6 @@
        "level": 0,
        "base_sales_item_id": 40270,
        "prices": [
-        0.0,
-        0.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 40270,
-       "level": 1,
-       "base_sales_item_id": 40270,
-       "prices": [
-        0.0,
-        0.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 40270,
-       "level": 2,
-       "base_sales_item_id": 40270,
-       "prices": [
-        0.0,
-        0.0,
         0.0
        ]
       },
@@ -176434,28 +174732,6 @@
        "level": 0,
        "base_sales_item_id": 40379,
        "prices": [
-        0.0,
-        0.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 40379,
-       "level": 1,
-       "base_sales_item_id": 40379,
-       "prices": [
-        0.0,
-        0.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 40379,
-       "level": 2,
-       "base_sales_item_id": 40379,
-       "prices": [
-        0.0,
-        0.0,
         0.0
        ]
       },
@@ -176464,28 +174740,6 @@
        "level": 0,
        "base_sales_item_id": 40259,
        "prices": [
-        0.0,
-        0.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 40259,
-       "level": 1,
-       "base_sales_item_id": 40259,
-       "prices": [
-        0.0,
-        0.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 40259,
-       "level": 2,
-       "base_sales_item_id": 40259,
-       "prices": [
-        0.0,
-        0.0,
         0.0
        ]
       },
@@ -176494,28 +174748,6 @@
        "level": 0,
        "base_sales_item_id": 40263,
        "prices": [
-        0.0,
-        0.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 40263,
-       "level": 1,
-       "base_sales_item_id": 40263,
-       "prices": [
-        0.0,
-        0.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 40263,
-       "level": 2,
-       "base_sales_item_id": 40263,
-       "prices": [
-        0.0,
-        0.0,
         0.0
        ]
       },
@@ -176524,28 +174756,6 @@
        "level": 0,
        "base_sales_item_id": 40501,
        "prices": [
-        0.0,
-        0.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 40501,
-       "level": 1,
-       "base_sales_item_id": 40501,
-       "prices": [
-        0.0,
-        0.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 40501,
-       "level": 2,
-       "base_sales_item_id": 40501,
-       "prices": [
-        0.0,
-        0.0,
         0.0
        ]
       },
@@ -176554,28 +174764,6 @@
        "level": 0,
        "base_sales_item_id": 40282,
        "prices": [
-        0.6,
-        0.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 40282,
-       "level": 1,
-       "base_sales_item_id": 40282,
-       "prices": [
-        0.6,
-        0.6,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 40282,
-       "level": 2,
-       "base_sales_item_id": 40282,
-       "prices": [
-        0.6,
-        0.6,
         0.6
        ]
       },
@@ -176584,28 +174772,6 @@
        "level": 0,
        "base_sales_item_id": 40356,
        "prices": [
-        0.75,
-        0.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 40356,
-       "level": 1,
-       "base_sales_item_id": 40356,
-       "prices": [
-        0.75,
-        0.75,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 40356,
-       "level": 2,
-       "base_sales_item_id": 40356,
-       "prices": [
-        0.75,
-        0.75,
         0.75
        ]
       },
@@ -176614,28 +174780,6 @@
        "level": 0,
        "base_sales_item_id": 40530,
        "prices": [
-        0.75,
-        0.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 40530,
-       "level": 1,
-       "base_sales_item_id": 40530,
-       "prices": [
-        0.75,
-        0.75,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 40530,
-       "level": 2,
-       "base_sales_item_id": 40530,
-       "prices": [
-        0.75,
-        0.75,
         0.75
        ]
       },
@@ -176644,28 +174788,6 @@
        "level": 0,
        "base_sales_item_id": 41892,
        "prices": [
-        0.75,
-        0.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 41892,
-       "level": 1,
-       "base_sales_item_id": 41892,
-       "prices": [
-        0.75,
-        0.75,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 41892,
-       "level": 2,
-       "base_sales_item_id": 41892,
-       "prices": [
-        0.75,
-        0.75,
         0.75
        ]
       },
@@ -176674,28 +174796,6 @@
        "level": 0,
        "base_sales_item_id": 41898,
        "prices": [
-        0.75,
-        0.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 41898,
-       "level": 1,
-       "base_sales_item_id": 41898,
-       "prices": [
-        0.75,
-        0.75,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 41898,
-       "level": 2,
-       "base_sales_item_id": 41898,
-       "prices": [
-        0.75,
-        0.75,
         0.75
        ]
       },
@@ -176704,28 +174804,6 @@
        "level": 0,
        "base_sales_item_id": 40289,
        "prices": [
-        1.0,
-        0.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 40289,
-       "level": 1,
-       "base_sales_item_id": 40289,
-       "prices": [
-        1.0,
-        1.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 40289,
-       "level": 2,
-       "base_sales_item_id": 40289,
-       "prices": [
-        1.0,
-        1.0,
         1.0
        ]
       },
@@ -176734,28 +174812,6 @@
        "level": 0,
        "base_sales_item_id": 40294,
        "prices": [
-        1.0,
-        0.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 40294,
-       "level": 1,
-       "base_sales_item_id": 40294,
-       "prices": [
-        1.0,
-        1.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 40294,
-       "level": 2,
-       "base_sales_item_id": 40294,
-       "prices": [
-        1.0,
-        1.0,
         1.0
        ]
       },
@@ -176764,28 +174820,6 @@
        "level": 0,
        "base_sales_item_id": 41076,
        "prices": [
-        1.0,
-        0.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 41076,
-       "level": 1,
-       "base_sales_item_id": 41076,
-       "prices": [
-        1.0,
-        1.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 41076,
-       "level": 2,
-       "base_sales_item_id": 41076,
-       "prices": [
-        1.0,
-        1.0,
         1.0
        ]
       },
@@ -176794,28 +174828,6 @@
        "level": 0,
        "base_sales_item_id": 41895,
        "prices": [
-        1.0,
-        0.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 41895,
-       "level": 1,
-       "base_sales_item_id": 41895,
-       "prices": [
-        1.0,
-        1.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 41895,
-       "level": 2,
-       "base_sales_item_id": 41895,
-       "prices": [
-        1.0,
-        1.0,
         1.0
        ]
       },
@@ -176824,28 +174836,6 @@
        "level": 0,
        "base_sales_item_id": 41901,
        "prices": [
-        1.0,
-        0.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 41901,
-       "level": 1,
-       "base_sales_item_id": 41901,
-       "prices": [
-        1.0,
-        1.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 41901,
-       "level": 2,
-       "base_sales_item_id": 41901,
-       "prices": [
-        1.0,
-        1.0,
         1.0
        ]
       },
@@ -176854,28 +174844,6 @@
        "level": 0,
        "base_sales_item_id": 40273,
        "prices": [
-        1.0,
-        0.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 40273,
-       "level": 1,
-       "base_sales_item_id": 40273,
-       "prices": [
-        1.0,
-        1.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 40273,
-       "level": 2,
-       "base_sales_item_id": 40273,
-       "prices": [
-        1.0,
-        1.0,
         1.0
        ]
       },
@@ -176884,28 +174852,6 @@
        "level": 0,
        "base_sales_item_id": 40276,
        "prices": [
-        1.0,
-        0.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 40276,
-       "level": 1,
-       "base_sales_item_id": 40276,
-       "prices": [
-        1.0,
-        1.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 40276,
-       "level": 2,
-       "base_sales_item_id": 40276,
-       "prices": [
-        1.0,
-        1.0,
         1.0
        ]
       },
@@ -176914,28 +174860,6 @@
        "level": 0,
        "base_sales_item_id": 40279,
        "prices": [
-        1.0,
-        0.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 40279,
-       "level": 1,
-       "base_sales_item_id": 40279,
-       "prices": [
-        1.0,
-        1.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 40279,
-       "level": 2,
-       "base_sales_item_id": 40279,
-       "prices": [
-        1.0,
-        1.0,
         1.0
        ]
       },
@@ -176944,28 +174868,6 @@
        "level": 0,
        "base_sales_item_id": 40297,
        "prices": [
-        1.0,
-        0.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 40297,
-       "level": 1,
-       "base_sales_item_id": 40297,
-       "prices": [
-        1.0,
-        1.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 40297,
-       "level": 2,
-       "base_sales_item_id": 40297,
-       "prices": [
-        1.0,
-        1.0,
         1.0
        ]
       },
@@ -176974,28 +174876,6 @@
        "level": 0,
        "base_sales_item_id": 41707,
        "prices": [
-        2.0,
-        0.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 41707,
-       "level": 1,
-       "base_sales_item_id": 41707,
-       "prices": [
-        2.0,
-        2.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 41707,
-       "level": 2,
-       "base_sales_item_id": 41707,
-       "prices": [
-        2.0,
-        2.0,
         2.0
        ]
       },
@@ -177004,28 +174884,6 @@
        "level": 0,
        "base_sales_item_id": 40363,
        "prices": [
-        0.75,
-        0.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 40363,
-       "level": 1,
-       "base_sales_item_id": 40363,
-       "prices": [
-        0.75,
-        0.75,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 40363,
-       "level": 2,
-       "base_sales_item_id": 40363,
-       "prices": [
-        0.75,
-        0.75,
         0.75
        ]
       },
@@ -177034,28 +174892,6 @@
        "level": 0,
        "base_sales_item_id": 40330,
        "prices": [
-        1.0,
-        0.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 40330,
-       "level": 1,
-       "base_sales_item_id": 40330,
-       "prices": [
-        1.0,
-        1.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 40330,
-       "level": 2,
-       "base_sales_item_id": 40330,
-       "prices": [
-        1.0,
-        1.0,
         1.0
        ]
       },
@@ -177064,28 +174900,6 @@
        "level": 0,
        "base_sales_item_id": 40336,
        "prices": [
-        1.0,
-        0.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 40336,
-       "level": 1,
-       "base_sales_item_id": 40336,
-       "prices": [
-        1.0,
-        1.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 40336,
-       "level": 2,
-       "base_sales_item_id": 40336,
-       "prices": [
-        1.0,
-        1.0,
         1.0
        ]
       },
@@ -177094,28 +174908,6 @@
        "level": 0,
        "base_sales_item_id": 40332,
        "prices": [
-        1.0,
-        0.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 40332,
-       "level": 1,
-       "base_sales_item_id": 40332,
-       "prices": [
-        1.0,
-        1.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 40332,
-       "level": 2,
-       "base_sales_item_id": 40332,
-       "prices": [
-        1.0,
-        1.0,
         1.0
        ]
       },
@@ -177124,28 +174916,6 @@
        "level": 0,
        "base_sales_item_id": 40335,
        "prices": [
-        1.0,
-        0.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 40335,
-       "level": 1,
-       "base_sales_item_id": 40335,
-       "prices": [
-        1.0,
-        1.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 40335,
-       "level": 2,
-       "base_sales_item_id": 40335,
-       "prices": [
-        1.0,
-        1.0,
         1.0
        ]
       },
@@ -177154,28 +174924,6 @@
        "level": 0,
        "base_sales_item_id": 40322,
        "prices": [
-        0.5,
-        0.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 40322,
-       "level": 1,
-       "base_sales_item_id": 40322,
-       "prices": [
-        0.5,
-        0.5,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 40322,
-       "level": 2,
-       "base_sales_item_id": 40322,
-       "prices": [
-        0.5,
-        0.5,
         0.5
        ]
       },
@@ -177184,28 +174932,6 @@
        "level": 0,
        "base_sales_item_id": 40338,
        "prices": [
-        1.0,
-        0.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 40338,
-       "level": 1,
-       "base_sales_item_id": 40338,
-       "prices": [
-        1.0,
-        1.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 40338,
-       "level": 2,
-       "base_sales_item_id": 40338,
-       "prices": [
-        1.0,
-        1.0,
         1.0
        ]
       },
@@ -177214,28 +174940,6 @@
        "level": 0,
        "base_sales_item_id": 41862,
        "prices": [
-        1.45,
-        0.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 41862,
-       "level": 1,
-       "base_sales_item_id": 41862,
-       "prices": [
-        1.45,
-        1.45,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 41862,
-       "level": 2,
-       "base_sales_item_id": 41862,
-       "prices": [
-        1.45,
-        1.45,
         1.45
        ]
       },
@@ -177244,28 +174948,6 @@
        "level": 0,
        "base_sales_item_id": 40340,
        "prices": [
-        1.0,
-        0.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 40340,
-       "level": 1,
-       "base_sales_item_id": 40340,
-       "prices": [
-        1.0,
-        1.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 40340,
-       "level": 2,
-       "base_sales_item_id": 40340,
-       "prices": [
-        1.0,
-        1.0,
         1.0
        ]
       },
@@ -177274,28 +174956,6 @@
        "level": 0,
        "base_sales_item_id": 40329,
        "prices": [
-        0.5,
-        0.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 40329,
-       "level": 1,
-       "base_sales_item_id": 40329,
-       "prices": [
-        0.5,
-        0.5,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 40329,
-       "level": 2,
-       "base_sales_item_id": 40329,
-       "prices": [
-        0.5,
-        0.5,
         0.5
        ]
       },
@@ -177304,28 +174964,6 @@
        "level": 0,
        "base_sales_item_id": 41039,
        "prices": [
-        2.0,
-        0.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 41039,
-       "level": 1,
-       "base_sales_item_id": 41039,
-       "prices": [
-        2.0,
-        2.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 41039,
-       "level": 2,
-       "base_sales_item_id": 41039,
-       "prices": [
-        2.0,
-        2.0,
         2.0
        ]
       },
@@ -177334,28 +174972,6 @@
        "level": 0,
        "base_sales_item_id": 40988,
        "prices": [
-        1.0,
-        0.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 40988,
-       "level": 1,
-       "base_sales_item_id": 40988,
-       "prices": [
-        1.0,
-        1.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 40988,
-       "level": 2,
-       "base_sales_item_id": 40988,
-       "prices": [
-        1.0,
-        1.0,
         1.0
        ]
       },
@@ -177364,28 +174980,6 @@
        "level": 0,
        "base_sales_item_id": 41260,
        "prices": [
-        2.0,
-        0.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 41260,
-       "level": 1,
-       "base_sales_item_id": 41260,
-       "prices": [
-        2.0,
-        2.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 41260,
-       "level": 2,
-       "base_sales_item_id": 41260,
-       "prices": [
-        2.0,
-        2.0,
         2.0
        ]
       },
@@ -177394,28 +174988,6 @@
        "level": 0,
        "base_sales_item_id": 41041,
        "prices": [
-        1.0,
-        0.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 41041,
-       "level": 1,
-       "base_sales_item_id": 41041,
-       "prices": [
-        1.0,
-        1.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 41041,
-       "level": 2,
-       "base_sales_item_id": 41041,
-       "prices": [
-        1.0,
-        1.0,
         1.0
        ]
       },
@@ -177424,28 +174996,6 @@
        "level": 0,
        "base_sales_item_id": 41407,
        "prices": [
-        1.0,
-        0.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 41407,
-       "level": 1,
-       "base_sales_item_id": 41407,
-       "prices": [
-        1.0,
-        1.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 41407,
-       "level": 2,
-       "base_sales_item_id": 41407,
-       "prices": [
-        1.0,
-        1.0,
         1.0
        ]
       },
@@ -177454,28 +175004,6 @@
        "level": 0,
        "base_sales_item_id": 41037,
        "prices": [
-        1.0,
-        0.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 41037,
-       "level": 1,
-       "base_sales_item_id": 41037,
-       "prices": [
-        1.0,
-        1.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 41037,
-       "level": 2,
-       "base_sales_item_id": 41037,
-       "prices": [
-        1.0,
-        1.0,
         1.0
        ]
       },
@@ -177484,28 +175012,6 @@
        "level": 0,
        "base_sales_item_id": 41673,
        "prices": [
-        2.0,
-        0.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 41673,
-       "level": 1,
-       "base_sales_item_id": 41673,
-       "prices": [
-        2.0,
-        2.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 41673,
-       "level": 2,
-       "base_sales_item_id": 41673,
-       "prices": [
-        2.0,
-        2.0,
         2.0
        ]
       },
@@ -177514,28 +175020,6 @@
        "level": 0,
        "base_sales_item_id": 41029,
        "prices": [
-        0.5,
-        0.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 41029,
-       "level": 1,
-       "base_sales_item_id": 41029,
-       "prices": [
-        0.5,
-        0.5,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 41029,
-       "level": 2,
-       "base_sales_item_id": 41029,
-       "prices": [
-        0.5,
-        0.5,
         0.5
        ]
       },
@@ -177544,28 +175028,6 @@
        "level": 0,
        "base_sales_item_id": 41027,
        "prices": [
-        0.0,
-        0.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 41027,
-       "level": 1,
-       "base_sales_item_id": 41027,
-       "prices": [
-        0.0,
-        0.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 41027,
-       "level": 2,
-       "base_sales_item_id": 41027,
-       "prices": [
-        0.0,
-        0.0,
         0.0
        ]
       },
@@ -177574,28 +175036,6 @@
        "level": 0,
        "base_sales_item_id": 41028,
        "prices": [
-        0.5,
-        0.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 41028,
-       "level": 1,
-       "base_sales_item_id": 41028,
-       "prices": [
-        0.5,
-        0.5,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 41028,
-       "level": 2,
-       "base_sales_item_id": 41028,
-       "prices": [
-        0.5,
-        0.5,
         0.5
        ]
       },
@@ -177604,28 +175044,6 @@
        "level": 0,
        "base_sales_item_id": 41043,
        "prices": [
-        0.5,
-        0.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 41043,
-       "level": 1,
-       "base_sales_item_id": 41043,
-       "prices": [
-        0.5,
-        0.5,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 41043,
-       "level": 2,
-       "base_sales_item_id": 41043,
-       "prices": [
-        0.5,
-        0.5,
         0.5
        ]
       }
@@ -177639,28 +175057,6 @@
        "level": 0,
        "base_sales_item_id": 40002,
        "prices": [
-        0.0,
-        0.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 40002,
-       "level": 1,
-       "base_sales_item_id": 40002,
-       "prices": [
-        0.0,
-        0.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 40002,
-       "level": 2,
-       "base_sales_item_id": 40002,
-       "prices": [
-        0.0,
-        0.0,
         0.0
        ]
       },
@@ -177669,28 +175065,6 @@
        "level": 0,
        "base_sales_item_id": 41678,
        "prices": [
-        0.0,
-        0.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 41678,
-       "level": 1,
-       "base_sales_item_id": 41678,
-       "prices": [
-        0.0,
-        0.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 41678,
-       "level": 2,
-       "base_sales_item_id": 41678,
-       "prices": [
-        0.0,
-        0.0,
         0.0
        ]
       },
@@ -177699,28 +175073,6 @@
        "level": 0,
        "base_sales_item_id": 40270,
        "prices": [
-        0.0,
-        0.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 40270,
-       "level": 1,
-       "base_sales_item_id": 40270,
-       "prices": [
-        0.0,
-        0.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 40270,
-       "level": 2,
-       "base_sales_item_id": 40270,
-       "prices": [
-        0.0,
-        0.0,
         0.0
        ]
       },
@@ -177729,28 +175081,6 @@
        "level": 0,
        "base_sales_item_id": 40379,
        "prices": [
-        0.0,
-        0.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 40379,
-       "level": 1,
-       "base_sales_item_id": 40379,
-       "prices": [
-        0.0,
-        0.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 40379,
-       "level": 2,
-       "base_sales_item_id": 40379,
-       "prices": [
-        0.0,
-        0.0,
         0.0
        ]
       },
@@ -177759,28 +175089,6 @@
        "level": 0,
        "base_sales_item_id": 40259,
        "prices": [
-        0.0,
-        0.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 40259,
-       "level": 1,
-       "base_sales_item_id": 40259,
-       "prices": [
-        0.0,
-        0.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 40259,
-       "level": 2,
-       "base_sales_item_id": 40259,
-       "prices": [
-        0.0,
-        0.0,
         0.0
        ]
       },
@@ -177789,28 +175097,6 @@
        "level": 0,
        "base_sales_item_id": 40263,
        "prices": [
-        0.0,
-        0.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 40263,
-       "level": 1,
-       "base_sales_item_id": 40263,
-       "prices": [
-        0.0,
-        0.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 40263,
-       "level": 2,
-       "base_sales_item_id": 40263,
-       "prices": [
-        0.0,
-        0.0,
         0.0
        ]
       },
@@ -177819,28 +175105,6 @@
        "level": 0,
        "base_sales_item_id": 40501,
        "prices": [
-        0.0,
-        0.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 40501,
-       "level": 1,
-       "base_sales_item_id": 40501,
-       "prices": [
-        0.0,
-        0.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 40501,
-       "level": 2,
-       "base_sales_item_id": 40501,
-       "prices": [
-        0.0,
-        0.0,
         0.0
        ]
       },
@@ -177849,28 +175113,6 @@
        "level": 0,
        "base_sales_item_id": 40282,
        "prices": [
-        0.6,
-        0.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 40282,
-       "level": 1,
-       "base_sales_item_id": 40282,
-       "prices": [
-        0.6,
-        0.6,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 40282,
-       "level": 2,
-       "base_sales_item_id": 40282,
-       "prices": [
-        0.6,
-        0.6,
         0.6
        ]
       },
@@ -177879,28 +175121,6 @@
        "level": 0,
        "base_sales_item_id": 40356,
        "prices": [
-        0.75,
-        0.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 40356,
-       "level": 1,
-       "base_sales_item_id": 40356,
-       "prices": [
-        0.75,
-        0.75,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 40356,
-       "level": 2,
-       "base_sales_item_id": 40356,
-       "prices": [
-        0.75,
-        0.75,
         0.75
        ]
       },
@@ -177909,28 +175129,6 @@
        "level": 0,
        "base_sales_item_id": 40363,
        "prices": [
-        0.75,
-        0.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 40363,
-       "level": 1,
-       "base_sales_item_id": 40363,
-       "prices": [
-        0.75,
-        0.75,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 40363,
-       "level": 2,
-       "base_sales_item_id": 40363,
-       "prices": [
-        0.75,
-        0.75,
         0.75
        ]
       },
@@ -177939,28 +175137,6 @@
        "level": 0,
        "base_sales_item_id": 40530,
        "prices": [
-        0.75,
-        0.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 40530,
-       "level": 1,
-       "base_sales_item_id": 40530,
-       "prices": [
-        0.75,
-        0.75,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 40530,
-       "level": 2,
-       "base_sales_item_id": 40530,
-       "prices": [
-        0.75,
-        0.75,
         0.75
        ]
       },
@@ -177969,28 +175145,6 @@
        "level": 0,
        "base_sales_item_id": 41892,
        "prices": [
-        0.75,
-        0.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 41892,
-       "level": 1,
-       "base_sales_item_id": 41892,
-       "prices": [
-        0.75,
-        0.75,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 41892,
-       "level": 2,
-       "base_sales_item_id": 41892,
-       "prices": [
-        0.75,
-        0.75,
         0.75
        ]
       },
@@ -177999,28 +175153,6 @@
        "level": 0,
        "base_sales_item_id": 41898,
        "prices": [
-        0.75,
-        0.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 41898,
-       "level": 1,
-       "base_sales_item_id": 41898,
-       "prices": [
-        0.75,
-        0.75,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 41898,
-       "level": 2,
-       "base_sales_item_id": 41898,
-       "prices": [
-        0.75,
-        0.75,
         0.75
        ]
       },
@@ -178029,28 +175161,6 @@
        "level": 0,
        "base_sales_item_id": 40289,
        "prices": [
-        1.0,
-        0.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 40289,
-       "level": 1,
-       "base_sales_item_id": 40289,
-       "prices": [
-        1.0,
-        1.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 40289,
-       "level": 2,
-       "base_sales_item_id": 40289,
-       "prices": [
-        1.0,
-        1.0,
         1.0
        ]
       },
@@ -178059,28 +175169,6 @@
        "level": 0,
        "base_sales_item_id": 40294,
        "prices": [
-        1.0,
-        0.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 40294,
-       "level": 1,
-       "base_sales_item_id": 40294,
-       "prices": [
-        1.0,
-        1.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 40294,
-       "level": 2,
-       "base_sales_item_id": 40294,
-       "prices": [
-        1.0,
-        1.0,
         1.0
        ]
       },
@@ -178089,28 +175177,6 @@
        "level": 0,
        "base_sales_item_id": 41076,
        "prices": [
-        1.0,
-        0.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 41076,
-       "level": 1,
-       "base_sales_item_id": 41076,
-       "prices": [
-        1.0,
-        1.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 41076,
-       "level": 2,
-       "base_sales_item_id": 41076,
-       "prices": [
-        1.0,
-        1.0,
         1.0
        ]
       },
@@ -178119,28 +175185,6 @@
        "level": 0,
        "base_sales_item_id": 41895,
        "prices": [
-        1.0,
-        0.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 41895,
-       "level": 1,
-       "base_sales_item_id": 41895,
-       "prices": [
-        1.0,
-        1.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 41895,
-       "level": 2,
-       "base_sales_item_id": 41895,
-       "prices": [
-        1.0,
-        1.0,
         1.0
        ]
       },
@@ -178149,28 +175193,6 @@
        "level": 0,
        "base_sales_item_id": 41901,
        "prices": [
-        1.0,
-        0.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 41901,
-       "level": 1,
-       "base_sales_item_id": 41901,
-       "prices": [
-        1.0,
-        1.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 41901,
-       "level": 2,
-       "base_sales_item_id": 41901,
-       "prices": [
-        1.0,
-        1.0,
         1.0
        ]
       },
@@ -178179,28 +175201,6 @@
        "level": 0,
        "base_sales_item_id": 40273,
        "prices": [
-        1.0,
-        0.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 40273,
-       "level": 1,
-       "base_sales_item_id": 40273,
-       "prices": [
-        1.0,
-        1.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 40273,
-       "level": 2,
-       "base_sales_item_id": 40273,
-       "prices": [
-        1.0,
-        1.0,
         1.0
        ]
       },
@@ -178209,28 +175209,6 @@
        "level": 0,
        "base_sales_item_id": 40276,
        "prices": [
-        1.0,
-        0.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 40276,
-       "level": 1,
-       "base_sales_item_id": 40276,
-       "prices": [
-        1.0,
-        1.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 40276,
-       "level": 2,
-       "base_sales_item_id": 40276,
-       "prices": [
-        1.0,
-        1.0,
         1.0
        ]
       },
@@ -178239,28 +175217,6 @@
        "level": 0,
        "base_sales_item_id": 40279,
        "prices": [
-        1.0,
-        0.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 40279,
-       "level": 1,
-       "base_sales_item_id": 40279,
-       "prices": [
-        1.0,
-        1.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 40279,
-       "level": 2,
-       "base_sales_item_id": 40279,
-       "prices": [
-        1.0,
-        1.0,
         1.0
        ]
       },
@@ -178269,28 +175225,6 @@
        "level": 0,
        "base_sales_item_id": 40297,
        "prices": [
-        1.0,
-        0.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 40297,
-       "level": 1,
-       "base_sales_item_id": 40297,
-       "prices": [
-        1.0,
-        1.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 40297,
-       "level": 2,
-       "base_sales_item_id": 40297,
-       "prices": [
-        1.0,
-        1.0,
         1.0
        ]
       },
@@ -178299,28 +175233,6 @@
        "level": 0,
        "base_sales_item_id": 41707,
        "prices": [
-        2.0,
-        0.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 41707,
-       "level": 1,
-       "base_sales_item_id": 41707,
-       "prices": [
-        2.0,
-        2.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 41707,
-       "level": 2,
-       "base_sales_item_id": 41707,
-       "prices": [
-        2.0,
-        2.0,
         2.0
        ]
       },
@@ -178329,28 +175241,6 @@
        "level": 0,
        "base_sales_item_id": 40330,
        "prices": [
-        1.0,
-        0.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 40330,
-       "level": 1,
-       "base_sales_item_id": 40330,
-       "prices": [
-        1.0,
-        1.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 40330,
-       "level": 2,
-       "base_sales_item_id": 40330,
-       "prices": [
-        1.0,
-        1.0,
         1.0
        ]
       },
@@ -178359,28 +175249,6 @@
        "level": 0,
        "base_sales_item_id": 40336,
        "prices": [
-        1.0,
-        0.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 40336,
-       "level": 1,
-       "base_sales_item_id": 40336,
-       "prices": [
-        1.0,
-        1.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 40336,
-       "level": 2,
-       "base_sales_item_id": 40336,
-       "prices": [
-        1.0,
-        1.0,
         1.0
        ]
       },
@@ -178389,28 +175257,6 @@
        "level": 0,
        "base_sales_item_id": 40332,
        "prices": [
-        1.0,
-        0.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 40332,
-       "level": 1,
-       "base_sales_item_id": 40332,
-       "prices": [
-        1.0,
-        1.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 40332,
-       "level": 2,
-       "base_sales_item_id": 40332,
-       "prices": [
-        1.0,
-        1.0,
         1.0
        ]
       },
@@ -178419,28 +175265,6 @@
        "level": 0,
        "base_sales_item_id": 40335,
        "prices": [
-        1.0,
-        0.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 40335,
-       "level": 1,
-       "base_sales_item_id": 40335,
-       "prices": [
-        1.0,
-        1.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 40335,
-       "level": 2,
-       "base_sales_item_id": 40335,
-       "prices": [
-        1.0,
-        1.0,
         1.0
        ]
       },
@@ -178449,28 +175273,6 @@
        "level": 0,
        "base_sales_item_id": 40322,
        "prices": [
-        0.5,
-        0.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 40322,
-       "level": 1,
-       "base_sales_item_id": 40322,
-       "prices": [
-        0.5,
-        0.5,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 40322,
-       "level": 2,
-       "base_sales_item_id": 40322,
-       "prices": [
-        0.5,
-        0.5,
         0.5
        ]
       },
@@ -178479,28 +175281,6 @@
        "level": 0,
        "base_sales_item_id": 40338,
        "prices": [
-        1.0,
-        0.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 40338,
-       "level": 1,
-       "base_sales_item_id": 40338,
-       "prices": [
-        1.0,
-        1.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 40338,
-       "level": 2,
-       "base_sales_item_id": 40338,
-       "prices": [
-        1.0,
-        1.0,
         1.0
        ]
       },
@@ -178509,28 +175289,6 @@
        "level": 0,
        "base_sales_item_id": 40340,
        "prices": [
-        1.0,
-        0.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 40340,
-       "level": 1,
-       "base_sales_item_id": 40340,
-       "prices": [
-        1.0,
-        1.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 40340,
-       "level": 2,
-       "base_sales_item_id": 40340,
-       "prices": [
-        1.0,
-        1.0,
         1.0
        ]
       },
@@ -178539,28 +175297,6 @@
        "level": 0,
        "base_sales_item_id": 41862,
        "prices": [
-        1.45,
-        0.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 41862,
-       "level": 1,
-       "base_sales_item_id": 41862,
-       "prices": [
-        1.45,
-        1.45,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 41862,
-       "level": 2,
-       "base_sales_item_id": 41862,
-       "prices": [
-        1.45,
-        1.45,
         1.45
        ]
       },
@@ -178569,28 +175305,6 @@
        "level": 0,
        "base_sales_item_id": 40329,
        "prices": [
-        0.5,
-        0.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 40329,
-       "level": 1,
-       "base_sales_item_id": 40329,
-       "prices": [
-        0.5,
-        0.5,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 40329,
-       "level": 2,
-       "base_sales_item_id": 40329,
-       "prices": [
-        0.5,
-        0.5,
         0.5
        ]
       },
@@ -178599,28 +175313,6 @@
        "level": 0,
        "base_sales_item_id": 41260,
        "prices": [
-        2.0,
-        0.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 41260,
-       "level": 1,
-       "base_sales_item_id": 41260,
-       "prices": [
-        2.0,
-        2.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 41260,
-       "level": 2,
-       "base_sales_item_id": 41260,
-       "prices": [
-        2.0,
-        2.0,
         2.0
        ]
       },
@@ -178629,28 +175321,6 @@
        "level": 0,
        "base_sales_item_id": 41039,
        "prices": [
-        2.0,
-        0.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 41039,
-       "level": 1,
-       "base_sales_item_id": 41039,
-       "prices": [
-        2.0,
-        2.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 41039,
-       "level": 2,
-       "base_sales_item_id": 41039,
-       "prices": [
-        2.0,
-        2.0,
         2.0
        ]
       },
@@ -178659,28 +175329,6 @@
        "level": 0,
        "base_sales_item_id": 40988,
        "prices": [
-        1.0,
-        0.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 40988,
-       "level": 1,
-       "base_sales_item_id": 40988,
-       "prices": [
-        1.0,
-        1.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 40988,
-       "level": 2,
-       "base_sales_item_id": 40988,
-       "prices": [
-        1.0,
-        1.0,
         1.0
        ]
       },
@@ -178689,28 +175337,6 @@
        "level": 0,
        "base_sales_item_id": 41041,
        "prices": [
-        1.0,
-        0.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 41041,
-       "level": 1,
-       "base_sales_item_id": 41041,
-       "prices": [
-        1.0,
-        1.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 41041,
-       "level": 2,
-       "base_sales_item_id": 41041,
-       "prices": [
-        1.0,
-        1.0,
         1.0
        ]
       },
@@ -178719,28 +175345,6 @@
        "level": 0,
        "base_sales_item_id": 41407,
        "prices": [
-        1.0,
-        0.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 41407,
-       "level": 1,
-       "base_sales_item_id": 41407,
-       "prices": [
-        1.0,
-        1.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 41407,
-       "level": 2,
-       "base_sales_item_id": 41407,
-       "prices": [
-        1.0,
-        1.0,
         1.0
        ]
       },
@@ -178749,28 +175353,6 @@
        "level": 0,
        "base_sales_item_id": 41037,
        "prices": [
-        1.0,
-        0.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 41037,
-       "level": 1,
-       "base_sales_item_id": 41037,
-       "prices": [
-        1.0,
-        1.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 41037,
-       "level": 2,
-       "base_sales_item_id": 41037,
-       "prices": [
-        1.0,
-        1.0,
         1.0
        ]
       },
@@ -178779,28 +175361,6 @@
        "level": 0,
        "base_sales_item_id": 41673,
        "prices": [
-        2.0,
-        0.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 41673,
-       "level": 1,
-       "base_sales_item_id": 41673,
-       "prices": [
-        2.0,
-        2.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 41673,
-       "level": 2,
-       "base_sales_item_id": 41673,
-       "prices": [
-        2.0,
-        2.0,
         2.0
        ]
       },
@@ -178809,28 +175369,6 @@
        "level": 0,
        "base_sales_item_id": 41029,
        "prices": [
-        0.5,
-        0.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 41029,
-       "level": 1,
-       "base_sales_item_id": 41029,
-       "prices": [
-        0.5,
-        0.5,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 41029,
-       "level": 2,
-       "base_sales_item_id": 41029,
-       "prices": [
-        0.5,
-        0.5,
         0.5
        ]
       },
@@ -178839,28 +175377,6 @@
        "level": 0,
        "base_sales_item_id": 41027,
        "prices": [
-        0.0,
-        0.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 41027,
-       "level": 1,
-       "base_sales_item_id": 41027,
-       "prices": [
-        0.0,
-        0.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 41027,
-       "level": 2,
-       "base_sales_item_id": 41027,
-       "prices": [
-        0.0,
-        0.0,
         0.0
        ]
       },
@@ -178869,28 +175385,6 @@
        "level": 0,
        "base_sales_item_id": 41028,
        "prices": [
-        0.5,
-        0.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 41028,
-       "level": 1,
-       "base_sales_item_id": 41028,
-       "prices": [
-        0.5,
-        0.5,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 41028,
-       "level": 2,
-       "base_sales_item_id": 41028,
-       "prices": [
-        0.5,
-        0.5,
         0.5
        ]
       },
@@ -178899,28 +175393,6 @@
        "level": 0,
        "base_sales_item_id": 41043,
        "prices": [
-        0.5,
-        0.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 41043,
-       "level": 1,
-       "base_sales_item_id": 41043,
-       "prices": [
-        0.5,
-        0.5,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 41043,
-       "level": 2,
-       "base_sales_item_id": 41043,
-       "prices": [
-        0.5,
-        0.5,
         0.5
        ]
       }
@@ -178934,28 +175406,6 @@
        "level": 0,
        "base_sales_item_id": 40002,
        "prices": [
-        0.0,
-        0.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 40002,
-       "level": 1,
-       "base_sales_item_id": 40002,
-       "prices": [
-        0.0,
-        0.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 40002,
-       "level": 2,
-       "base_sales_item_id": 40002,
-       "prices": [
-        0.0,
-        0.0,
         0.0
        ]
       },
@@ -178964,28 +175414,6 @@
        "level": 0,
        "base_sales_item_id": 41678,
        "prices": [
-        0.0,
-        0.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 41678,
-       "level": 1,
-       "base_sales_item_id": 41678,
-       "prices": [
-        0.0,
-        0.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 41678,
-       "level": 2,
-       "base_sales_item_id": 41678,
-       "prices": [
-        0.0,
-        0.0,
         0.0
        ]
       },
@@ -178994,28 +175422,6 @@
        "level": 0,
        "base_sales_item_id": 40270,
        "prices": [
-        0.0,
-        0.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 40270,
-       "level": 1,
-       "base_sales_item_id": 40270,
-       "prices": [
-        0.0,
-        0.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 40270,
-       "level": 2,
-       "base_sales_item_id": 40270,
-       "prices": [
-        0.0,
-        0.0,
         0.0
        ]
       },
@@ -179024,28 +175430,6 @@
        "level": 0,
        "base_sales_item_id": 40259,
        "prices": [
-        0.0,
-        0.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 40259,
-       "level": 1,
-       "base_sales_item_id": 40259,
-       "prices": [
-        0.0,
-        0.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 40259,
-       "level": 2,
-       "base_sales_item_id": 40259,
-       "prices": [
-        0.0,
-        0.0,
         0.0
        ]
       },
@@ -179054,28 +175438,6 @@
        "level": 0,
        "base_sales_item_id": 40263,
        "prices": [
-        0.0,
-        0.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 40263,
-       "level": 1,
-       "base_sales_item_id": 40263,
-       "prices": [
-        0.0,
-        0.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 40263,
-       "level": 2,
-       "base_sales_item_id": 40263,
-       "prices": [
-        0.0,
-        0.0,
         0.0
        ]
       },
@@ -179084,28 +175446,6 @@
        "level": 0,
        "base_sales_item_id": 40379,
        "prices": [
-        0.0,
-        0.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 40379,
-       "level": 1,
-       "base_sales_item_id": 40379,
-       "prices": [
-        0.0,
-        0.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 40379,
-       "level": 2,
-       "base_sales_item_id": 40379,
-       "prices": [
-        0.0,
-        0.0,
         0.0
        ]
       },
@@ -179114,28 +175454,6 @@
        "level": 0,
        "base_sales_item_id": 40501,
        "prices": [
-        0.0,
-        0.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 40501,
-       "level": 1,
-       "base_sales_item_id": 40501,
-       "prices": [
-        0.0,
-        0.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 40501,
-       "level": 2,
-       "base_sales_item_id": 40501,
-       "prices": [
-        0.0,
-        0.0,
         0.0
        ]
       },
@@ -179144,28 +175462,6 @@
        "level": 0,
        "base_sales_item_id": 40282,
        "prices": [
-        0.6,
-        0.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 40282,
-       "level": 1,
-       "base_sales_item_id": 40282,
-       "prices": [
-        0.6,
-        0.6,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 40282,
-       "level": 2,
-       "base_sales_item_id": 40282,
-       "prices": [
-        0.6,
-        0.6,
         0.6
        ]
       },
@@ -179174,28 +175470,6 @@
        "level": 0,
        "base_sales_item_id": 40356,
        "prices": [
-        0.75,
-        0.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 40356,
-       "level": 1,
-       "base_sales_item_id": 40356,
-       "prices": [
-        0.75,
-        0.75,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 40356,
-       "level": 2,
-       "base_sales_item_id": 40356,
-       "prices": [
-        0.75,
-        0.75,
         0.75
        ]
       },
@@ -179204,28 +175478,6 @@
        "level": 0,
        "base_sales_item_id": 40363,
        "prices": [
-        0.75,
-        0.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 40363,
-       "level": 1,
-       "base_sales_item_id": 40363,
-       "prices": [
-        0.75,
-        0.75,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 40363,
-       "level": 2,
-       "base_sales_item_id": 40363,
-       "prices": [
-        0.75,
-        0.75,
         0.75
        ]
       },
@@ -179234,28 +175486,6 @@
        "level": 0,
        "base_sales_item_id": 40530,
        "prices": [
-        0.75,
-        0.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 40530,
-       "level": 1,
-       "base_sales_item_id": 40530,
-       "prices": [
-        0.75,
-        0.75,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 40530,
-       "level": 2,
-       "base_sales_item_id": 40530,
-       "prices": [
-        0.75,
-        0.75,
         0.75
        ]
       },
@@ -179264,28 +175494,6 @@
        "level": 0,
        "base_sales_item_id": 41892,
        "prices": [
-        0.75,
-        0.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 41892,
-       "level": 1,
-       "base_sales_item_id": 41892,
-       "prices": [
-        0.75,
-        0.75,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 41892,
-       "level": 2,
-       "base_sales_item_id": 41892,
-       "prices": [
-        0.75,
-        0.75,
         0.75
        ]
       },
@@ -179294,28 +175502,6 @@
        "level": 0,
        "base_sales_item_id": 41898,
        "prices": [
-        0.75,
-        0.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 41898,
-       "level": 1,
-       "base_sales_item_id": 41898,
-       "prices": [
-        0.75,
-        0.75,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 41898,
-       "level": 2,
-       "base_sales_item_id": 41898,
-       "prices": [
-        0.75,
-        0.75,
         0.75
        ]
       },
@@ -179324,28 +175510,6 @@
        "level": 0,
        "base_sales_item_id": 40289,
        "prices": [
-        1.0,
-        0.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 40289,
-       "level": 1,
-       "base_sales_item_id": 40289,
-       "prices": [
-        1.0,
-        1.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 40289,
-       "level": 2,
-       "base_sales_item_id": 40289,
-       "prices": [
-        1.0,
-        1.0,
         1.0
        ]
       },
@@ -179354,28 +175518,6 @@
        "level": 0,
        "base_sales_item_id": 40294,
        "prices": [
-        1.0,
-        0.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 40294,
-       "level": 1,
-       "base_sales_item_id": 40294,
-       "prices": [
-        1.0,
-        1.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 40294,
-       "level": 2,
-       "base_sales_item_id": 40294,
-       "prices": [
-        1.0,
-        1.0,
         1.0
        ]
       },
@@ -179384,28 +175526,6 @@
        "level": 0,
        "base_sales_item_id": 41076,
        "prices": [
-        1.0,
-        0.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 41076,
-       "level": 1,
-       "base_sales_item_id": 41076,
-       "prices": [
-        1.0,
-        1.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 41076,
-       "level": 2,
-       "base_sales_item_id": 41076,
-       "prices": [
-        1.0,
-        1.0,
         1.0
        ]
       },
@@ -179414,28 +175534,6 @@
        "level": 0,
        "base_sales_item_id": 41895,
        "prices": [
-        1.0,
-        0.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 41895,
-       "level": 1,
-       "base_sales_item_id": 41895,
-       "prices": [
-        1.0,
-        1.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 41895,
-       "level": 2,
-       "base_sales_item_id": 41895,
-       "prices": [
-        1.0,
-        1.0,
         1.0
        ]
       },
@@ -179444,28 +175542,6 @@
        "level": 0,
        "base_sales_item_id": 41901,
        "prices": [
-        1.0,
-        0.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 41901,
-       "level": 1,
-       "base_sales_item_id": 41901,
-       "prices": [
-        1.0,
-        1.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 41901,
-       "level": 2,
-       "base_sales_item_id": 41901,
-       "prices": [
-        1.0,
-        1.0,
         1.0
        ]
       },
@@ -179474,28 +175550,6 @@
        "level": 0,
        "base_sales_item_id": 40273,
        "prices": [
-        1.0,
-        0.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 40273,
-       "level": 1,
-       "base_sales_item_id": 40273,
-       "prices": [
-        1.0,
-        1.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 40273,
-       "level": 2,
-       "base_sales_item_id": 40273,
-       "prices": [
-        1.0,
-        1.0,
         1.0
        ]
       },
@@ -179504,28 +175558,6 @@
        "level": 0,
        "base_sales_item_id": 40276,
        "prices": [
-        1.0,
-        0.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 40276,
-       "level": 1,
-       "base_sales_item_id": 40276,
-       "prices": [
-        1.0,
-        1.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 40276,
-       "level": 2,
-       "base_sales_item_id": 40276,
-       "prices": [
-        1.0,
-        1.0,
         1.0
        ]
       },
@@ -179534,28 +175566,6 @@
        "level": 0,
        "base_sales_item_id": 41707,
        "prices": [
-        2.0,
-        0.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 41707,
-       "level": 1,
-       "base_sales_item_id": 41707,
-       "prices": [
-        2.0,
-        2.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 41707,
-       "level": 2,
-       "base_sales_item_id": 41707,
-       "prices": [
-        2.0,
-        2.0,
         2.0
        ]
       },
@@ -179564,28 +175574,6 @@
        "level": 0,
        "base_sales_item_id": 40330,
        "prices": [
-        1.0,
-        0.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 40330,
-       "level": 1,
-       "base_sales_item_id": 40330,
-       "prices": [
-        1.0,
-        1.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 40330,
-       "level": 2,
-       "base_sales_item_id": 40330,
-       "prices": [
-        1.0,
-        1.0,
         1.0
        ]
       },
@@ -179594,28 +175582,6 @@
        "level": 0,
        "base_sales_item_id": 40336,
        "prices": [
-        1.0,
-        0.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 40336,
-       "level": 1,
-       "base_sales_item_id": 40336,
-       "prices": [
-        1.0,
-        1.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 40336,
-       "level": 2,
-       "base_sales_item_id": 40336,
-       "prices": [
-        1.0,
-        1.0,
         1.0
        ]
       },
@@ -179624,28 +175590,6 @@
        "level": 0,
        "base_sales_item_id": 40332,
        "prices": [
-        1.0,
-        0.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 40332,
-       "level": 1,
-       "base_sales_item_id": 40332,
-       "prices": [
-        1.0,
-        1.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 40332,
-       "level": 2,
-       "base_sales_item_id": 40332,
-       "prices": [
-        1.0,
-        1.0,
         1.0
        ]
       },
@@ -179654,28 +175598,6 @@
        "level": 0,
        "base_sales_item_id": 40338,
        "prices": [
-        1.0,
-        0.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 40338,
-       "level": 1,
-       "base_sales_item_id": 40338,
-       "prices": [
-        1.0,
-        1.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 40338,
-       "level": 2,
-       "base_sales_item_id": 40338,
-       "prices": [
-        1.0,
-        1.0,
         1.0
        ]
       },
@@ -179684,28 +175606,6 @@
        "level": 0,
        "base_sales_item_id": 40335,
        "prices": [
-        1.0,
-        0.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 40335,
-       "level": 1,
-       "base_sales_item_id": 40335,
-       "prices": [
-        1.0,
-        1.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 40335,
-       "level": 2,
-       "base_sales_item_id": 40335,
-       "prices": [
-        1.0,
-        1.0,
         1.0
        ]
       },
@@ -179714,28 +175614,6 @@
        "level": 0,
        "base_sales_item_id": 40322,
        "prices": [
-        0.5,
-        0.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 40322,
-       "level": 1,
-       "base_sales_item_id": 40322,
-       "prices": [
-        0.5,
-        0.5,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 40322,
-       "level": 2,
-       "base_sales_item_id": 40322,
-       "prices": [
-        0.5,
-        0.5,
         0.5
        ]
       },
@@ -179744,28 +175622,6 @@
        "level": 0,
        "base_sales_item_id": 41862,
        "prices": [
-        1.45,
-        0.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 41862,
-       "level": 1,
-       "base_sales_item_id": 41862,
-       "prices": [
-        1.45,
-        1.45,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 41862,
-       "level": 2,
-       "base_sales_item_id": 41862,
-       "prices": [
-        1.45,
-        1.45,
         1.45
        ]
       },
@@ -179774,28 +175630,6 @@
        "level": 0,
        "base_sales_item_id": 40340,
        "prices": [
-        1.0,
-        0.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 40340,
-       "level": 1,
-       "base_sales_item_id": 40340,
-       "prices": [
-        1.0,
-        1.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 40340,
-       "level": 2,
-       "base_sales_item_id": 40340,
-       "prices": [
-        1.0,
-        1.0,
         1.0
        ]
       },
@@ -179804,28 +175638,6 @@
        "level": 0,
        "base_sales_item_id": 40329,
        "prices": [
-        0.5,
-        0.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 40329,
-       "level": 1,
-       "base_sales_item_id": 40329,
-       "prices": [
-        0.5,
-        0.5,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 40329,
-       "level": 2,
-       "base_sales_item_id": 40329,
-       "prices": [
-        0.5,
-        0.5,
         0.5
        ]
       },
@@ -179834,28 +175646,6 @@
        "level": 0,
        "base_sales_item_id": 41039,
        "prices": [
-        2.0,
-        0.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 41039,
-       "level": 1,
-       "base_sales_item_id": 41039,
-       "prices": [
-        2.0,
-        2.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 41039,
-       "level": 2,
-       "base_sales_item_id": 41039,
-       "prices": [
-        2.0,
-        2.0,
         2.0
        ]
       },
@@ -179864,28 +175654,6 @@
        "level": 0,
        "base_sales_item_id": 40988,
        "prices": [
-        1.0,
-        0.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 40988,
-       "level": 1,
-       "base_sales_item_id": 40988,
-       "prices": [
-        1.0,
-        1.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 40988,
-       "level": 2,
-       "base_sales_item_id": 40988,
-       "prices": [
-        1.0,
-        1.0,
         1.0
        ]
       },
@@ -179894,28 +175662,6 @@
        "level": 0,
        "base_sales_item_id": 41260,
        "prices": [
-        2.0,
-        0.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 41260,
-       "level": 1,
-       "base_sales_item_id": 41260,
-       "prices": [
-        2.0,
-        2.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 41260,
-       "level": 2,
-       "base_sales_item_id": 41260,
-       "prices": [
-        2.0,
-        2.0,
         2.0
        ]
       },
@@ -179924,28 +175670,6 @@
        "level": 0,
        "base_sales_item_id": 41041,
        "prices": [
-        1.0,
-        0.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 41041,
-       "level": 1,
-       "base_sales_item_id": 41041,
-       "prices": [
-        1.0,
-        1.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 41041,
-       "level": 2,
-       "base_sales_item_id": 41041,
-       "prices": [
-        1.0,
-        1.0,
         1.0
        ]
       },
@@ -179954,28 +175678,6 @@
        "level": 0,
        "base_sales_item_id": 41407,
        "prices": [
-        1.0,
-        0.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 41407,
-       "level": 1,
-       "base_sales_item_id": 41407,
-       "prices": [
-        1.0,
-        1.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 41407,
-       "level": 2,
-       "base_sales_item_id": 41407,
-       "prices": [
-        1.0,
-        1.0,
         1.0
        ]
       },
@@ -179984,28 +175686,6 @@
        "level": 0,
        "base_sales_item_id": 41673,
        "prices": [
-        2.0,
-        0.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 41673,
-       "level": 1,
-       "base_sales_item_id": 41673,
-       "prices": [
-        2.0,
-        2.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 41673,
-       "level": 2,
-       "base_sales_item_id": 41673,
-       "prices": [
-        2.0,
-        2.0,
         2.0
        ]
       },
@@ -180014,28 +175694,6 @@
        "level": 0,
        "base_sales_item_id": 41037,
        "prices": [
-        1.0,
-        0.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 41037,
-       "level": 1,
-       "base_sales_item_id": 41037,
-       "prices": [
-        1.0,
-        1.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 41037,
-       "level": 2,
-       "base_sales_item_id": 41037,
-       "prices": [
-        1.0,
-        1.0,
         1.0
        ]
       },
@@ -180044,28 +175702,6 @@
        "level": 0,
        "base_sales_item_id": 41029,
        "prices": [
-        0.5,
-        0.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 41029,
-       "level": 1,
-       "base_sales_item_id": 41029,
-       "prices": [
-        0.5,
-        0.5,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 41029,
-       "level": 2,
-       "base_sales_item_id": 41029,
-       "prices": [
-        0.5,
-        0.5,
         0.5
        ]
       },
@@ -180074,28 +175710,6 @@
        "level": 0,
        "base_sales_item_id": 41027,
        "prices": [
-        0.0,
-        0.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 41027,
-       "level": 1,
-       "base_sales_item_id": 41027,
-       "prices": [
-        0.0,
-        0.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 41027,
-       "level": 2,
-       "base_sales_item_id": 41027,
-       "prices": [
-        0.0,
-        0.0,
         0.0
        ]
       },
@@ -180104,28 +175718,6 @@
        "level": 0,
        "base_sales_item_id": 41028,
        "prices": [
-        0.5,
-        0.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 41028,
-       "level": 1,
-       "base_sales_item_id": 41028,
-       "prices": [
-        0.5,
-        0.5,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 41028,
-       "level": 2,
-       "base_sales_item_id": 41028,
-       "prices": [
-        0.5,
-        0.5,
         0.5
        ]
       },
@@ -180134,28 +175726,6 @@
        "level": 0,
        "base_sales_item_id": 41043,
        "prices": [
-        0.5,
-        0.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 41043,
-       "level": 1,
-       "base_sales_item_id": 41043,
-       "prices": [
-        0.5,
-        0.5,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 41043,
-       "level": 2,
-       "base_sales_item_id": 41043,
-       "prices": [
-        0.5,
-        0.5,
         0.5
        ]
       },
@@ -180164,28 +175734,6 @@
        "level": 0,
        "base_sales_item_id": 40279,
        "prices": [
-        1.0,
-        0.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 40279,
-       "level": 1,
-       "base_sales_item_id": 40279,
-       "prices": [
-        1.0,
-        1.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 40279,
-       "level": 2,
-       "base_sales_item_id": 40279,
-       "prices": [
-        1.0,
-        1.0,
         1.0
        ]
       },
@@ -180194,28 +175742,6 @@
        "level": 0,
        "base_sales_item_id": 40297,
        "prices": [
-        1.0,
-        0.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 40297,
-       "level": 1,
-       "base_sales_item_id": 40297,
-       "prices": [
-        1.0,
-        1.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 40297,
-       "level": 2,
-       "base_sales_item_id": 40297,
-       "prices": [
-        1.0,
-        1.0,
         1.0
        ]
       }
@@ -180229,28 +175755,6 @@
        "level": 0,
        "base_sales_item_id": 40002,
        "prices": [
-        0.0,
-        0.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 40002,
-       "level": 1,
-       "base_sales_item_id": 40002,
-       "prices": [
-        0.0,
-        0.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 40002,
-       "level": 2,
-       "base_sales_item_id": 40002,
-       "prices": [
-        0.0,
-        0.0,
         0.0
        ]
       },
@@ -180259,28 +175763,6 @@
        "level": 0,
        "base_sales_item_id": 41678,
        "prices": [
-        0.0,
-        0.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 41678,
-       "level": 1,
-       "base_sales_item_id": 41678,
-       "prices": [
-        0.0,
-        0.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 41678,
-       "level": 2,
-       "base_sales_item_id": 41678,
-       "prices": [
-        0.0,
-        0.0,
         0.0
        ]
       },
@@ -180289,28 +175771,6 @@
        "level": 0,
        "base_sales_item_id": 40270,
        "prices": [
-        0.0,
-        0.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 40270,
-       "level": 1,
-       "base_sales_item_id": 40270,
-       "prices": [
-        0.0,
-        0.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 40270,
-       "level": 2,
-       "base_sales_item_id": 40270,
-       "prices": [
-        0.0,
-        0.0,
         0.0
        ]
       },
@@ -180319,28 +175779,6 @@
        "level": 0,
        "base_sales_item_id": 40259,
        "prices": [
-        0.0,
-        0.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 40259,
-       "level": 1,
-       "base_sales_item_id": 40259,
-       "prices": [
-        0.0,
-        0.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 40259,
-       "level": 2,
-       "base_sales_item_id": 40259,
-       "prices": [
-        0.0,
-        0.0,
         0.0
        ]
       },
@@ -180349,28 +175787,6 @@
        "level": 0,
        "base_sales_item_id": 40263,
        "prices": [
-        0.0,
-        0.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 40263,
-       "level": 1,
-       "base_sales_item_id": 40263,
-       "prices": [
-        0.0,
-        0.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 40263,
-       "level": 2,
-       "base_sales_item_id": 40263,
-       "prices": [
-        0.0,
-        0.0,
         0.0
        ]
       },
@@ -180379,28 +175795,6 @@
        "level": 0,
        "base_sales_item_id": 40379,
        "prices": [
-        0.0,
-        0.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 40379,
-       "level": 1,
-       "base_sales_item_id": 40379,
-       "prices": [
-        0.0,
-        0.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 40379,
-       "level": 2,
-       "base_sales_item_id": 40379,
-       "prices": [
-        0.0,
-        0.0,
         0.0
        ]
       },
@@ -180409,28 +175803,6 @@
        "level": 0,
        "base_sales_item_id": 40501,
        "prices": [
-        0.0,
-        0.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 40501,
-       "level": 1,
-       "base_sales_item_id": 40501,
-       "prices": [
-        0.0,
-        0.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 40501,
-       "level": 2,
-       "base_sales_item_id": 40501,
-       "prices": [
-        0.0,
-        0.0,
         0.0
        ]
       },
@@ -180439,28 +175811,6 @@
        "level": 0,
        "base_sales_item_id": 40282,
        "prices": [
-        0.6,
-        0.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 40282,
-       "level": 1,
-       "base_sales_item_id": 40282,
-       "prices": [
-        0.6,
-        0.6,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 40282,
-       "level": 2,
-       "base_sales_item_id": 40282,
-       "prices": [
-        0.6,
-        0.6,
         0.6
        ]
       },
@@ -180469,28 +175819,6 @@
        "level": 0,
        "base_sales_item_id": 40356,
        "prices": [
-        0.75,
-        0.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 40356,
-       "level": 1,
-       "base_sales_item_id": 40356,
-       "prices": [
-        0.75,
-        0.75,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 40356,
-       "level": 2,
-       "base_sales_item_id": 40356,
-       "prices": [
-        0.75,
-        0.75,
         0.75
        ]
       },
@@ -180499,28 +175827,6 @@
        "level": 0,
        "base_sales_item_id": 40363,
        "prices": [
-        0.75,
-        0.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 40363,
-       "level": 1,
-       "base_sales_item_id": 40363,
-       "prices": [
-        0.75,
-        0.75,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 40363,
-       "level": 2,
-       "base_sales_item_id": 40363,
-       "prices": [
-        0.75,
-        0.75,
         0.75
        ]
       },
@@ -180529,28 +175835,6 @@
        "level": 0,
        "base_sales_item_id": 40530,
        "prices": [
-        0.75,
-        0.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 40530,
-       "level": 1,
-       "base_sales_item_id": 40530,
-       "prices": [
-        0.75,
-        0.75,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 40530,
-       "level": 2,
-       "base_sales_item_id": 40530,
-       "prices": [
-        0.75,
-        0.75,
         0.75
        ]
       },
@@ -180559,28 +175843,6 @@
        "level": 0,
        "base_sales_item_id": 41892,
        "prices": [
-        0.75,
-        0.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 41892,
-       "level": 1,
-       "base_sales_item_id": 41892,
-       "prices": [
-        0.75,
-        0.75,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 41892,
-       "level": 2,
-       "base_sales_item_id": 41892,
-       "prices": [
-        0.75,
-        0.75,
         0.75
        ]
       },
@@ -180589,28 +175851,6 @@
        "level": 0,
        "base_sales_item_id": 41898,
        "prices": [
-        0.75,
-        0.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 41898,
-       "level": 1,
-       "base_sales_item_id": 41898,
-       "prices": [
-        0.75,
-        0.75,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 41898,
-       "level": 2,
-       "base_sales_item_id": 41898,
-       "prices": [
-        0.75,
-        0.75,
         0.75
        ]
       },
@@ -180619,28 +175859,6 @@
        "level": 0,
        "base_sales_item_id": 40289,
        "prices": [
-        1.0,
-        0.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 40289,
-       "level": 1,
-       "base_sales_item_id": 40289,
-       "prices": [
-        1.0,
-        1.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 40289,
-       "level": 2,
-       "base_sales_item_id": 40289,
-       "prices": [
-        1.0,
-        1.0,
         1.0
        ]
       },
@@ -180649,28 +175867,6 @@
        "level": 0,
        "base_sales_item_id": 40294,
        "prices": [
-        1.0,
-        0.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 40294,
-       "level": 1,
-       "base_sales_item_id": 40294,
-       "prices": [
-        1.0,
-        1.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 40294,
-       "level": 2,
-       "base_sales_item_id": 40294,
-       "prices": [
-        1.0,
-        1.0,
         1.0
        ]
       },
@@ -180679,28 +175875,6 @@
        "level": 0,
        "base_sales_item_id": 41076,
        "prices": [
-        1.0,
-        0.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 41076,
-       "level": 1,
-       "base_sales_item_id": 41076,
-       "prices": [
-        1.0,
-        1.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 41076,
-       "level": 2,
-       "base_sales_item_id": 41076,
-       "prices": [
-        1.0,
-        1.0,
         1.0
        ]
       },
@@ -180709,28 +175883,6 @@
        "level": 0,
        "base_sales_item_id": 41895,
        "prices": [
-        1.0,
-        0.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 41895,
-       "level": 1,
-       "base_sales_item_id": 41895,
-       "prices": [
-        1.0,
-        1.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 41895,
-       "level": 2,
-       "base_sales_item_id": 41895,
-       "prices": [
-        1.0,
-        1.0,
         1.0
        ]
       },
@@ -180739,28 +175891,6 @@
        "level": 0,
        "base_sales_item_id": 41901,
        "prices": [
-        1.0,
-        0.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 41901,
-       "level": 1,
-       "base_sales_item_id": 41901,
-       "prices": [
-        1.0,
-        1.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 41901,
-       "level": 2,
-       "base_sales_item_id": 41901,
-       "prices": [
-        1.0,
-        1.0,
         1.0
        ]
       },
@@ -180769,28 +175899,6 @@
        "level": 0,
        "base_sales_item_id": 40273,
        "prices": [
-        1.0,
-        0.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 40273,
-       "level": 1,
-       "base_sales_item_id": 40273,
-       "prices": [
-        1.0,
-        1.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 40273,
-       "level": 2,
-       "base_sales_item_id": 40273,
-       "prices": [
-        1.0,
-        1.0,
         1.0
        ]
       },
@@ -180799,28 +175907,6 @@
        "level": 0,
        "base_sales_item_id": 40276,
        "prices": [
-        1.0,
-        0.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 40276,
-       "level": 1,
-       "base_sales_item_id": 40276,
-       "prices": [
-        1.0,
-        1.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 40276,
-       "level": 2,
-       "base_sales_item_id": 40276,
-       "prices": [
-        1.0,
-        1.0,
         1.0
        ]
       },
@@ -180829,28 +175915,6 @@
        "level": 0,
        "base_sales_item_id": 41707,
        "prices": [
-        2.0,
-        0.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 41707,
-       "level": 1,
-       "base_sales_item_id": 41707,
-       "prices": [
-        2.0,
-        2.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 41707,
-       "level": 2,
-       "base_sales_item_id": 41707,
-       "prices": [
-        2.0,
-        2.0,
         2.0
        ]
       },
@@ -180859,28 +175923,6 @@
        "level": 0,
        "base_sales_item_id": 40336,
        "prices": [
-        1.0,
-        0.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 40336,
-       "level": 1,
-       "base_sales_item_id": 40336,
-       "prices": [
-        1.0,
-        1.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 40336,
-       "level": 2,
-       "base_sales_item_id": 40336,
-       "prices": [
-        1.0,
-        1.0,
         1.0
        ]
       },
@@ -180889,28 +175931,6 @@
        "level": 0,
        "base_sales_item_id": 40338,
        "prices": [
-        1.0,
-        0.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 40338,
-       "level": 1,
-       "base_sales_item_id": 40338,
-       "prices": [
-        1.0,
-        1.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 40338,
-       "level": 2,
-       "base_sales_item_id": 40338,
-       "prices": [
-        1.0,
-        1.0,
         1.0
        ]
       },
@@ -180919,28 +175939,6 @@
        "level": 0,
        "base_sales_item_id": 40332,
        "prices": [
-        1.0,
-        0.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 40332,
-       "level": 1,
-       "base_sales_item_id": 40332,
-       "prices": [
-        1.0,
-        1.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 40332,
-       "level": 2,
-       "base_sales_item_id": 40332,
-       "prices": [
-        1.0,
-        1.0,
         1.0
        ]
       },
@@ -180949,28 +175947,6 @@
        "level": 0,
        "base_sales_item_id": 40330,
        "prices": [
-        1.0,
-        0.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 40330,
-       "level": 1,
-       "base_sales_item_id": 40330,
-       "prices": [
-        1.0,
-        1.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 40330,
-       "level": 2,
-       "base_sales_item_id": 40330,
-       "prices": [
-        1.0,
-        1.0,
         1.0
        ]
       },
@@ -180979,28 +175955,6 @@
        "level": 0,
        "base_sales_item_id": 40335,
        "prices": [
-        1.0,
-        0.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 40335,
-       "level": 1,
-       "base_sales_item_id": 40335,
-       "prices": [
-        1.0,
-        1.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 40335,
-       "level": 2,
-       "base_sales_item_id": 40335,
-       "prices": [
-        1.0,
-        1.0,
         1.0
        ]
       },
@@ -181009,28 +175963,6 @@
        "level": 0,
        "base_sales_item_id": 40322,
        "prices": [
-        0.5,
-        0.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 40322,
-       "level": 1,
-       "base_sales_item_id": 40322,
-       "prices": [
-        0.5,
-        0.5,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 40322,
-       "level": 2,
-       "base_sales_item_id": 40322,
-       "prices": [
-        0.5,
-        0.5,
         0.5
        ]
       },
@@ -181039,28 +175971,6 @@
        "level": 0,
        "base_sales_item_id": 40329,
        "prices": [
-        0.5,
-        0.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 40329,
-       "level": 1,
-       "base_sales_item_id": 40329,
-       "prices": [
-        0.5,
-        0.5,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 40329,
-       "level": 2,
-       "base_sales_item_id": 40329,
-       "prices": [
-        0.5,
-        0.5,
         0.5
        ]
       },
@@ -181069,28 +175979,6 @@
        "level": 0,
        "base_sales_item_id": 41862,
        "prices": [
-        1.45,
-        0.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 41862,
-       "level": 1,
-       "base_sales_item_id": 41862,
-       "prices": [
-        1.45,
-        1.45,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 41862,
-       "level": 2,
-       "base_sales_item_id": 41862,
-       "prices": [
-        1.45,
-        1.45,
         1.45
        ]
       },
@@ -181099,28 +175987,6 @@
        "level": 0,
        "base_sales_item_id": 40340,
        "prices": [
-        1.0,
-        0.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 40340,
-       "level": 1,
-       "base_sales_item_id": 40340,
-       "prices": [
-        1.0,
-        1.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 40340,
-       "level": 2,
-       "base_sales_item_id": 40340,
-       "prices": [
-        1.0,
-        1.0,
         1.0
        ]
       },
@@ -181129,28 +175995,6 @@
        "level": 0,
        "base_sales_item_id": 41039,
        "prices": [
-        2.0,
-        0.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 41039,
-       "level": 1,
-       "base_sales_item_id": 41039,
-       "prices": [
-        2.0,
-        2.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 41039,
-       "level": 2,
-       "base_sales_item_id": 41039,
-       "prices": [
-        2.0,
-        2.0,
         2.0
        ]
       },
@@ -181159,28 +176003,6 @@
        "level": 0,
        "base_sales_item_id": 40988,
        "prices": [
-        1.0,
-        0.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 40988,
-       "level": 1,
-       "base_sales_item_id": 40988,
-       "prices": [
-        1.0,
-        1.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 40988,
-       "level": 2,
-       "base_sales_item_id": 40988,
-       "prices": [
-        1.0,
-        1.0,
         1.0
        ]
       },
@@ -181189,28 +176011,6 @@
        "level": 0,
        "base_sales_item_id": 41260,
        "prices": [
-        2.0,
-        0.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 41260,
-       "level": 1,
-       "base_sales_item_id": 41260,
-       "prices": [
-        2.0,
-        2.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 41260,
-       "level": 2,
-       "base_sales_item_id": 41260,
-       "prices": [
-        2.0,
-        2.0,
         2.0
        ]
       },
@@ -181219,28 +176019,6 @@
        "level": 0,
        "base_sales_item_id": 41041,
        "prices": [
-        1.0,
-        0.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 41041,
-       "level": 1,
-       "base_sales_item_id": 41041,
-       "prices": [
-        1.0,
-        1.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 41041,
-       "level": 2,
-       "base_sales_item_id": 41041,
-       "prices": [
-        1.0,
-        1.0,
         1.0
        ]
       },
@@ -181249,28 +176027,6 @@
        "level": 0,
        "base_sales_item_id": 41407,
        "prices": [
-        1.0,
-        0.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 41407,
-       "level": 1,
-       "base_sales_item_id": 41407,
-       "prices": [
-        1.0,
-        1.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 41407,
-       "level": 2,
-       "base_sales_item_id": 41407,
-       "prices": [
-        1.0,
-        1.0,
         1.0
        ]
       },
@@ -181279,28 +176035,6 @@
        "level": 0,
        "base_sales_item_id": 41673,
        "prices": [
-        2.0,
-        0.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 41673,
-       "level": 1,
-       "base_sales_item_id": 41673,
-       "prices": [
-        2.0,
-        2.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 41673,
-       "level": 2,
-       "base_sales_item_id": 41673,
-       "prices": [
-        2.0,
-        2.0,
         2.0
        ]
       },
@@ -181309,28 +176043,6 @@
        "level": 0,
        "base_sales_item_id": 41037,
        "prices": [
-        1.0,
-        0.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 41037,
-       "level": 1,
-       "base_sales_item_id": 41037,
-       "prices": [
-        1.0,
-        1.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 41037,
-       "level": 2,
-       "base_sales_item_id": 41037,
-       "prices": [
-        1.0,
-        1.0,
         1.0
        ]
       },
@@ -181339,28 +176051,6 @@
        "level": 0,
        "base_sales_item_id": 41029,
        "prices": [
-        0.5,
-        0.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 41029,
-       "level": 1,
-       "base_sales_item_id": 41029,
-       "prices": [
-        0.5,
-        0.5,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 41029,
-       "level": 2,
-       "base_sales_item_id": 41029,
-       "prices": [
-        0.5,
-        0.5,
         0.5
        ]
       },
@@ -181369,28 +176059,6 @@
        "level": 0,
        "base_sales_item_id": 41027,
        "prices": [
-        0.0,
-        0.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 41027,
-       "level": 1,
-       "base_sales_item_id": 41027,
-       "prices": [
-        0.0,
-        0.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 41027,
-       "level": 2,
-       "base_sales_item_id": 41027,
-       "prices": [
-        0.0,
-        0.0,
         0.0
        ]
       },
@@ -181399,28 +176067,6 @@
        "level": 0,
        "base_sales_item_id": 41028,
        "prices": [
-        0.5,
-        0.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 41028,
-       "level": 1,
-       "base_sales_item_id": 41028,
-       "prices": [
-        0.5,
-        0.5,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 41028,
-       "level": 2,
-       "base_sales_item_id": 41028,
-       "prices": [
-        0.5,
-        0.5,
         0.5
        ]
       },
@@ -181429,28 +176075,6 @@
        "level": 0,
        "base_sales_item_id": 41043,
        "prices": [
-        0.5,
-        0.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 41043,
-       "level": 1,
-       "base_sales_item_id": 41043,
-       "prices": [
-        0.5,
-        0.5,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 41043,
-       "level": 2,
-       "base_sales_item_id": 41043,
-       "prices": [
-        0.5,
-        0.5,
         0.5
        ]
       },
@@ -181459,28 +176083,6 @@
        "level": 0,
        "base_sales_item_id": 40279,
        "prices": [
-        1.0,
-        0.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 40279,
-       "level": 1,
-       "base_sales_item_id": 40279,
-       "prices": [
-        1.0,
-        1.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 40279,
-       "level": 2,
-       "base_sales_item_id": 40279,
-       "prices": [
-        1.0,
-        1.0,
         1.0
        ]
       },
@@ -181489,28 +176091,6 @@
        "level": 0,
        "base_sales_item_id": 40297,
        "prices": [
-        1.0,
-        0.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 40297,
-       "level": 1,
-       "base_sales_item_id": 40297,
-       "prices": [
-        1.0,
-        1.0,
-        0.0
-       ]
-      },
-      {
-       "sales_item_id": 40297,
-       "level": 2,
-       "base_sales_item_id": 40297,
-       "prices": [
-        1.0,
-        1.0,
         1.0
        ]
       }
