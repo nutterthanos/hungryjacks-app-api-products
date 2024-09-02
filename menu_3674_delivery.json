@@ -4,7 +4,7 @@
  "store_name": "Burdell",
  "order_mode": "Delivery",
  "menu_id": 1001,
- "last_updated": "2024-08-29T18:09:51.2468834Z",
+ "last_updated": "2024-08-30T18:11:20.5292689Z",
  "images_category_basepath": "https://s3-ap-southeast-2.amazonaws.com/hungryjack-prod/image/category/1001/",
  "images_item_basepath": "https://s3-ap-southeast-2.amazonaws.com/hungryjack-prod/image/item/1001/",
  "images_promos_basepath": "https://s3-ap-southeast-2.amazonaws.com/hungryjack-prod/image/promo/1001/",
