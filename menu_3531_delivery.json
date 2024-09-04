@@ -4,11 +4,11 @@
  "store_name": "Beak House",
  "order_mode": "Delivery",
  "menu_id": 1001,
- "last_updated": "2024-09-01T18:02:52.8491769Z",
+ "last_updated": "2024-09-02T17:56:18.5809437Z",
  "images_category_basepath": "https://s3-ap-southeast-2.amazonaws.com/hungryjack-prod/image/category/1001/",
  "images_item_basepath": "https://s3-ap-southeast-2.amazonaws.com/hungryjack-prod/image/item/1001/",
  "images_promos_basepath": "https://s3-ap-southeast-2.amazonaws.com/hungryjack-prod/image/promo/1001/",
- "ordering_enabled": true,
+ "ordering_enabled": false,
  "additional_fees": {
   "delivery": 5.95
  },
