@@ -4,7 +4,7 @@
  "store_name": "Falcon",
  "order_mode": "Delivery",
  "menu_id": 1001,
- "last_updated": "2024-09-02T17:17:42.1349514Z",
+ "last_updated": "2024-09-03T17:17:43.7315238Z",
  "images_category_basepath": "https://s3-ap-southeast-2.amazonaws.com/hungryjack-prod/image/category/1001/",
  "images_item_basepath": "https://s3-ap-southeast-2.amazonaws.com/hungryjack-prod/image/item/1001/",
  "images_promos_basepath": "https://s3-ap-southeast-2.amazonaws.com/hungryjack-prod/image/promo/1001/",
