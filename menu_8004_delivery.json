@@ -4,7 +4,7 @@
  "store_name": "Bentley",
  "order_mode": "Delivery",
  "menu_id": 1001,
- "last_updated": "2024-09-03T18:04:24.1081989Z",
+ "last_updated": "2024-09-04T02:01:12.410924Z",
  "images_category_basepath": "https://s3-ap-southeast-2.amazonaws.com/hungryjack-prod/image/category/1001/",
  "images_item_basepath": "https://s3-ap-southeast-2.amazonaws.com/hungryjack-prod/image/item/1001/",
  "images_promos_basepath": "https://s3-ap-southeast-2.amazonaws.com/hungryjack-prod/image/promo/1001/",
