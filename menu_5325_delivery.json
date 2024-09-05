@@ -4,7 +4,7 @@
  "store_name": "Michaels",
  "order_mode": "Delivery",
  "menu_id": 1001,
- "last_updated": "2024-09-04T02:03:51.4478769Z",
+ "last_updated": "2024-09-04T18:05:42.1414372Z",
  "images_category_basepath": "https://s3-ap-southeast-2.amazonaws.com/hungryjack-prod/image/category/1001/",
  "images_item_basepath": "https://s3-ap-southeast-2.amazonaws.com/hungryjack-prod/image/item/1001/",
  "images_promos_basepath": "https://s3-ap-southeast-2.amazonaws.com/hungryjack-prod/image/promo/1001/",
@@ -22968,228 +22968,6 @@
    "menu_item_id": 30801,
    "parent_menu_id": 1001,
    "name": "Vegan Whopper® Cheese Value Meal",
-   "image": "1587/2.png",
-   "thumb": "1587/2_thumb.png",
-   "image_banner": "1587_banner.png",
-   "image_mobile": "1587_mobile.png",
-   "option_name": "Large Meal",
-   "default_sales_item_ids": [
-    40689,
-    40349,
-    40003,
-    40410
-   ],
-   "description": "Yes, 100% Vegan! Double vegan patty (made from corn, capsicum and carrot), vegan cheese and vegan mayonnaise with tomato sauce, onions, fresh tomato and crisp lettuce on a delicious seeded bun.",
-   "sales_item_ids": [
-    40689,
-    40349,
-    40582,
-    40003,
-    41679,
-    40272,
-    40261,
-    40265,
-    41097,
-    40283,
-    40274,
-    40277,
-    40299,
-    40280,
-    41708,
-    40331,
-    40337,
-    40333,
-    40339,
-    40334,
-    41861,
-    40341,
-    41040,
-    40989,
-    41042,
-    41261,
-    41408,
-    41674,
-    41038,
-    40410
-   ],
-   "base_menu_item_id": 30471,
-   "combo_level": 2,
-   "promo_id": 1587,
-   "pos_item_id": null,
-   "combo_next_level_diff_price": null,
-   "sales_groups": [
-    {
-     "menu_item_id": 30801,
-     "sales_group_id": 0,
-     "name": "Burger",
-     "component_id": 1,
-     "sales_item_ids": [
-      {
-       "id": 40689,
-       "diff": 0.0
-      }
-     ],
-     "default_sales_item_id": 40689,
-     "ranking": 0,
-     "is_visible": true
-    },
-    {
-     "menu_item_id": 30801,
-     "sales_group_id": 0,
-     "name": "Side",
-     "component_id": 2,
-     "sales_item_ids": [
-      {
-       "id": 40349,
-       "diff": 0.0
-      },
-      {
-       "id": 40582,
-       "diff": 0.8
-      }
-     ],
-     "default_sales_item_id": 40349,
-     "ranking": 0,
-     "is_visible": true
-    },
-    {
-     "menu_item_id": 30801,
-     "sales_group_id": 0,
-     "name": "Drink 1",
-     "component_id": 3,
-     "sales_item_ids": [
-      {
-       "id": 40003,
-       "diff": 0.0
-      },
-      {
-       "id": 41679,
-       "diff": 0.0
-      },
-      {
-       "id": 40272,
-       "diff": 0.0
-      },
-      {
-       "id": 40261,
-       "diff": 0.0
-      },
-      {
-       "id": 40265,
-       "diff": 0.0
-      },
-      {
-       "id": 41097,
-       "diff": 0.0
-      },
-      {
-       "id": 40283,
-       "diff": 0.6
-      },
-      {
-       "id": 40274,
-       "diff": 1.0
-      },
-      {
-       "id": 40277,
-       "diff": 1.0
-      },
-      {
-       "id": 40299,
-       "diff": 1.0
-      },
-      {
-       "id": 40280,
-       "diff": 1.0
-      },
-      {
-       "id": 41708,
-       "diff": 2.0
-      },
-      {
-       "id": 40331,
-       "diff": 1.0
-      },
-      {
-       "id": 40337,
-       "diff": 1.0
-      },
-      {
-       "id": 40333,
-       "diff": 1.0
-      },
-      {
-       "id": 40339,
-       "diff": 1.0
-      },
-      {
-       "id": 40334,
-       "diff": 1.0
-      },
-      {
-       "id": 41861,
-       "diff": 1.45
-      },
-      {
-       "id": 40341,
-       "diff": 1.0
-      },
-      {
-       "id": 41040,
-       "diff": 2.0
-      },
-      {
-       "id": 40989,
-       "diff": 1.0
-      },
-      {
-       "id": 41042,
-       "diff": 1.0
-      },
-      {
-       "id": 41261,
-       "diff": 2.0
-      },
-      {
-       "id": 41408,
-       "diff": 1.0
-      },
-      {
-       "id": 41674,
-       "diff": 2.0
-      },
-      {
-       "id": 41038,
-       "diff": 1.0
-      }
-     ],
-     "default_sales_item_id": 40003,
-     "ranking": 0,
-     "is_visible": true
-    },
-    {
-     "menu_item_id": 30801,
-     "sales_group_id": 0,
-     "name": "Marker",
-     "component_id": 4,
-     "sales_item_ids": [
-      {
-       "id": 40410,
-       "diff": 0.0
-      }
-     ],
-     "default_sales_item_id": 40410,
-     "ranking": 0,
-     "is_visible": false
-    }
-   ],
-   "default_price": 14.0,
-   "is_visible": false
-  },
-  {
-   "menu_item_id": 30801,
-   "parent_menu_id": 1001,
-   "name": "Vegan Whopper® Cheese Value Meal",
    "image": "1587/1.png",
    "thumb": "1587/1_thumb.png",
    "image_banner": "1587_banner.png",
@@ -23406,6 +23184,228 @@
     }
    ],
    "default_price": 12.75,
+   "is_visible": false
+  },
+  {
+   "menu_item_id": 30801,
+   "parent_menu_id": 1001,
+   "name": "Vegan Whopper® Cheese Value Meal",
+   "image": "1587/2.png",
+   "thumb": "1587/2_thumb.png",
+   "image_banner": "1587_banner.png",
+   "image_mobile": "1587_mobile.png",
+   "option_name": "Large Meal",
+   "default_sales_item_ids": [
+    40689,
+    40349,
+    40003,
+    40410
+   ],
+   "description": "Yes, 100% Vegan! Double vegan patty (made from corn, capsicum and carrot), vegan cheese and vegan mayonnaise with tomato sauce, onions, fresh tomato and crisp lettuce on a delicious seeded bun.",
+   "sales_item_ids": [
+    40689,
+    40349,
+    40582,
+    40003,
+    41679,
+    40272,
+    40261,
+    40265,
+    41097,
+    40283,
+    40274,
+    40277,
+    40299,
+    40280,
+    41708,
+    40331,
+    40337,
+    40333,
+    40339,
+    40334,
+    41861,
+    40341,
+    41040,
+    40989,
+    41042,
+    41261,
+    41408,
+    41674,
+    41038,
+    40410
+   ],
+   "base_menu_item_id": 30471,
+   "combo_level": 2,
+   "promo_id": 1587,
+   "pos_item_id": null,
+   "combo_next_level_diff_price": null,
+   "sales_groups": [
+    {
+     "menu_item_id": 30801,
+     "sales_group_id": 0,
+     "name": "Burger",
+     "component_id": 1,
+     "sales_item_ids": [
+      {
+       "id": 40689,
+       "diff": 0.0
+      }
+     ],
+     "default_sales_item_id": 40689,
+     "ranking": 0,
+     "is_visible": true
+    },
+    {
+     "menu_item_id": 30801,
+     "sales_group_id": 0,
+     "name": "Side",
+     "component_id": 2,
+     "sales_item_ids": [
+      {
+       "id": 40349,
+       "diff": 0.0
+      },
+      {
+       "id": 40582,
+       "diff": 0.8
+      }
+     ],
+     "default_sales_item_id": 40349,
+     "ranking": 0,
+     "is_visible": true
+    },
+    {
+     "menu_item_id": 30801,
+     "sales_group_id": 0,
+     "name": "Drink 1",
+     "component_id": 3,
+     "sales_item_ids": [
+      {
+       "id": 40003,
+       "diff": 0.0
+      },
+      {
+       "id": 41679,
+       "diff": 0.0
+      },
+      {
+       "id": 40272,
+       "diff": 0.0
+      },
+      {
+       "id": 40261,
+       "diff": 0.0
+      },
+      {
+       "id": 40265,
+       "diff": 0.0
+      },
+      {
+       "id": 41097,
+       "diff": 0.0
+      },
+      {
+       "id": 40283,
+       "diff": 0.6
+      },
+      {
+       "id": 40274,
+       "diff": 1.0
+      },
+      {
+       "id": 40277,
+       "diff": 1.0
+      },
+      {
+       "id": 40299,
+       "diff": 1.0
+      },
+      {
+       "id": 40280,
+       "diff": 1.0
+      },
+      {
+       "id": 41708,
+       "diff": 2.0
+      },
+      {
+       "id": 40331,
+       "diff": 1.0
+      },
+      {
+       "id": 40337,
+       "diff": 1.0
+      },
+      {
+       "id": 40333,
+       "diff": 1.0
+      },
+      {
+       "id": 40339,
+       "diff": 1.0
+      },
+      {
+       "id": 40334,
+       "diff": 1.0
+      },
+      {
+       "id": 41861,
+       "diff": 1.45
+      },
+      {
+       "id": 40341,
+       "diff": 1.0
+      },
+      {
+       "id": 41040,
+       "diff": 2.0
+      },
+      {
+       "id": 40989,
+       "diff": 1.0
+      },
+      {
+       "id": 41042,
+       "diff": 1.0
+      },
+      {
+       "id": 41261,
+       "diff": 2.0
+      },
+      {
+       "id": 41408,
+       "diff": 1.0
+      },
+      {
+       "id": 41674,
+       "diff": 2.0
+      },
+      {
+       "id": 41038,
+       "diff": 1.0
+      }
+     ],
+     "default_sales_item_id": 40003,
+     "ranking": 0,
+     "is_visible": true
+    },
+    {
+     "menu_item_id": 30801,
+     "sales_group_id": 0,
+     "name": "Marker",
+     "component_id": 4,
+     "sales_item_ids": [
+      {
+       "id": 40410,
+       "diff": 0.0
+      }
+     ],
+     "default_sales_item_id": 40410,
+     "ranking": 0,
+     "is_visible": false
+    }
+   ],
+   "default_price": 14.0,
    "is_visible": false
   },
   {
