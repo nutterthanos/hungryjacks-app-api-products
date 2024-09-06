@@ -4,7 +4,7 @@
  "store_name": "Hervey Bay",
  "order_mode": "Delivery",
  "menu_id": 1001,
- "last_updated": "2024-09-04T17:52:44.4489844Z",
+ "last_updated": "2024-09-05T17:53:25.1730028Z",
  "images_category_basepath": "https://s3-ap-southeast-2.amazonaws.com/hungryjack-prod/image/category/1001/",
  "images_item_basepath": "https://s3-ap-southeast-2.amazonaws.com/hungryjack-prod/image/item/1001/",
  "images_promos_basepath": "https://s3-ap-southeast-2.amazonaws.com/hungryjack-prod/image/promo/1001/",
