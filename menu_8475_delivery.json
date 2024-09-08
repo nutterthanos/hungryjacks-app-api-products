@@ -4,7 +4,7 @@
  "store_name": "Griffith",
  "order_mode": "Delivery",
  "menu_id": 1001,
- "last_updated": "2024-09-05T17:26:00.1223308Z",
+ "last_updated": "2024-09-06T17:26:08.3345159Z",
  "images_category_basepath": "https://s3-ap-southeast-2.amazonaws.com/hungryjack-prod/image/category/1001/",
  "images_item_basepath": "https://s3-ap-southeast-2.amazonaws.com/hungryjack-prod/image/item/1001/",
  "images_promos_basepath": "https://s3-ap-southeast-2.amazonaws.com/hungryjack-prod/image/promo/1001/",
@@ -48517,7 +48517,8 @@
     41926,
     40343,
     40001,
-    40562
+    40562,
+    40408
    ],
    "description": null,
    "sales_item_ids": [
@@ -48549,7 +48550,12 @@
     41406,
     41672,
     41034,
-    40562
+    40562,
+    40559,
+    40560,
+    40561,
+    41637,
+    40408
    ],
    "base_menu_item_id": 32803,
    "combo_level": 0,
@@ -48711,11 +48717,42 @@
       {
        "id": 40562,
        "diff": 0.0
+      },
+      {
+       "id": 40559,
+       "diff": 0.0
+      },
+      {
+       "id": 40560,
+       "diff": 0.0
+      },
+      {
+       "id": 40561,
+       "diff": 0.0
+      },
+      {
+       "id": 41637,
+       "diff": 0.0
       }
      ],
      "default_sales_item_id": 40562,
      "ranking": 0,
      "is_visible": true
+    },
+    {
+     "menu_item_id": 32803,
+     "sales_group_id": 0,
+     "name": "Marker",
+     "component_id": 5,
+     "sales_item_ids": [
+      {
+       "id": 40408,
+       "diff": 0.0
+      }
+     ],
+     "default_sales_item_id": 40408,
+     "ranking": 0,
+     "is_visible": false
     }
    ],
    "default_price": 15.55,
@@ -48734,7 +48771,8 @@
     41927,
     40343,
     40001,
-    40562
+    40562,
+    40408
    ],
    "description": null,
    "sales_item_ids": [
@@ -48766,7 +48804,12 @@
     41406,
     41672,
     41034,
-    40562
+    40562,
+    40559,
+    40560,
+    40561,
+    41637,
+    40408
    ],
    "base_menu_item_id": 32804,
    "combo_level": 0,
@@ -48928,11 +48971,42 @@
       {
        "id": 40562,
        "diff": 0.0
+      },
+      {
+       "id": 40559,
+       "diff": 0.0
+      },
+      {
+       "id": 40560,
+       "diff": 0.0
+      },
+      {
+       "id": 40561,
+       "diff": 0.0
+      },
+      {
+       "id": 41637,
+       "diff": 0.0
       }
      ],
      "default_sales_item_id": 40562,
      "ranking": 0,
      "is_visible": true
+    },
+    {
+     "menu_item_id": 32804,
+     "sales_group_id": 0,
+     "name": "Marker",
+     "component_id": 5,
+     "sales_item_ids": [
+      {
+       "id": 40408,
+       "diff": 0.0
+      }
+     ],
+     "default_sales_item_id": 40408,
+     "ranking": 0,
+     "is_visible": false
     }
    ],
    "default_price": 19.2,
@@ -197476,6 +197550,51 @@
        "prices": [
         0.0
        ]
+      },
+      {
+       "sales_item_id": 40559,
+       "level": 0,
+       "base_sales_item_id": 40559,
+       "prices": [
+        0.0
+       ]
+      },
+      {
+       "sales_item_id": 40560,
+       "level": 0,
+       "base_sales_item_id": 40560,
+       "prices": [
+        0.0
+       ]
+      },
+      {
+       "sales_item_id": 40561,
+       "level": 0,
+       "base_sales_item_id": 40561,
+       "prices": [
+        0.0
+       ]
+      },
+      {
+       "sales_item_id": 41637,
+       "level": 0,
+       "base_sales_item_id": 41637,
+       "prices": [
+        0.0
+       ]
+      }
+     ]
+    },
+    {
+     "id": 5,
+     "prices": [
+      {
+       "sales_item_id": 40408,
+       "level": 0,
+       "base_sales_item_id": 40408,
+       "prices": [
+        0.0
+       ]
       }
      ]
     }
@@ -197866,6 +197985,51 @@
        "sales_item_id": 40562,
        "level": 0,
        "base_sales_item_id": 40562,
+       "prices": [
+        0.0
+       ]
+      },
+      {
+       "sales_item_id": 40559,
+       "level": 0,
+       "base_sales_item_id": 40559,
+       "prices": [
+        0.0
+       ]
+      },
+      {
+       "sales_item_id": 40560,
+       "level": 0,
+       "base_sales_item_id": 40560,
+       "prices": [
+        0.0
+       ]
+      },
+      {
+       "sales_item_id": 40561,
+       "level": 0,
+       "base_sales_item_id": 40561,
+       "prices": [
+        0.0
+       ]
+      },
+      {
+       "sales_item_id": 41637,
+       "level": 0,
+       "base_sales_item_id": 41637,
+       "prices": [
+        0.0
+       ]
+      }
+     ]
+    },
+    {
+     "id": 5,
+     "prices": [
+      {
+       "sales_item_id": 40408,
+       "level": 0,
+       "base_sales_item_id": 40408,
        "prices": [
         0.0
        ]

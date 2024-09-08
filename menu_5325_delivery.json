@@ -4,7 +4,7 @@
  "store_name": "Michaels",
  "order_mode": "Delivery",
  "menu_id": 1001,
- "last_updated": "2024-09-05T18:06:22.7455118Z",
+ "last_updated": "2024-09-06T18:08:15.3249585Z",
  "images_category_basepath": "https://s3-ap-southeast-2.amazonaws.com/hungryjack-prod/image/category/1001/",
  "images_item_basepath": "https://s3-ap-southeast-2.amazonaws.com/hungryjack-prod/image/item/1001/",
  "images_promos_basepath": "https://s3-ap-southeast-2.amazonaws.com/hungryjack-prod/image/promo/1001/",
@@ -37839,228 +37839,6 @@
    "menu_item_id": 32359,
    "parent_menu_id": 1001,
    "name": "Double Bacon & Egg Turkish Brekky Roll Value Meal",
-   "image": "3083/1.png",
-   "thumb": "3083/1_thumb.png",
-   "image_banner": "3083_banner.png",
-   "image_mobile": "3083_mobile.png",
-   "option_name": "Medium Meal",
-   "default_sales_item_ids": [
-    41749,
-    40414,
-    40330,
-    40409
-   ],
-   "description": "Mornings just got BIGGER and better. Try our NEW Double Bacon & Egg Turkish Brekky Roll, with double premium bacon, freshly cracked egg, cheese, and smoky BBQ sauce, on a toasted hand-stretched Turkish roll.",
-   "sales_item_ids": [
-    41749,
-    40414,
-    40348,
-    40330,
-    40332,
-    40336,
-    40335,
-    40338,
-    41862,
-    40340,
-    41037,
-    40988,
-    41039,
-    41041,
-    41260,
-    41407,
-    41673,
-    41096,
-    40282,
-    40002,
-    41678,
-    40270,
-    40259,
-    40263,
-    40273,
-    40297,
-    40276,
-    40279,
-    41707,
-    40409
-   ],
-   "base_menu_item_id": 32342,
-   "combo_level": 1,
-   "promo_id": 3083,
-   "pos_item_id": null,
-   "combo_next_level_diff_price": 1.1,
-   "sales_groups": [
-    {
-     "menu_item_id": 32359,
-     "sales_group_id": 0,
-     "name": "Burger",
-     "component_id": 1,
-     "sales_item_ids": [
-      {
-       "id": 41749,
-       "diff": 0.0
-      }
-     ],
-     "default_sales_item_id": 41749,
-     "ranking": 0,
-     "is_visible": true
-    },
-    {
-     "menu_item_id": 32359,
-     "sales_group_id": 0,
-     "name": "Breakfast Side",
-     "component_id": 2,
-     "sales_item_ids": [
-      {
-       "id": 40414,
-       "diff": 0.0
-      },
-      {
-       "id": 40348,
-       "diff": 0.5
-      }
-     ],
-     "default_sales_item_id": 40414,
-     "ranking": 0,
-     "is_visible": true
-    },
-    {
-     "menu_item_id": 32359,
-     "sales_group_id": 0,
-     "name": "Breakfast Drink",
-     "component_id": 3,
-     "sales_item_ids": [
-      {
-       "id": 40330,
-       "diff": 0.0
-      },
-      {
-       "id": 40332,
-       "diff": 0.0
-      },
-      {
-       "id": 40336,
-       "diff": 0.0
-      },
-      {
-       "id": 40335,
-       "diff": 0.0
-      },
-      {
-       "id": 40338,
-       "diff": 0.5
-      },
-      {
-       "id": 41862,
-       "diff": 0.45
-      },
-      {
-       "id": 40340,
-       "diff": 0.0
-      },
-      {
-       "id": 41037,
-       "diff": 0.0
-      },
-      {
-       "id": 40988,
-       "diff": 1.0
-      },
-      {
-       "id": 41039,
-       "diff": 1.0
-      },
-      {
-       "id": 41041,
-       "diff": 1.0
-      },
-      {
-       "id": 41260,
-       "diff": 1.0
-      },
-      {
-       "id": 41407,
-       "diff": 1.0
-      },
-      {
-       "id": 41673,
-       "diff": 1.0
-      },
-      {
-       "id": 41096,
-       "diff": 0.0
-      },
-      {
-       "id": 40282,
-       "diff": 0.6
-      },
-      {
-       "id": 40002,
-       "diff": 0.0
-      },
-      {
-       "id": 41678,
-       "diff": 0.0
-      },
-      {
-       "id": 40270,
-       "diff": 0.0
-      },
-      {
-       "id": 40259,
-       "diff": 0.0
-      },
-      {
-       "id": 40263,
-       "diff": 0.0
-      },
-      {
-       "id": 40273,
-       "diff": 1.0
-      },
-      {
-       "id": 40297,
-       "diff": 1.0
-      },
-      {
-       "id": 40276,
-       "diff": 1.0
-      },
-      {
-       "id": 40279,
-       "diff": 1.0
-      },
-      {
-       "id": 41707,
-       "diff": 2.0
-      }
-     ],
-     "default_sales_item_id": 40330,
-     "ranking": 0,
-     "is_visible": true
-    },
-    {
-     "menu_item_id": 32359,
-     "sales_group_id": 0,
-     "name": "Marker",
-     "component_id": 4,
-     "sales_item_ids": [
-      {
-       "id": 40409,
-       "diff": 0.0
-      }
-     ],
-     "default_sales_item_id": 40409,
-     "ranking": 0,
-     "is_visible": false
-    }
-   ],
-   "default_price": 11.0,
-   "is_visible": false
-  },
-  {
-   "menu_item_id": 32359,
-   "parent_menu_id": 1001,
-   "name": "Double Bacon & Egg Turkish Brekky Roll Value Meal",
    "image": "3083/2.png",
    "thumb": "3083/2_thumb.png",
    "image_banner": "3083_banner.png",
@@ -38280,76 +38058,76 @@
    "is_visible": false
   },
   {
-   "menu_item_id": 32360,
+   "menu_item_id": 32359,
    "parent_menu_id": 1001,
-   "name": "Double Sausage & Egg Turkish Brekky Roll Value Meal",
-   "image": "3085/2.png",
-   "thumb": "3085/2_thumb.png",
-   "image_banner": "3085_banner.png",
-   "image_mobile": "3085_mobile.png",
-   "option_name": "Large Meal",
+   "name": "Double Bacon & Egg Turkish Brekky Roll Value Meal",
+   "image": "3083/1.png",
+   "thumb": "3083/1_thumb.png",
+   "image_banner": "3083_banner.png",
+   "image_mobile": "3083_mobile.png",
+   "option_name": "Medium Meal",
    "default_sales_item_ids": [
-    41750,
+    41749,
     40414,
-    40331,
-    40571
+    40330,
+    40409
    ],
-   "description": "Mornings just got BIGGER and better. Try our NEW Double Sausage & Egg Turkish Brekky Roll, with double flame-grilled sausage patties, freshly cracked egg, cheese, and smoky BBQ sauce, on a toasted hand-stretched Turkish roll.",
+   "description": "Mornings just got BIGGER and better. Try our NEW Double Bacon & Egg Turkish Brekky Roll, with double premium bacon, freshly cracked egg, cheese, and smoky BBQ sauce, on a toasted hand-stretched Turkish roll.",
    "sales_item_ids": [
-    41750,
+    41749,
     40414,
     40348,
-    40331,
-    40333,
-    40337,
-    40334,
-    40339,
-    41861,
-    40341,
-    41038,
-    40989,
-    41040,
-    41042,
-    41261,
-    41408,
-    41674,
-    41097,
-    40283,
-    40003,
-    41679,
-    40272,
-    40261,
-    40265,
-    40274,
-    40299,
-    40277,
-    40280,
-    41708,
-    40571
+    40330,
+    40332,
+    40336,
+    40335,
+    40338,
+    41862,
+    40340,
+    41037,
+    40988,
+    41039,
+    41041,
+    41260,
+    41407,
+    41673,
+    41096,
+    40282,
+    40002,
+    41678,
+    40270,
+    40259,
+    40263,
+    40273,
+    40297,
+    40276,
+    40279,
+    41707,
+    40409
    ],
-   "base_menu_item_id": 32343,
-   "combo_level": 2,
-   "promo_id": 3085,
+   "base_menu_item_id": 32342,
+   "combo_level": 1,
+   "promo_id": 3083,
    "pos_item_id": null,
-   "combo_next_level_diff_price": null,
+   "combo_next_level_diff_price": 1.1,
    "sales_groups": [
     {
-     "menu_item_id": 32360,
+     "menu_item_id": 32359,
      "sales_group_id": 0,
      "name": "Burger",
      "component_id": 1,
      "sales_item_ids": [
       {
-       "id": 41750,
+       "id": 41749,
        "diff": 0.0
       }
      ],
-     "default_sales_item_id": 41750,
+     "default_sales_item_id": 41749,
      "ranking": 0,
      "is_visible": true
     },
     {
-     "menu_item_id": 32360,
+     "menu_item_id": 32359,
      "sales_group_id": 0,
      "name": "Breakfast Side",
      "component_id": 2,
@@ -38368,137 +38146,137 @@
      "is_visible": true
     },
     {
-     "menu_item_id": 32360,
+     "menu_item_id": 32359,
      "sales_group_id": 0,
      "name": "Breakfast Drink",
      "component_id": 3,
      "sales_item_ids": [
       {
-       "id": 40331,
+       "id": 40330,
        "diff": 0.0
       },
       {
-       "id": 40333,
+       "id": 40332,
        "diff": 0.0
       },
       {
-       "id": 40337,
+       "id": 40336,
        "diff": 0.0
       },
       {
-       "id": 40334,
+       "id": 40335,
        "diff": 0.0
       },
       {
-       "id": 40339,
+       "id": 40338,
        "diff": 0.5
       },
       {
-       "id": 41861,
+       "id": 41862,
        "diff": 0.45
       },
       {
-       "id": 40341,
+       "id": 40340,
        "diff": 0.0
       },
       {
-       "id": 41038,
+       "id": 41037,
        "diff": 0.0
       },
       {
-       "id": 40989,
+       "id": 40988,
        "diff": 1.0
       },
       {
-       "id": 41040,
+       "id": 41039,
        "diff": 1.0
       },
       {
-       "id": 41042,
+       "id": 41041,
        "diff": 1.0
       },
       {
-       "id": 41261,
+       "id": 41260,
        "diff": 1.0
       },
       {
-       "id": 41408,
+       "id": 41407,
        "diff": 1.0
       },
       {
-       "id": 41674,
+       "id": 41673,
        "diff": 1.0
       },
       {
-       "id": 41097,
+       "id": 41096,
        "diff": 0.0
       },
       {
-       "id": 40283,
+       "id": 40282,
        "diff": 0.6
       },
       {
-       "id": 40003,
+       "id": 40002,
        "diff": 0.0
       },
       {
-       "id": 41679,
+       "id": 41678,
        "diff": 0.0
       },
       {
-       "id": 40272,
+       "id": 40270,
        "diff": 0.0
       },
       {
-       "id": 40261,
+       "id": 40259,
        "diff": 0.0
       },
       {
-       "id": 40265,
+       "id": 40263,
        "diff": 0.0
       },
       {
-       "id": 40274,
+       "id": 40273,
        "diff": 1.0
       },
       {
-       "id": 40299,
+       "id": 40297,
        "diff": 1.0
       },
       {
-       "id": 40277,
+       "id": 40276,
        "diff": 1.0
       },
       {
-       "id": 40280,
+       "id": 40279,
        "diff": 1.0
       },
       {
-       "id": 41708,
+       "id": 41707,
        "diff": 2.0
       }
      ],
-     "default_sales_item_id": 40331,
+     "default_sales_item_id": 40330,
      "ranking": 0,
      "is_visible": true
     },
     {
-     "menu_item_id": 32360,
+     "menu_item_id": 32359,
      "sales_group_id": 0,
      "name": "Marker",
      "component_id": 4,
      "sales_item_ids": [
       {
-       "id": 40571,
+       "id": 40409,
        "diff": 0.0
       }
      ],
-     "default_sales_item_id": 40571,
+     "default_sales_item_id": 40409,
      "ranking": 0,
      "is_visible": false
     }
    ],
-   "default_price": 11.85,
+   "default_price": 11.0,
    "is_visible": false
   },
   {
@@ -38721,6 +38499,228 @@
     }
    ],
    "default_price": 11.35,
+   "is_visible": false
+  },
+  {
+   "menu_item_id": 32360,
+   "parent_menu_id": 1001,
+   "name": "Double Sausage & Egg Turkish Brekky Roll Value Meal",
+   "image": "3085/2.png",
+   "thumb": "3085/2_thumb.png",
+   "image_banner": "3085_banner.png",
+   "image_mobile": "3085_mobile.png",
+   "option_name": "Large Meal",
+   "default_sales_item_ids": [
+    41750,
+    40414,
+    40331,
+    40571
+   ],
+   "description": "Mornings just got BIGGER and better. Try our NEW Double Sausage & Egg Turkish Brekky Roll, with double flame-grilled sausage patties, freshly cracked egg, cheese, and smoky BBQ sauce, on a toasted hand-stretched Turkish roll.",
+   "sales_item_ids": [
+    41750,
+    40414,
+    40348,
+    40331,
+    40333,
+    40337,
+    40334,
+    40339,
+    41861,
+    40341,
+    41038,
+    40989,
+    41040,
+    41042,
+    41261,
+    41408,
+    41674,
+    41097,
+    40283,
+    40003,
+    41679,
+    40272,
+    40261,
+    40265,
+    40274,
+    40299,
+    40277,
+    40280,
+    41708,
+    40571
+   ],
+   "base_menu_item_id": 32343,
+   "combo_level": 2,
+   "promo_id": 3085,
+   "pos_item_id": null,
+   "combo_next_level_diff_price": null,
+   "sales_groups": [
+    {
+     "menu_item_id": 32360,
+     "sales_group_id": 0,
+     "name": "Burger",
+     "component_id": 1,
+     "sales_item_ids": [
+      {
+       "id": 41750,
+       "diff": 0.0
+      }
+     ],
+     "default_sales_item_id": 41750,
+     "ranking": 0,
+     "is_visible": true
+    },
+    {
+     "menu_item_id": 32360,
+     "sales_group_id": 0,
+     "name": "Breakfast Side",
+     "component_id": 2,
+     "sales_item_ids": [
+      {
+       "id": 40414,
+       "diff": 0.0
+      },
+      {
+       "id": 40348,
+       "diff": 0.5
+      }
+     ],
+     "default_sales_item_id": 40414,
+     "ranking": 0,
+     "is_visible": true
+    },
+    {
+     "menu_item_id": 32360,
+     "sales_group_id": 0,
+     "name": "Breakfast Drink",
+     "component_id": 3,
+     "sales_item_ids": [
+      {
+       "id": 40331,
+       "diff": 0.0
+      },
+      {
+       "id": 40333,
+       "diff": 0.0
+      },
+      {
+       "id": 40337,
+       "diff": 0.0
+      },
+      {
+       "id": 40334,
+       "diff": 0.0
+      },
+      {
+       "id": 40339,
+       "diff": 0.5
+      },
+      {
+       "id": 41861,
+       "diff": 0.45
+      },
+      {
+       "id": 40341,
+       "diff": 0.0
+      },
+      {
+       "id": 41038,
+       "diff": 0.0
+      },
+      {
+       "id": 40989,
+       "diff": 1.0
+      },
+      {
+       "id": 41040,
+       "diff": 1.0
+      },
+      {
+       "id": 41042,
+       "diff": 1.0
+      },
+      {
+       "id": 41261,
+       "diff": 1.0
+      },
+      {
+       "id": 41408,
+       "diff": 1.0
+      },
+      {
+       "id": 41674,
+       "diff": 1.0
+      },
+      {
+       "id": 41097,
+       "diff": 0.0
+      },
+      {
+       "id": 40283,
+       "diff": 0.6
+      },
+      {
+       "id": 40003,
+       "diff": 0.0
+      },
+      {
+       "id": 41679,
+       "diff": 0.0
+      },
+      {
+       "id": 40272,
+       "diff": 0.0
+      },
+      {
+       "id": 40261,
+       "diff": 0.0
+      },
+      {
+       "id": 40265,
+       "diff": 0.0
+      },
+      {
+       "id": 40274,
+       "diff": 1.0
+      },
+      {
+       "id": 40299,
+       "diff": 1.0
+      },
+      {
+       "id": 40277,
+       "diff": 1.0
+      },
+      {
+       "id": 40280,
+       "diff": 1.0
+      },
+      {
+       "id": 41708,
+       "diff": 2.0
+      }
+     ],
+     "default_sales_item_id": 40331,
+     "ranking": 0,
+     "is_visible": true
+    },
+    {
+     "menu_item_id": 32360,
+     "sales_group_id": 0,
+     "name": "Marker",
+     "component_id": 4,
+     "sales_item_ids": [
+      {
+       "id": 40571,
+       "diff": 0.0
+      }
+     ],
+     "default_sales_item_id": 40571,
+     "ranking": 0,
+     "is_visible": false
+    }
+   ],
+   "default_price": 11.85,
    "is_visible": false
   },
   {
@@ -43138,11 +43138,11 @@
    "menu_item_id": 32769,
    "parent_menu_id": 1001,
    "name": "3 Jack's Fried Chicken Southern Style Tenders Large",
-   "image": "8832/2.png",
-   "thumb": "8832/2_thumb.png",
+   "image": "8832/1.png",
+   "thumb": "8832/1_thumb.png",
    "image_banner": "8832_banner.png",
    "image_mobile": "8832_mobile.png",
-   "option_name": "Large Meal",
+   "option_name": "Medium Meal",
    "default_sales_item_ids": [
     41926,
     40349,
@@ -43188,10 +43188,10 @@
     40410
    ],
    "base_menu_item_id": 32769,
-   "combo_level": 2,
+   "combo_level": 1,
    "promo_id": 8832,
    "pos_item_id": null,
-   "combo_next_level_diff_price": null,
+   "combo_next_level_diff_price": 0.0,
    "sales_groups": [
     {
      "menu_item_id": 32769,
@@ -43392,11 +43392,11 @@
    "menu_item_id": 32769,
    "parent_menu_id": 1001,
    "name": "3 Jack's Fried Chicken Southern Style Tenders Large",
-   "image": "8832/1.png",
-   "thumb": "8832/1_thumb.png",
+   "image": "8832/2.png",
+   "thumb": "8832/2_thumb.png",
    "image_banner": "8832_banner.png",
    "image_mobile": "8832_mobile.png",
-   "option_name": "Medium Meal",
+   "option_name": "Large Meal",
    "default_sales_item_ids": [
     41926,
     40349,
@@ -43442,10 +43442,10 @@
     40410
    ],
    "base_menu_item_id": 32769,
-   "combo_level": 1,
+   "combo_level": 2,
    "promo_id": 8832,
    "pos_item_id": null,
-   "combo_next_level_diff_price": 0.0,
+   "combo_next_level_diff_price": null,
    "sales_groups": [
     {
      "menu_item_id": 32769,
