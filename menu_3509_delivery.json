@@ -4,7 +4,7 @@
  "store_name": "Alexandra Hills",
  "order_mode": "Delivery",
  "menu_id": 1001,
- "last_updated": "2024-09-09T17:19:18.7714029Z",
+ "last_updated": "2024-09-11T17:19:45.8320427Z",
  "images_category_basepath": "https://s3-ap-southeast-2.amazonaws.com/hungryjack-prod/image/category/1001/",
  "images_item_basepath": "https://s3-ap-southeast-2.amazonaws.com/hungryjack-prod/image/item/1001/",
  "images_promos_basepath": "https://s3-ap-southeast-2.amazonaws.com/hungryjack-prod/image/promo/1001/",
@@ -49627,7 +49627,7 @@
     "sesame": false,
     "sulphites": false
    },
-   "energy_kj": 1930.0,
+   "energy_kj": 3633.0,
    "is_visible": true,
    "description": null
   },
@@ -49653,7 +49653,7 @@
     "sesame": false,
     "sulphites": false
    },
-   "energy_kj": 1930.0,
+   "energy_kj": 2393.0,
    "is_visible": true,
    "description": null
   },
