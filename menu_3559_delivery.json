@@ -4,7 +4,7 @@
  "store_name": "Morayfield Food Court",
  "order_mode": "Delivery",
  "menu_id": 1001,
- "last_updated": "2024-09-11T18:02:27.7289529Z",
+ "last_updated": "2024-09-13T18:01:47.0841105Z",
  "images_category_basepath": "https://s3-ap-southeast-2.amazonaws.com/hungryjack-prod/image/category/1001/",
  "images_item_basepath": "https://s3-ap-southeast-2.amazonaws.com/hungryjack-prod/image/item/1001/",
  "images_promos_basepath": "https://s3-ap-southeast-2.amazonaws.com/hungryjack-prod/image/promo/1001/",

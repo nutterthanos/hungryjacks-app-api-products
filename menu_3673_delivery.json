@@ -4,7 +4,7 @@
  "store_name": "Harristown",
  "order_mode": "Delivery",
  "menu_id": 1001,
- "last_updated": "2024-09-11T18:13:08.556565Z",
+ "last_updated": "2024-09-13T18:12:58.9865185Z",
  "images_category_basepath": "https://s3-ap-southeast-2.amazonaws.com/hungryjack-prod/image/category/1001/",
  "images_item_basepath": "https://s3-ap-southeast-2.amazonaws.com/hungryjack-prod/image/item/1001/",
  "images_promos_basepath": "https://s3-ap-southeast-2.amazonaws.com/hungryjack-prod/image/promo/1001/",
