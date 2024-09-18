@@ -4,7 +4,7 @@
  "store_name": "Girrawheen",
  "order_mode": "Delivery",
  "menu_id": 1001,
- "last_updated": "2024-09-16T17:22:51.8663026Z",
+ "last_updated": "2024-09-17T17:23:18.7453033Z",
  "images_category_basepath": "https://s3-ap-southeast-2.amazonaws.com/hungryjack-prod/image/category/1001/",
  "images_item_basepath": "https://s3-ap-southeast-2.amazonaws.com/hungryjack-prod/image/item/1001/",
  "images_promos_basepath": "https://s3-ap-southeast-2.amazonaws.com/hungryjack-prod/image/promo/1001/",
@@ -50534,6 +50534,7 @@
     70027,
     74186,
     70576,
+    70552,
     70683,
     70584,
     70421,
@@ -50576,6 +50577,7 @@
     70026,
     74186,
     70576,
+    70552,
     70683,
     70584,
     73928,
@@ -50618,6 +50620,7 @@
     70027,
     74186,
     70576,
+    70552,
     70683,
     70584,
     72033,
@@ -57379,6 +57382,93 @@
    "item_modifiers": [],
    "allergens": null,
    "energy_kj": 21.0,
+   "menu_id": 1001
+  },
+  "70552": {
+   "modifier_id": 70552,
+   "pos_item_id": 7226,
+   "name": "Spicy Tomato Relish",
+   "image": "7226.png",
+   "thumb": "7226_thumb.png",
+   "image_banner": "7226_banner.png",
+   "image_mobile": "7226_mobile.png",
+   "price": 0.0,
+   "item_modifiers": [
+    {
+     "actions": {
+      "1": "71689",
+      "2": "70552"
+     },
+     "max_quantity": 2,
+     "min_quantity": 0,
+     "sales_item_pos_item_id": 1360,
+     "modifier_group_id": 64240,
+     "action_group_id": 60719,
+     "default_quantity": 1
+    },
+    {
+     "actions": {
+      "1": "71689",
+      "2": "70552"
+     },
+     "max_quantity": 2,
+     "min_quantity": 0,
+     "sales_item_pos_item_id": 1362,
+     "modifier_group_id": 64240,
+     "action_group_id": 60719,
+     "default_quantity": 1
+    },
+    {
+     "actions": {
+      "1": "71689",
+      "2": "70552"
+     },
+     "max_quantity": 2,
+     "min_quantity": 0,
+     "sales_item_pos_item_id": 1332,
+     "modifier_group_id": 64260,
+     "action_group_id": 60719,
+     "default_quantity": 1
+    },
+    {
+     "actions": {
+      "1": "71689",
+      "2": "70552"
+     },
+     "max_quantity": 2,
+     "min_quantity": 0,
+     "sales_item_pos_item_id": 1334,
+     "modifier_group_id": 64261,
+     "action_group_id": 60719,
+     "default_quantity": 1
+    }
+   ],
+   "allergens": {
+    "gluten": false,
+    "eggs": false,
+    "milk_and_milk_products": false,
+    "soy": false,
+    "fish_and_crustacea": false,
+    "peanuts": false,
+    "tree_nuts": false,
+    "sesame": false,
+    "sulphites": false
+   },
+   "energy_kj": null,
+   "menu_id": 1001
+  },
+  "71689": {
+   "modifier_id": 71689,
+   "pos_item_id": 2256,
+   "name": "Heavy Spicy Tomato Relish",
+   "image": "",
+   "thumb": "",
+   "image_banner": "",
+   "image_mobile": "",
+   "price": 0.35,
+   "item_modifiers": [],
+   "allergens": null,
+   "energy_kj": 63.0,
    "menu_id": 1001
   },
   "72094": {
