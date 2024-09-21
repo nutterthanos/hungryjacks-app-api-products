@@ -194,7 +194,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": {
    "url": "https://www.menulog.com.au/restaurants-hungry-jacks-Penrith-Grey-gums/menu?utm_medium=restaurant_listing&utm_source=hungry-jacks&utm_campaign=direct_links",
    "enabled": false
@@ -396,7 +396,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": {
    "url": "https://www.menulog.com.au/restaurants-hungry-jacks-queanbeyan/menu?utm_medium=restaurant_listing&utm_source=hungry-jacks&utm_campaign=direct_links",
    "enabled": false
@@ -599,7 +599,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": null,
   "store_timezone_id": "Cen. Australia Standard Time"
  },
@@ -799,7 +799,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": {
    "url": "https://www.menulog.com.au/restaurants-hungry-jacks-blackwood/menu?utm_medium=restaurant_listing&utm_source=hungry-jacks&utm_campaign=direct_links",
    "enabled": false
@@ -1001,7 +1001,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": {
    "url": "https://www.menulog.com.au/restaurants-hungry-jacks-caloundra/menu?utm_medium=restaurant_listing&utm_source=hungry-jacks&utm_campaign=direct_links",
    "enabled": true
@@ -1053,7 +1053,7 @@
      "day_name": "Wed",
      "is_open": true,
      "open": "06:00",
-     "close": "22:00"
+     "close": "23:00"
     },
     {
      "day_idx": 4,
@@ -1104,7 +1104,7 @@
      "day_name": "Wed",
      "is_open": true,
      "open": "06:00",
-     "close": "22:00"
+     "close": "23:00"
     },
     {
      "day_idx": 4,
@@ -1203,7 +1203,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": {
    "url": "https://www.menulog.com.au/restaurants-hungry-jacks-mona-vale/menu?utm_medium=restaurant_listing&utm_source=hungry-jacks&utm_campaign=direct_links",
    "enabled": false
@@ -1405,7 +1405,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": null,
   "store_timezone_id": "AUS Eastern Standard Time"
  },
@@ -1553,7 +1553,7 @@
    "inapp_delivery_enabled": false,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": null,
   "store_timezone_id": "W. Australia Standard Time"
  },
@@ -1701,7 +1701,7 @@
    "inapp_delivery_enabled": false,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": {
    "url": "https://www.menulog.com.au/restaurants-hungry-jacks-bendigo/menu?utm_medium=restaurant_listing&utm_source=hungry-jacks&utm_campaign=direct_links",
    "enabled": true
@@ -1904,7 +1904,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": null,
   "store_timezone_id": "E. Australia Standard Time"
  },
@@ -2103,7 +2103,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": {
    "url": "https://www.menulog.com.au/restaurants-hungry-jacks-beldon/menu?utm_medium=restaurant_listing&utm_source=hungry-jacks&utm_campaign=direct_links",
    "enabled": false
@@ -2305,7 +2305,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": {
    "url": "https://www.menulog.com.au/restaurants-hungry-jacks-wiley-park/menu?utm_medium=restaurant_listing&utm_source=hungry-jacks&utm_campaign=direct_links",
    "enabled": false
@@ -2507,7 +2507,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": {
    "url": "https://www.menulog.com.au/restaurants-hungry-jacks-subiaco/menu?utm_medium=restaurant_listing&utm_source=hungry-jacks&utm_campaign=direct_links",
    "enabled": false
@@ -2709,7 +2709,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": {
    "url": "https://www.menulog.com.au/restaurants-hungry-jacks-mill-park/menu?utm_medium=restaurant_listing&utm_source=hungry-jacks&utm_campaign=direct_links",
    "enabled": false
@@ -2911,7 +2911,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": {
    "url": "https://www.menulog.com.au/restaurants-hungry-jacks-harrisdale/menu?utm_medium=restaurant_listing&utm_source=hungry-jacks&utm_campaign=direct_links",
    "enabled": false
@@ -3114,7 +3114,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": {
    "url": "https://www.menulog.com.au/restaurants-hungry-jacks-aspley/menu?utm_medium=restaurant_listing&utm_source=hungry-jacks&utm_campaign=direct_links",
    "enabled": false
@@ -3317,7 +3317,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": {
    "url": "https://www.menulog.com.au/restaurants-hungry-jacks-firle/menu?utm_medium=restaurant_listing&utm_source=hungry-jacks&utm_campaign=direct_links",
    "enabled": false
@@ -3466,7 +3466,7 @@
    "inapp_delivery_enabled": false,
    "barista_coffee": false
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": null,
   "store_timezone_id": null
  },
@@ -3665,7 +3665,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": null,
   "store_timezone_id": "E. Australia Standard Time"
  },
@@ -3865,7 +3865,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": null,
   "store_timezone_id": "E. Australia Standard Time"
  },
@@ -4013,7 +4013,7 @@
    "inapp_delivery_enabled": false,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": null,
   "store_timezone_id": "Cen. Australia Standard Time"
  },
@@ -4161,7 +4161,7 @@
    "inapp_delivery_enabled": false,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": null,
   "store_timezone_id": "Cen. Australia Standard Time"
  },
@@ -4309,7 +4309,7 @@
    "inapp_delivery_enabled": false,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": null,
   "store_timezone_id": "Cen. Australia Standard Time"
  },
@@ -4508,7 +4508,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": null,
   "store_timezone_id": "E. Australia Standard Time"
  },
@@ -4708,7 +4708,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": {
    "url": "https://www.menulog.com.au/restaurants-hungry-jacks-deer-park/menu?utm_medium=restaurant_listing&utm_source=hungry-jacks&utm_campaign=direct_links",
    "enabled": false
@@ -4910,7 +4910,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": {
    "url": "https://www.menulog.com.au/restaurants-hungry-jacks-footscray/menu?utm_medium=restaurant_listing&utm_source=hungry-jacks&utm_campaign=direct_links",
    "enabled": false
@@ -5113,7 +5113,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": {
    "url": "https://www.menulog.com.au/restaurants-hungry-jacks-ryde/menu?utm_medium=restaurant_listing&utm_source=hungry-jacks&utm_campaign=direct_links",
    "enabled": false
@@ -5165,7 +5165,7 @@
      "day_name": "Wed",
      "is_open": true,
      "open": "06:00",
-     "close": "23:00"
+     "close": "22:00"
     },
     {
      "day_idx": 4,
@@ -5216,7 +5216,7 @@
      "day_name": "Wed",
      "is_open": true,
      "open": "06:00",
-     "close": "22:30"
+     "close": "22:00"
     },
     {
      "day_idx": 4,
@@ -5315,7 +5315,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": {
    "url": "https://www.menulog.com.au/restaurants-hungry-jacks-watergardens/menu?utm_medium=restaurant_listing&utm_source=hungry-jacks&utm_campaign=direct_links",
    "enabled": false
@@ -5466,7 +5466,7 @@
    "inapp_delivery_enabled": false,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": null,
   "store_timezone_id": "E. Australia Standard Time"
  },
@@ -5665,7 +5665,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": null,
   "store_timezone_id": "AUS Eastern Standard Time"
  },
@@ -5864,7 +5864,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": null,
   "store_timezone_id": "AUS Eastern Standard Time"
  },
@@ -6063,7 +6063,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": {
    "url": "https://www.menulog.com.au/restaurants-hungry-jacks-greenacre/menu?utm_medium=restaurant_listing&utm_source=hungry-jacks&utm_campaign=direct_links",
    "enabled": false
@@ -6214,7 +6214,7 @@
    "inapp_delivery_enabled": false,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": null,
   "store_timezone_id": "AUS Eastern Standard Time"
  },
@@ -6362,7 +6362,7 @@
    "inapp_delivery_enabled": false,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": null,
   "store_timezone_id": "E. Australia Standard Time"
  },
@@ -6561,7 +6561,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": null,
   "store_timezone_id": "AUS Eastern Standard Time"
  },
@@ -6709,7 +6709,7 @@
    "inapp_delivery_enabled": false,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": null,
   "store_timezone_id": "W. Australia Standard Time"
  },
@@ -6908,7 +6908,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": {
    "url": "https://www.menulog.com.au/restaurants-hungry-jacks-noarlunga/menu/?utm_medium=restaurant_listing&utm_source=hungry-jacks&utm_campaign=direct_links",
    "enabled": false
@@ -7004,7 +7004,7 @@
      "day_name": "Tue",
      "is_open": true,
      "open": "06:00",
-     "close": "23:00"
+     "close": "22:00"
     },
     {
      "day_idx": 3,
@@ -7110,7 +7110,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": {
    "url": "https://www.menulog.com.au/restaurants-hungry-jacks-arana-hills/menu?utm_medium=restaurant_listing&utm_source=hungry-jacks&utm_campaign=direct_links",
    "enabled": false
@@ -7312,7 +7312,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": {
    "url": "https://www.menulog.com.au/restaurants-hungry-jacks-altona-meadows/menu?utm_medium=restaurant_listing&utm_source=hungry-jacks&utm_campaign=direct_links",
    "enabled": false
@@ -7514,7 +7514,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": {
    "url": "https://www.menulog.com.au/restaurants-hungry-jacks-north-mackay/menu?utm_medium=restaurant_listing&utm_source=hungry-jacks&utm_campaign=direct_links",
    "enabled": false
@@ -7716,7 +7716,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": {
    "url": "https://www.menulog.com.au/restaurants-hungry-jacks-nerang/menu?utm_medium=restaurant_listing&utm_source=hungry-jacks&utm_campaign=direct_links",
    "enabled": true
@@ -7918,7 +7918,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": null,
   "store_timezone_id": "AUS Eastern Standard Time"
  },
@@ -8117,7 +8117,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": {
    "url": "https://www.menulog.com.au/restaurants-hungry-jacks-ashmore/menu?utm_medium=restaurant_listing&utm_source=hungry-jacks&utm_campaign=direct_links",
    "enabled": false
@@ -8319,7 +8319,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": null,
   "store_timezone_id": "AUS Eastern Standard Time"
  },
@@ -8518,7 +8518,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": {
    "url": "https://www.menulog.com.au/restaurants-hungry-jacks-malaga/menu?utm_medium=restaurant_listing&utm_source=hungry-jacks&utm_campaign=direct_links",
    "enabled": false
@@ -8720,7 +8720,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": null,
   "store_timezone_id": "AUS Eastern Standard Time"
  },
@@ -8919,7 +8919,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": null,
   "store_timezone_id": "E. Australia Standard Time"
  },
@@ -9119,7 +9119,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": null,
   "store_timezone_id": "AUS Eastern Standard Time"
  },
@@ -9319,7 +9319,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": null,
   "store_timezone_id": "E. Australia Standard Time"
  },
@@ -9518,7 +9518,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": {
    "url": "https://www.menulog.com.au/restaurants-hungry-jacks-505-george-st/menu?utm_medium=restaurant_listing&utm_source=hungry-jacks&utm_campaign=direct_links",
    "enabled": false
@@ -9720,7 +9720,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": null,
   "store_timezone_id": "AUS Eastern Standard Time"
  },
@@ -9920,7 +9920,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": {
    "url": "https://www.menulog.com.au/restaurants-hungry-jacks-cranbourne-nth/menu?utm_medium=restaurant_listing&utm_source=hungry-jacks&utm_campaign=direct_links",
    "enabled": false
@@ -10122,7 +10122,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": {
    "url": "https://www.menulog.com.au/restaurants-hungry-jacks-albany-creek/menu?utm_medium=restaurant_listing&utm_source=hungry-jacks&utm_campaign=direct_links",
    "enabled": false
@@ -10273,7 +10273,7 @@
    "inapp_delivery_enabled": false,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": null,
   "store_timezone_id": "AUS Eastern Standard Time"
  },
@@ -10419,7 +10419,7 @@
    "inapp_delivery_enabled": false,
    "barista_coffee": false
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": null,
   "store_timezone_id": null
  },
@@ -10618,7 +10618,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": {
    "url": "https://www.menulog.com.au/restaurants-hungry-jacks-guildford/menu?utm_medium=restaurant_listing&utm_source=hungry-jacks&utm_campaign=direct_links",
    "enabled": false
@@ -10820,7 +10820,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": {
    "url": "https://www.menulog.com.au/restaurants-hungry-jacks-mooroolbark/menu?utm_medium=restaurant_listing&utm_source=hungry-jacks&utm_campaign=direct_links",
    "enabled": false
@@ -11022,7 +11022,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": {
    "url": "https://www.menulog.com.au/restaurants-hungry-jacks-carrum-downs/menu?utm_medium=restaurant_listing&utm_source=hungry-jacks&utm_campaign=direct_links",
    "enabled": false
@@ -11224,7 +11224,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": {
    "url": "https://www.menulog.com.au/restaurants-hungry-jacks-whyalla/menu?utm_medium=restaurant_listing&utm_source=hungry-jacks&utm_campaign=direct_links",
    "enabled": true
@@ -11306,13 +11306,13 @@
      "day_name": "Sun",
      "is_open": true,
      "open": "05:00",
-     "close": "05:00"
+     "close": "22:00"
     },
     {
      "day_idx": 1,
      "day_name": "Mon",
      "is_open": true,
-     "open": "05:00",
+     "open": "06:00",
      "close": "05:00"
     },
     {
@@ -11426,7 +11426,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": {
    "url": "https://www.menulog.com.au/restaurants-hungry-jacks-granville/menu?utm_medium=restaurant_listing&utm_source=hungry-jacks&utm_campaign=direct_links",
    "enabled": false
@@ -11577,7 +11577,7 @@
    "inapp_delivery_enabled": false,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": null,
   "store_timezone_id": "AUS Eastern Standard Time"
  },
@@ -11776,7 +11776,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": {
    "url": "https://www.menulog.com.au/restaurants-hungry-jacks-shepparton/menu?utm_medium=restaurant_listing&utm_source=hungry-jacks&utm_campaign=direct_links",
    "enabled": true
@@ -11978,7 +11978,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": {
    "url": "https://www.menulog.com.au/restaurants-hungry-jacks-forest-hill/menu?utm_medium=restaurant_listing&utm_source=hungry-jacks&utm_campaign=direct_links",
    "enabled": false
@@ -12180,7 +12180,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": {
    "url": "https://www.menulog.com.au/restaurants-hungry-jacks-west-ipswich/menu?utm_medium=restaurant_listing&utm_source=hungry-jacks&utm_campaign=direct_links",
    "enabled": false
@@ -12382,7 +12382,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": null,
   "store_timezone_id": "AUS Eastern Standard Time"
  },
@@ -12581,7 +12581,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": {
    "url": "https://www.menulog.com.au/restaurants-hungry-jacks-karrinyup/?utm_medium=restaurant_listing&utm_source=hungry-jacks&utm_campaign=direct_links",
    "enabled": false
@@ -12783,7 +12783,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": {
    "url": "https://www.menulog.com.au/restaurants-hungry-jacks-keperra/menu?utm_medium=restaurant_listing&utm_source=hungry-jacks&utm_campaign=direct_links",
    "enabled": false
@@ -12985,7 +12985,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": null,
   "store_timezone_id": "E. Australia Standard Time"
  },
@@ -13184,7 +13184,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": {
    "url": "https://www.menulog.com.au/restaurants-hungry-jacks-glendale/menu?utm_medium=restaurant_listing&utm_source=hungry-jacks&utm_campaign=direct_links",
    "enabled": false
@@ -13387,7 +13387,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": {
    "url": "https://www.menulog.com.au/restaurants-hungry-jacks-islington-prospect/menu?utm_medium=restaurant_listing&utm_source=hungry-jacks&utm_campaign=direct_links",
    "enabled": false
@@ -13589,7 +13589,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": {
    "url": "https://www.menulog.com.au/restaurants-hungry-jacks-waurn-ponds/menu?utm_medium=restaurant_listing&utm_source=hungry-jacks&utm_campaign=direct_links",
    "enabled": false
@@ -13741,7 +13741,7 @@
    "inapp_delivery_enabled": false,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": null,
   "store_timezone_id": "W. Australia Standard Time"
  },
@@ -13940,7 +13940,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": {
    "url": "https://www.menulog.com.au/restaurants-hungry-jacks-playford-alive-munno-para/menu?utm_medium=restaurant_listing&utm_source=hungry-jacks&utm_campaign=direct_links",
    "enabled": false
@@ -14142,7 +14142,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": {
    "url": "https://www.menulog.com.au/restaurants-hungry-jacks-westgate-express/menu?utm_medium=restaurant_listing&utm_source=hungry-jacks&utm_campaign=direct_links",
    "enabled": false
@@ -14293,7 +14293,7 @@
    "inapp_delivery_enabled": false,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": null,
   "store_timezone_id": "AUS Eastern Standard Time"
  },
@@ -14493,7 +14493,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": {
    "url": "https://www.menulog.com.au/restaurants-hungry-jacks-michaels-corner/menu?utm_medium=restaurant_listing&utm_source=hungry-jacks&utm_campaign=direct_links",
    "enabled": false
@@ -14644,7 +14644,7 @@
    "inapp_delivery_enabled": false,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": {
    "url": "https://www.menulog.com.au/restaurants-hungry-jacks-heatherton/menu?utm_medium=restaurant_listing&utm_source=hungry-jacks&utm_campaign=direct_links",
    "enabled": true
@@ -14846,7 +14846,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": null,
   "store_timezone_id": "E. Australia Standard Time"
  },
@@ -15045,7 +15045,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": {
    "url": "https://www.menulog.com.au/restaurants-hungry-jacks-keilor-park/menu?utm_medium=restaurant_listing&utm_source=hungry-jacks&utm_campaign=direct_links",
    "enabled": false
@@ -15248,7 +15248,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": null,
   "store_timezone_id": "AUS Eastern Standard Time"
  },
@@ -15396,7 +15396,7 @@
    "inapp_delivery_enabled": false,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": {
    "url": "https://www.menulog.com.au/restaurants-hungry-jacks-kangaroo-flat/menu/?utm_medium=restaurant_listing&utm_source=hungry-jacks&utm_campaign=direct_links",
    "enabled": true
@@ -15598,7 +15598,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": null,
   "store_timezone_id": "E. Australia Standard Time"
  },
@@ -15797,7 +15797,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": {
    "url": "https://www.menulog.com.au/restaurants-hungry-jacks-forrestfield/menu?utm_medium=restaurant_listing&utm_source=hungry-jacks&utm_campaign=direct_links",
    "enabled": false
@@ -16000,7 +16000,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": null,
   "store_timezone_id": "E. Australia Standard Time"
  },
@@ -16150,7 +16150,7 @@
    "inapp_delivery_enabled": false,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": {
    "url": "https://www.menulog.com.au/restaurants-hungry-jacks-bass-hill/menu?utm_medium=restaurant_listing&utm_source=hungry-jacks&utm_campaign=direct_links",
    "enabled": true
@@ -16302,7 +16302,7 @@
    "inapp_delivery_enabled": false,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": null,
   "store_timezone_id": "AUS Eastern Standard Time"
  },
@@ -16401,7 +16401,7 @@
      "day_name": "Wed",
      "is_open": true,
      "open": "06:00",
-     "close": "23:00"
+     "close": "22:00"
     },
     {
      "day_idx": 4,
@@ -16500,7 +16500,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": {
    "url": "https://www.menulog.com.au/restaurants-hungry-jacks-yamanto/menu?utm_medium=restaurant_listing&utm_source=hungry-jacks&utm_campaign=direct_links",
    "enabled": false
@@ -16589,27 +16589,27 @@
      "day_name": "Mon",
      "is_open": true,
      "open": "05:00",
-     "close": "22:00"
+     "close": "05:00"
     },
     {
      "day_idx": 2,
      "day_name": "Tue",
      "is_open": true,
-     "open": "06:00",
-     "close": "22:00"
+     "open": "05:00",
+     "close": "05:00"
     },
     {
      "day_idx": 3,
      "day_name": "Wed",
      "is_open": true,
-     "open": "06:00",
-     "close": "22:00"
+     "open": "05:00",
+     "close": "05:00"
     },
     {
      "day_idx": 4,
      "day_name": "Thu",
      "is_open": true,
-     "open": "05:00",
+     "open": "06:00",
      "close": "05:00"
     },
     {
@@ -16702,7 +16702,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": {
    "url": "https://www.menulog.com.au/restaurants-hungry-jacks-labrador/menu?utm_medium=restaurant_listing&utm_source=hungry-jacks&utm_campaign=direct_links",
    "enabled": false
@@ -16853,7 +16853,7 @@
    "inapp_delivery_enabled": false,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": null,
   "store_timezone_id": "Cen. Australia Standard Time"
  },
@@ -17052,7 +17052,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": {
    "url": "https://www.menulog.com.au/restaurants-hungry-jacks-brassall/menu?utm_medium=restaurant_listing&utm_source=hungry-jacks&utm_campaign=direct_links",
    "enabled": false
@@ -17254,7 +17254,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": null,
   "store_timezone_id": "AUS Eastern Standard Time"
  },
@@ -17453,7 +17453,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": {
    "url": "https://www.menulog.com.au/restaurants-hungry-jacks-spencer-street/menu?utm_medium=restaurant_listing&utm_source=hungry-jacks&utm_campaign=direct_links",
    "enabled": true
@@ -17655,7 +17655,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": {
    "url": "https://www.menulog.com.au/restaurants-hungry-jacks-burwood-vic/menu?utm_medium=restaurant_listing&utm_source=hungry-jacks&utm_campaign=direct_links",
    "enabled": false
@@ -17857,7 +17857,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": {
    "url": "https://www.menulog.com.au/restaurants-hungry-jacks-annandale/menu?utm_medium=restaurant_listing&utm_source=hungry-jacks&utm_campaign=direct_links",
    "enabled": false
@@ -18059,7 +18059,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": {
    "url": "https://www.menulog.com.au/restaurants-hungry-jacks-fawkner-campbellfield/menu?utm_medium=restaurant_listing&utm_source=hungry-jacks&utm_campaign=direct_links",
    "enabled": false
@@ -18261,7 +18261,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": {
    "url": "https://www.menulog.com.au/restaurants-hungry-jacks-North-Ringwood/menu?utm_medium=restaurant_listing&utm_source=hungry-jacks&utm_campaign=direct_links",
    "enabled": false
@@ -18463,7 +18463,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": {
    "url": "https://www.menulog.com.au/restaurants-hungry-jacks-morley/menu?utm_medium=restaurant_listing&utm_source=hungry-jacks&utm_campaign=direct_links",
    "enabled": false
@@ -18614,7 +18614,7 @@
    "inapp_delivery_enabled": false,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": null,
   "store_timezone_id": "E. Australia Standard Time"
  },
@@ -18813,7 +18813,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": {
    "url": "https://www.menulog.com.au/restaurants-hungry-jacks-mirrabooka/menu?utm_medium=restaurant_listing&utm_source=hungry-jacks&utm_campaign=direct_links",
    "enabled": false
@@ -19016,7 +19016,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": {
    "url": "https://www.menulog.com.au/restaurants-hungry-jacks-rundle-street/menu?utm_medium=restaurant_listing&utm_source=hungry-jacks&utm_campaign=direct_links",
    "enabled": false
@@ -19218,7 +19218,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": {
    "url": "https://www.menulog.com.au/restaurants-hungry-jacks-alexandra-hills/menu/?utm_medium=restaurant_listing&utm_source=hungry-jacks&utm_campaign=direct_links",
    "enabled": false
@@ -19322,7 +19322,7 @@
      "day_name": "Wed",
      "is_open": true,
      "open": "06:00",
-     "close": "23:00"
+     "close": "22:00"
     },
     {
      "day_idx": 4,
@@ -19421,7 +19421,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": {
    "url": "https://www.menulog.com.au/restaurants-hungry-jacks-byford/menu?utm_medium=restaurant_listing&utm_source=hungry-jacks&utm_campaign=direct_links",
    "enabled": false
@@ -19623,7 +19623,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": {
    "url": "https://www.menulog.com.au/restaurants-hungry-jacks-hoxton-park/menu?utm_medium=restaurant_listing&utm_source=hungry-jacks&utm_campaign=direct_links",
    "enabled": false
@@ -19825,7 +19825,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": {
    "url": "https://www.menulog.com.au/restaurants-hungry-jacks-shellharbour/menu?utm_medium=restaurant_listing&utm_source=hungry-jacks&utm_campaign=direct_links",
    "enabled": false
@@ -20027,7 +20027,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": {
    "url": "https://www.menulog.com.au/restaurants-hungry-jacks-ingleburn/menu?utm_medium=restaurant_listing&utm_source=hungry-jacks&utm_campaign=direct_links",
    "enabled": false
@@ -20229,7 +20229,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": {
    "url": "https://www.menulog.com.au/restaurants-hungry-jacks-girrawheen/menu?utm_medium=restaurant_listing&utm_source=hungry-jacks&utm_campaign=direct_links",
    "enabled": false
@@ -20431,7 +20431,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": {
    "url": "https://www.menulog.com.au/restaurants-hungry-jacks-keilor-downs/menu?utm_medium=restaurant_listing&utm_source=hungry-jacks&utm_campaign=direct_links",
    "enabled": false
@@ -20633,7 +20633,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": {
    "url": "https://www.menulog.com.au/restaurants-hungry-jacks-salisbury/menu?utm_medium=restaurant_listing&utm_source=hungry-jacks&utm_campaign=direct_links",
    "enabled": false
@@ -20835,7 +20835,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": {
    "url": "https://www.menulog.com.au/restaurants-hungry-jacks-dural/menu?utm_medium=restaurant_listing&utm_source=hungry-jacks&utm_campaign=direct_links",
    "enabled": true
@@ -21037,7 +21037,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": null,
   "store_timezone_id": "E. Australia Standard Time"
  },
@@ -21236,7 +21236,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": {
    "url": "https://www.menulog.com.au/restaurants-hungry-jacks-werribee-plaza/menu?utm_medium=restaurant_listing&utm_source=hungry-jacks&utm_campaign=direct_links",
    "enabled": false
@@ -21387,7 +21387,7 @@
    "inapp_delivery_enabled": false,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": null,
   "store_timezone_id": "Cen. Australia Standard Time"
  },
@@ -21586,7 +21586,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": {
    "url": "https://www.menulog.com.au/restaurants-hungry-jacks-leumeah/menu?utm_medium=restaurant_listing&utm_source=hungry-jacks&utm_campaign=direct_links",
    "enabled": false
@@ -21737,7 +21737,7 @@
    "inapp_delivery_enabled": false,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": null,
   "store_timezone_id": "E. Australia Standard Time"
  },
@@ -21936,7 +21936,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": {
    "url": "https://www.menulog.com.au/restaurants-hungry-jacks-truganina/menu?utm_medium=restaurant_listing&utm_source=hungry-jacks&utm_campaign=direct_links",
    "enabled": false
@@ -22138,7 +22138,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": null,
   "store_timezone_id": "AUS Eastern Standard Time"
  },
@@ -22338,7 +22338,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": {
    "url": "https://www.menulog.com.au/restaurants-hungry-jacks-westpoint-blacktown/menu?utm_medium=restaurant_listing&utm_source=hungry-jacks&utm_campaign=direct_links",
    "enabled": true
@@ -22540,7 +22540,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": {
    "url": "https://www.menulog.com.au/restaurants-hungry-jacks-scoresby/menu?utm_medium=restaurant_listing&utm_source=hungry-jacks&utm_campaign=direct_links",
    "enabled": false
@@ -22691,7 +22691,7 @@
    "inapp_delivery_enabled": false,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": null,
   "store_timezone_id": "Cen. Australia Standard Time"
  },
@@ -22890,7 +22890,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": {
    "url": "https://www.menulog.com.au/restaurants-hungry-jacks-wynnum-plaza/menu?utm_medium=restaurant_listing&utm_source=hungry-jacks&utm_campaign=direct_links",
    "enabled": false
@@ -23093,7 +23093,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": {
    "url": "https://www.menulog.com.au/restaurants-hungry-jacks-thornlie/?utm_medium=restaurant_listing&utm_source=hungry-jacks&utm_campaign=direct_links",
    "enabled": false
@@ -23124,7 +23124,7 @@
      "day_name": "Sun",
      "is_open": true,
      "open": "06:00",
-     "close": "22:00"
+     "close": "23:00"
     },
     {
      "day_idx": 1,
@@ -23175,13 +23175,13 @@
      "day_name": "Sun",
      "is_open": true,
      "open": "05:00",
-     "close": "22:00"
+     "close": "05:00"
     },
     {
      "day_idx": 1,
      "day_name": "Mon",
      "is_open": true,
-     "open": "06:00",
+     "open": "05:00",
      "close": "05:00"
     },
     {
@@ -23295,7 +23295,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": {
    "url": "https://www.menulog.com.au/restaurants-hungry-jacks-glendenning/menu?utm_medium=restaurant_listing&utm_source=hungry-jacks&utm_campaign=direct_links",
    "enabled": false
@@ -23305,18 +23305,14 @@
  {
   "item_number": "92072",
   "store_id": 8454,
-  "store_identifier": "303051",
+  "store_identifier": null,
   "is_test_store": false,
   "delivery_vendor_id": null,
-  "order_mode_types": [
-   1,
-   2,
-   16
-  ],
+  "order_mode_types": null,
   "vendor_merchant_code": null,
   "business_abn": null,
-  "vendor_site_id": "542",
-  "oph_item_number": "",
+  "vendor_site_id": null,
+  "oph_item_number": "92072",
   "name": "M1 Wyong Southbound",
   "long_name": "HJ M1 Wyong Southbound",
   "entity_name": "M1 Wyong Southbound F",
@@ -23423,57 +23419,7 @@
      "close": "05:00"
     }
    ],
-   "delivery": [
-    {
-     "day_idx": 0,
-     "day_name": "Sun",
-     "is_open": true,
-     "open": null,
-     "close": null
-    },
-    {
-     "day_idx": 1,
-     "day_name": "Mon",
-     "is_open": true,
-     "open": null,
-     "close": null
-    },
-    {
-     "day_idx": 2,
-     "day_name": "Tue",
-     "is_open": true,
-     "open": null,
-     "close": null
-    },
-    {
-     "day_idx": 3,
-     "day_name": "Wed",
-     "is_open": true,
-     "open": null,
-     "close": null
-    },
-    {
-     "day_idx": 4,
-     "day_name": "Thu",
-     "is_open": true,
-     "open": null,
-     "close": null
-    },
-    {
-     "day_idx": 5,
-     "day_name": "Fri",
-     "is_open": true,
-     "open": null,
-     "close": null
-    },
-    {
-     "day_idx": 6,
-     "day_name": "Sat",
-     "is_open": true,
-     "open": null,
-     "close": null
-    }
-   ],
+   "delivery": null,
    "temp_close": false
   },
   "location": {
@@ -23493,14 +23439,14 @@
    "is24x2": true,
    "dinein": true,
    "drivethru": true,
-   "preorder": true,
+   "preorder": false,
    "loyalty": true,
-   "inapp_delivery_enabled": true,
-   "barista_coffee": true
+   "inapp_delivery_enabled": false,
+   "barista_coffee": false
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": null,
-  "store_timezone_id": "AUS Eastern Standard Time"
+  "store_timezone_id": null
  },
  {
   "item_number": "92013",
@@ -23646,7 +23592,7 @@
    "inapp_delivery_enabled": false,
    "barista_coffee": false
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": null,
   "store_timezone_id": "AUS Eastern Standard Time"
  },
@@ -23845,7 +23791,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": {
    "url": "https://www.menulog.com.au/restaurants-hungry-jacks-paralowie/menu?utm_medium=restaurant_listing&utm_source=hungry-jacks&utm_campaign=direct_links",
    "enabled": false
@@ -24047,7 +23993,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": {
    "url": "https://www.menulog.com.au/restaurants-hungry-jacks-myaree/menu?utm_medium=restaurant_listing&utm_source=hungry-jacks&utm_campaign=direct_links",
    "enabled": false
@@ -24093,13 +24039,13 @@
      "day_name": "Tue",
      "is_open": true,
      "open": "05:30",
-     "close": "22:00"
+     "close": "23:00"
     },
     {
      "day_idx": 3,
      "day_name": "Wed",
      "is_open": true,
-     "open": "06:00",
+     "open": "05:30",
      "close": "23:00"
     },
     {
@@ -24144,13 +24090,13 @@
      "day_name": "Tue",
      "is_open": true,
      "open": "05:30",
-     "close": "22:00"
+     "close": "00:00"
     },
     {
      "day_idx": 3,
      "day_name": "Wed",
      "is_open": true,
-     "open": "06:00",
+     "open": "05:30",
      "close": "00:00"
     },
     {
@@ -24250,7 +24196,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": {
    "url": "https://www.menulog.com.au/restaurants-hungry-jacks-forrestdale/menu?utm_medium=restaurant_listing&utm_source=hungry-jacks&utm_campaign=direct_links",
    "enabled": false
@@ -24452,7 +24398,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": {
    "url": "https://www.menulog.com.au/restaurants-hungry-jacks-midvale/menu/?utm_medium=restaurant_listing&utm_source=hungry-jacks&utm_campaign=direct_links",
    "enabled": false
@@ -24654,7 +24600,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": null,
   "store_timezone_id": "AUS Eastern Standard Time"
  },
@@ -24747,7 +24693,7 @@
      "day_name": "Tue",
      "is_open": true,
      "open": "06:00",
-     "close": "22:00"
+     "close": "23:00"
     },
     {
      "day_idx": 3,
@@ -24853,7 +24799,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": {
    "url": "https://www.menulog.com.au/restaurants-hungry-jacks-flemington/menu?utm_medium=restaurant_listing&utm_source=hungry-jacks&utm_campaign=direct_links",
    "enabled": false
@@ -25055,7 +25001,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": {
    "url": "https://www.menulog.com.au/restaurants-hungry-jacks-victoria-point/menu?utm_medium=restaurant_listing&utm_source=hungry-jacks&utm_campaign=direct_links",
    "enabled": true
@@ -25257,7 +25203,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": false
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": {
    "url": "https://www.menulog.com.au/restaurants-hungry-jacks-dry-creek/menu?utm_medium=restaurant_listing&utm_source=hungry-jacks&utm_campaign=direct_links",
    "enabled": true
@@ -25459,7 +25405,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": {
    "url": "https://www.menulog.com.au/restaurants-hungry-jacks-darlington/menu?utm_medium=restaurant_listing&utm_source=hungry-jacks&utm_campaign=direct_links",
    "enabled": false
@@ -25497,13 +25443,13 @@
      "day_name": "Mon",
      "is_open": true,
      "open": "05:00",
-     "close": "23:00"
+     "close": "22:00"
     },
     {
      "day_idx": 2,
      "day_name": "Tue",
      "is_open": true,
-     "open": "05:00",
+     "open": "06:00",
      "close": "23:00"
     },
     {
@@ -25548,13 +25494,13 @@
      "day_name": "Mon",
      "is_open": true,
      "open": "05:00",
-     "close": "05:00"
+     "close": "22:00"
     },
     {
      "day_idx": 2,
      "day_name": "Tue",
      "is_open": true,
-     "open": "05:00",
+     "open": "06:00",
      "close": "05:00"
     },
     {
@@ -25661,7 +25607,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": {
    "url": "https://www.menulog.com.au/restaurants-hungry-jacks-thomastown/menu?utm_medium=restaurant_listing&utm_source=hungry-jacks&utm_campaign=direct_links",
    "enabled": false
@@ -25812,7 +25758,7 @@
    "inapp_delivery_enabled": false,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": null,
   "store_timezone_id": "AUS Eastern Standard Time"
  },
@@ -26011,7 +25957,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": {
    "url": "https://www.menulog.com.au/restaurants-hungry-jacks-ardeer-sunshine-west/menu?utm_medium=restaurant_listing&utm_source=hungry-jacks&utm_campaign=direct_links",
    "enabled": false
@@ -26160,7 +26106,7 @@
    "inapp_delivery_enabled": false,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": null,
   "store_timezone_id": "E. Australia Standard Time"
  },
@@ -26359,7 +26305,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": {
    "url": "https://www.menulog.com.au/restaurants-hungry-jacks-high-wycombe/menu?utm_medium=restaurant_listing&utm_source=hungry-jacks&utm_campaign=direct_links",
    "enabled": false
@@ -26561,7 +26507,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": {
    "url": "https://www.menulog.com.au/restaurants-hungry-jacks-campbelltown/menu?utm_medium=restaurant_listing&utm_source=hungry-jacks&utm_campaign=direct_links",
    "enabled": false
@@ -26764,7 +26710,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": {
    "url": "https://www.menulog.com.au/restaurants-hungry-jacks-ridgehaven/menu?utm_medium=restaurant_listing&utm_source=hungry-jacks&utm_campaign=direct_links",
    "enabled": false
@@ -26966,7 +26912,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": {
    "url": "https://www.menulog.com.au/restaurants-hungry-jacks-southport/menu?utm_medium=restaurant_listing&utm_source=hungry-jacks&utm_campaign=direct_links",
    "enabled": true
@@ -27168,7 +27114,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": null,
   "store_timezone_id": "Cen. Australia Standard Time"
  },
@@ -27367,7 +27313,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": {
    "url": "https://www.menulog.com.au/restaurants-hungry-jacks-werribee/menu?utm_medium=restaurant_listing&utm_source=hungry-jacks&utm_campaign=direct_links",
    "enabled": false
@@ -27569,7 +27515,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": {
    "url": "https://www.menulog.com.au/restaurants-hungry-jacks-goodna/menu?utm_medium=restaurant_listing&utm_source=hungry-jacks&utm_campaign=direct_links",
    "enabled": false
@@ -27771,7 +27717,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": null,
   "store_timezone_id": "AUS Eastern Standard Time"
  },
@@ -27970,7 +27916,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": {
    "url": "https://www.menulog.com.au/restaurants-hungry-jacks-kings-cross/menu?utm_medium=restaurant_listing&utm_source=hungry-jacks&utm_campaign=direct_links",
    "enabled": false
@@ -28172,7 +28118,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": {
    "url": "https://www.menulog.com.au/restaurants-hungry-jacks-richlands/menu?utm_medium=restaurant_listing&utm_source=hungry-jacks&utm_campaign=direct_links",
    "enabled": false
@@ -28374,7 +28320,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": null,
   "store_timezone_id": "E. Australia Standard Time"
  },
@@ -28522,7 +28468,7 @@
    "inapp_delivery_enabled": false,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": null,
   "store_timezone_id": "W. Australia Standard Time"
  },
@@ -28722,7 +28668,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": {
    "url": "https://www.menulog.com.au/restaurants-hungry-jacks-golden-grove/menu?utm_medium=restaurant_listing&utm_source=hungry-jacks&utm_campaign=direct_links",
    "enabled": false
@@ -28924,7 +28870,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": null,
   "store_timezone_id": "E. Australia Standard Time"
  },
@@ -28959,7 +28905,7 @@
      "day_name": "Mon",
      "is_open": true,
      "open": "06:00",
-     "close": "22:00"
+     "close": "23:00"
     },
     {
      "day_idx": 2,
@@ -29010,7 +28956,7 @@
      "day_name": "Mon",
      "is_open": true,
      "open": "06:00",
-     "close": "22:00"
+     "close": "23:00"
     },
     {
      "day_idx": 2,
@@ -29123,7 +29069,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": {
    "url": "https://www.menulog.com.au/restaurants-hungry-jacks-karawara/menu?utm_medium=restaurant_listing&utm_source=hungry-jacks&utm_campaign=direct_links",
    "enabled": false
@@ -29325,7 +29271,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": null,
   "store_timezone_id": "AUS Eastern Standard Time"
  },
@@ -29473,7 +29419,7 @@
    "inapp_delivery_enabled": false,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": null,
   "store_timezone_id": "W. Australia Standard Time"
  },
@@ -29672,7 +29618,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": {
    "url": "https://www.menulog.com.au/restaurants-hungry-jacks-burleigh-west/menu?utm_medium=restaurant_listing&utm_source=hungry-jacks&utm_campaign=direct_links",
    "enabled": false
@@ -29874,7 +29820,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": {
    "url": "https://www.menulog.com.au/restaurants-hungry-jacks-buddina/menu?utm_medium=restaurant_listing&utm_source=hungry-jacks&utm_campaign=direct_links",
    "enabled": true
@@ -30076,7 +30022,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": {
    "url": "https://www.menulog.com.au/restaurants-hungry-jacks-loganholme/menu?utm_medium=restaurant_listing&utm_source=hungry-jacks&utm_campaign=direct_links",
    "enabled": false
@@ -30278,7 +30224,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": {
    "url": "https://www.menulog.com.au/restaurants-hungry-jacks-figtree/menu",
    "enabled": false
@@ -30429,7 +30375,7 @@
    "inapp_delivery_enabled": false,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": {
    "url": "https://www.menulog.com.au/restaurants-hungry-jacks-craigieburn/menu?utm_medium=restaurant_listing&utm_source=hungry-jacks&utm_campaign=direct_links",
    "enabled": true
@@ -30632,7 +30578,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": {
    "url": "https://www.menulog.com.au/restaurants-hungry-jacks-smithfield/menu?utm_medium=restaurant_listing&utm_source=hungry-jacks&utm_campaign=direct_links",
    "enabled": false
@@ -30834,7 +30780,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": {
    "url": "https://www.menulog.com.au/restaurants-hungry-jacks-jindalee/menu?utm_medium=restaurant_listing&utm_source=hungry-jacks&utm_campaign=direct_links",
    "enabled": false
@@ -31037,7 +30983,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": {
    "url": "https://www.menulog.com.au/restaurants-hungry-jacks-kwinana/menu?utm_medium=restaurant_listing&utm_source=hungry-jacks&utm_campaign=direct_links",
    "enabled": false
@@ -31188,7 +31134,7 @@
    "inapp_delivery_enabled": false,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": null,
   "store_timezone_id": "AUS Eastern Standard Time"
  },
@@ -31387,7 +31333,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": {
    "url": "https://www.menulog.com.au/restaurants-hungry-jacks-bullcreek/menu?utm_medium=restaurant_listing&utm_source=hungry-jacks&utm_campaign=direct_links",
    "enabled": false
@@ -31589,7 +31535,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": {
    "url": "https://www.menulog.com.au/restaurants-hungry-jacks-elizabeth/menu?utm_medium=restaurant_listing&utm_source=hungry-jacks&utm_campaign=direct_links",
    "enabled": false
@@ -31791,7 +31737,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": {
    "url": "https://www.menulog.com.au/restaurants-hungry-jacks-tullamarine/menu/?utm_medium=restaurant_listing&utm_source=hungry-jacks&utm_campaign=direct_links",
    "enabled": false
@@ -31993,7 +31939,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": {
    "url": "https://www.menulog.com.au/restaurants-hungry-jacks-geelong-north/menu/?utm_medium=restaurant_listing&utm_source=hungry-jacks&utm_campaign=direct_links",
    "enabled": false
@@ -32195,7 +32141,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": {
    "url": "https://www.menulog.com.au/restaurants-hungry-jacks-bundoora/menu?utm_medium=restaurant_listing&utm_source=hungry-jacks&utm_campaign=direct_links",
    "enabled": false
@@ -32397,7 +32343,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": {
    "url": "https://www.menulog.com.au/restaurants-hungry-jacks-green-valley/menu?utm_medium=restaurant_listing&utm_source=hungry-jacks&utm_campaign=direct_links",
    "enabled": false
@@ -32443,7 +32389,7 @@
      "day_name": "Tue",
      "is_open": true,
      "open": "06:00",
-     "close": "23:00"
+     "close": "22:00"
     },
     {
      "day_idx": 3,
@@ -32494,7 +32440,7 @@
      "day_name": "Tue",
      "is_open": true,
      "open": "06:00",
-     "close": "00:00"
+     "close": "22:00"
     },
     {
      "day_idx": 3,
@@ -32600,7 +32546,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": {
    "url": "https://www.menulog.com.au/restaurants-hungry-jacks-wendouree/menu?utm_medium=restaurant_listing&utm_source=hungry-jacks&utm_campaign=direct_links",
    "enabled": false
@@ -32802,7 +32748,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": null,
   "store_timezone_id": "AUS Eastern Standard Time"
  },
@@ -33001,7 +32947,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": {
    "url": "https://www.menulog.com.au/restaurants-hungry-jacks-ross-river/menu",
    "enabled": false
@@ -33203,7 +33149,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": {
    "url": "https://www.menulog.com.au/restaurants-hungry-jacks-deagon/menu?utm_medium=restaurant_listing&utm_source=hungry-jacks&utm_campaign=direct_links",
    "enabled": false
@@ -33354,7 +33300,7 @@
    "inapp_delivery_enabled": false,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": {
    "url": "https://www.menulog.com.au/restaurants-hungry-jacks-angle-park/menu?utm_medium=restaurant_listing&utm_source=hungry-jacks&utm_campaign=direct_links",
    "enabled": true
@@ -33556,7 +33502,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": {
    "url": "https://www.menulog.com.au/restaurants-hungry-jacks-sebastopol/menu?utm_medium=restaurant_listing&utm_source=hungry-jacks&utm_campaign=direct_links",
    "enabled": false
@@ -33758,7 +33704,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": {
    "url": "https://www.menulog.com.au/restaurants-hungry-jacks-ingle-farm/menu?utm_medium=restaurant_listing&utm_source=hungry-jacks&utm_campaign=direct_links",
    "enabled": false
@@ -33960,7 +33906,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": null,
   "store_timezone_id": "Cen. Australia Standard Time"
  },
@@ -34159,7 +34105,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": null,
   "store_timezone_id": "AUS Eastern Standard Time"
  },
@@ -34358,7 +34304,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": {
    "url": "https://www.menulog.com.au/restaurants-hungry-jacks-west-richmond/menu?utm_medium=restaurant_listing&utm_source=hungry-jacks&utm_campaign=direct_links",
    "enabled": false
@@ -34562,7 +34508,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": null,
   "store_timezone_id": "AUS Eastern Standard Time"
  },
@@ -34761,7 +34707,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": null,
   "store_timezone_id": "AUS Central Standard Time"
  },
@@ -34960,7 +34906,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": null,
   "store_timezone_id": "AUS Eastern Standard Time"
  },
@@ -35108,7 +35054,7 @@
    "inapp_delivery_enabled": false,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": null,
   "store_timezone_id": "AUS Eastern Standard Time"
  },
@@ -35307,7 +35253,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": {
    "url": "https://www.menulog.com.au/restaurants-hungry-jacks-seaford/menu?utm_medium=restaurant_listing&utm_source=hungry-jacks&utm_campaign=direct_links",
    "enabled": false
@@ -35509,7 +35455,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": null,
   "store_timezone_id": "AUS Eastern Standard Time"
  },
@@ -35657,7 +35603,7 @@
    "inapp_delivery_enabled": false,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": null,
   "store_timezone_id": "AUS Eastern Standard Time"
  },
@@ -35856,7 +35802,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": {
    "url": "https://www.menulog.com.au/restaurants-hungry-jacks-rockingham/menu?utm_medium=restaurant_listing&utm_source=hungry-jacks&utm_campaign=direct_links",
    "enabled": false
@@ -36058,7 +36004,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": {
    "url": "https://www.menulog.com.au/restaurants-hungry-jacks-knox-city/menu?utm_medium=restaurant_listing&utm_source=hungry-jacks&utm_campaign=direct_links",
    "enabled": false
@@ -36260,7 +36206,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": {
    "url": "https://www.menulog.com.au/restaurants-hungry-jacks-wanneroo/menu?utm_medium=restaurant_listing&utm_source=hungry-jacks&utm_campaign=direct_links",
    "enabled": false
@@ -36411,7 +36357,7 @@
    "inapp_delivery_enabled": false,
    "barista_coffee": false
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": null,
   "store_timezone_id": "Cen. Australia Standard Time"
  },
@@ -36610,7 +36556,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": {
    "url": "https://www.menulog.com.au/restaurants-hungry-jacks-falcon/menu?utm_medium=restaurant_listing&utm_source=hungry-jacks&utm_campaign=direct_links",
    "enabled": false
@@ -36812,7 +36758,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": null,
   "store_timezone_id": "AUS Eastern Standard Time"
  },
@@ -36960,7 +36906,7 @@
    "inapp_delivery_enabled": false,
    "barista_coffee": false
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": null,
   "store_timezone_id": "AUS Eastern Standard Time"
  },
@@ -37159,7 +37105,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": {
    "url": "https://www.menulog.com.au/restaurants-hungry-jacks-chirnside-park/menu?utm_medium=restaurant_listing&utm_source=hungry-jacks&utm_campaign=direct_links",
    "enabled": false
@@ -37362,7 +37308,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": {
    "url": "https://www.menulog.com.au/restaurants-hungry-jacks-parklea/menu?utm_medium=restaurant_listing&utm_source=hungry-jacks&utm_campaign=direct_links",
    "enabled": true
@@ -37564,7 +37510,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": {
    "url": "https://www.menulog.com.au/restaurants-hungry-jacks-hackham/menu?utm_medium=restaurant_listing&utm_source=hungry-jacks&utm_campaign=direct_links",
    "enabled": false
@@ -37715,7 +37661,7 @@
    "inapp_delivery_enabled": false,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": null,
   "store_timezone_id": "AUS Eastern Standard Time"
  },
@@ -37914,7 +37860,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": {
    "url": "https://www.menulog.com.au/restaurants-hungry-jacks-edwardstown/menu?utm_medium=restaurant_listing&utm_source=hungry-jacks&utm_campaign=direct_links",
    "enabled": false
@@ -38065,7 +38011,7 @@
    "inapp_delivery_enabled": false,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": null,
   "store_timezone_id": "W. Australia Standard Time"
  },
@@ -38264,7 +38210,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": {
    "url": "https://www.menulog.com.au/restaurants-hungry-jacks-balga/menu?utm_medium=restaurant_listing&utm_source=hungry-jacks&utm_campaign=direct_links",
    "enabled": false
@@ -38466,7 +38412,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": {
    "url": "https://www.menulog.com.au/restaurants-hungry-jacks-south-frankston/menu?utm_medium=restaurant_listing&utm_source=hungry-jacks&utm_campaign=direct_links",
    "enabled": true
@@ -38668,7 +38614,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": null,
   "store_timezone_id": "AUS Eastern Standard Time"
  },
@@ -38867,7 +38813,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": null,
   "store_timezone_id": "AUS Eastern Standard Time"
  },
@@ -39015,7 +38961,7 @@
    "inapp_delivery_enabled": false,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": null,
   "store_timezone_id": "Cen. Australia Standard Time"
  },
@@ -39215,7 +39161,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": null,
   "store_timezone_id": "AUS Eastern Standard Time"
  },
@@ -39414,7 +39360,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": {
    "url": "https://www.menulog.com.au/restaurants-hungry-jacks-wagga-wagga/menu?utm_medium=restaurant_listing&utm_source=hungry-jacks&utm_campaign=direct_links",
    "enabled": true
@@ -39616,7 +39562,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": {
    "url": "https://www.menulog.com.au/restaurants-hungry-jacks-tuggerah/menu?utm_medium=restaurant_listing&utm_source=hungry-jacks&utm_campaign=direct_links",
    "enabled": false
@@ -39818,7 +39764,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": {
    "url": "https://www.menulog.com.au/restaurants-hungry-jacks-clarkson/menu?utm_medium=restaurant_listing&utm_source=hungry-jacks&utm_campaign=direct_links",
    "enabled": false
@@ -40020,7 +39966,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": {
    "url": "https://www.menulog.com.au/restaurants-hungry-jacks-redbank-plains/menu?utm_medium=restaurant_listing&utm_source=hungry-jacks&utm_campaign=direct_links",
    "enabled": false
@@ -40223,7 +40169,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": null,
   "store_timezone_id": "AUS Eastern Standard Time"
  },
@@ -40422,7 +40368,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": {
    "url": "https://www.menulog.com.au/restaurants-hungry-jacks-belconnen/menu?utm_medium=restaurant_listing&utm_source=hungry-jacks&utm_campaign=direct_links",
    "enabled": false
@@ -40573,7 +40519,7 @@
    "inapp_delivery_enabled": false,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": null,
   "store_timezone_id": "E. Australia Standard Time"
  },
@@ -40772,7 +40718,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": {
    "url": "https://www.menulog.com.au/restaurants-hungry-jacks-booval/menu?utm_medium=restaurant_listing&utm_source=hungry-jacks&utm_campaign=direct_links",
    "enabled": false
@@ -40974,7 +40920,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": {
    "url": "https://www.menulog.com.au/restaurants-hungry-jacks-kippa-ring/menu?utm_medium=restaurant_listing&utm_source=hungry-jacks&utm_campaign=direct_links",
    "enabled": false
@@ -41176,7 +41122,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": {
    "url": "https://www.menulog.com.au/restaurants-hungry-jacks-carseldine/menu?utm_medium=restaurant_listing&utm_source=hungry-jacks&utm_campaign=direct_links",
    "enabled": false
@@ -41380,7 +41326,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": {
    "url": "https://www.menulog.com.au/restaurants-hungry-jacks-seven-hills/menu/?utm_medium=restaurant_listing&utm_source=hungry-jacks&utm_campaign=direct_links",
    "enabled": true
@@ -41582,7 +41528,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": {
    "url": "https://www.menulog.com.au/restaurants-hungry-jacks-elizabeth-street/menu?utm_medium=restaurant_listing&utm_source=hungry-jacks&utm_campaign=direct_links",
    "enabled": false
@@ -41784,7 +41730,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": {
    "url": "https://www.menulog.com.au/restaurants-hungry-jacks-eltham/menu?utm_medium=restaurant_listing&utm_source=hungry-jacks&utm_campaign=direct_links",
    "enabled": false
@@ -41986,7 +41932,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": {
    "url": "https://www.menulog.com.au/restaurants-hungry-jacks-hoddle-street/menu?utm_medium=restaurant_listing&utm_source=hungry-jacks&utm_campaign=direct_links",
    "enabled": false
@@ -42188,7 +42134,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": {
    "url": "https://www.menulog.com.au/restaurants-hungry-jacks-pakenham/menu?utm_medium=restaurant_listing&utm_source=hungry-jacks&utm_campaign=direct_links",
    "enabled": true
@@ -42390,7 +42336,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": {
    "url": "https://www.menulog.com.au/restaurants-hungry-jacks-redcliffe/menu?utm_medium=restaurant_listing&utm_source=hungry-jacks&utm_campaign=direct_links",
    "enabled": false
@@ -42592,7 +42538,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": {
    "url": "https://www.menulog.com.au/restaurants-hungry-jacks-mt-waverley/menu?utm_medium=restaurant_listing&utm_source=hungry-jacks&utm_campaign=direct_links",
    "enabled": true
@@ -42794,7 +42740,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": null,
   "store_timezone_id": "AUS Eastern Standard Time"
  },
@@ -42942,7 +42888,7 @@
    "inapp_delivery_enabled": false,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": null,
   "store_timezone_id": "AUS Eastern Standard Time"
  },
@@ -43091,7 +43037,7 @@
    "inapp_delivery_enabled": false,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": null,
   "store_timezone_id": "AUS Eastern Standard Time"
  },
@@ -43290,7 +43236,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": null,
   "store_timezone_id": "E. Australia Standard Time"
  },
@@ -43489,7 +43435,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": null,
   "store_timezone_id": "AUS Eastern Standard Time"
  },
@@ -43688,7 +43634,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": {
    "url": "https://www.menulog.com.au/restaurants-hungry-jacks-moore-park/menu?utm_medium=restaurant_listing&utm_source=hungry-jacks&utm_campaign=direct_links",
    "enabled": false
@@ -43891,7 +43837,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": {
    "url": "https://www.menulog.com.au/restaurants-hungry-jacks-wodonga/menu?utm_medium=restaurant_listing&utm_source=hungry-jacks&utm_campaign=direct_links",
    "enabled": true
@@ -44093,7 +44039,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": {
    "url": "https://www.menulog.com.au/restaurants-hungry-jacks-port-kennedy/menu?utm_medium=restaurant_listing&utm_source=hungry-jacks&utm_campaign=direct_links",
    "enabled": false
@@ -44295,7 +44241,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": null,
   "store_timezone_id": "E. Australia Standard Time"
  },
@@ -44494,7 +44440,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": {
    "url": "https://www.menulog.com.au/restaurants-hungry-jacks-eaton/menu?utm_medium=restaurant_listing&utm_source=hungry-jacks&utm_campaign=direct_links",
    "enabled": true
@@ -44645,7 +44591,7 @@
    "inapp_delivery_enabled": false,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": null,
   "store_timezone_id": "E. Australia Standard Time"
  },
@@ -44844,7 +44790,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": {
    "url": "https://www.menulog.com.au/restaurants-hungry-jacks-oakleigh/menu?utm_medium=restaurant_listing&utm_source=hungry-jacks&utm_campaign=direct_links",
    "enabled": false
@@ -45046,7 +44992,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": {
    "url": "https://www.menulog.com.au/restaurants-hungry-jacks-brighton/menu?utm_medium=restaurant_listing&utm_source=hungry-jacks&utm_campaign=direct_links",
    "enabled": false
@@ -45248,7 +45194,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": null,
   "store_timezone_id": "AUS Eastern Standard Time"
  },
@@ -45448,7 +45394,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": null,
   "store_timezone_id": "AUS Eastern Standard Time"
  },
@@ -45647,7 +45593,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": {
    "url": "https://www.menulog.com.au/restaurants-hungry-jacks-highpoint-maribyrnong/menu?utm_medium=restaurant_listing&utm_source=hungry-jacks&utm_campaign=direct_links",
    "enabled": false
@@ -45849,7 +45795,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": {
    "url": "https://www.menulog.com.au/restaurants-hungry-jacks-boondall/menu?utm_medium=restaurant_listing&utm_source=hungry-jacks&utm_campaign=direct_links",
    "enabled": false
@@ -46051,7 +45997,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": {
    "url": "https://www.menulog.com.au/restaurants-hungry-jacks-epping/menu?utm_medium=restaurant_listing&utm_source=hungry-jacks&utm_campaign=direct_links",
    "enabled": false
@@ -46253,7 +46199,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": {
    "url": "https://www.menulog.com.au/restaurants-hungry-jacks-fountain-gate/menu?utm_medium=restaurant_listing&utm_source=hungry-jacks&utm_campaign=direct_links",
    "enabled": true
@@ -46455,7 +46401,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": null,
   "store_timezone_id": "AUS Eastern Standard Time"
  },
@@ -46654,7 +46600,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": {
    "url": "https://www.menulog.com.au/restaurants-hungry-jacks-ellenbrook/menu?utm_medium=restaurant_listing&utm_source=hungry-jacks&utm_campaign=direct_links",
    "enabled": false
@@ -46856,7 +46802,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": {
    "url": "https://www.menulog.com.au/restaurants-hungry-jacks-cabramatta/menu?utm_medium=restaurant_listing&utm_source=hungry-jacks&utm_campaign=direct_links",
    "enabled": false
@@ -47058,7 +47004,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": null,
   "store_timezone_id": "AUS Eastern Standard Time"
  },
@@ -47207,7 +47153,7 @@
    "inapp_delivery_enabled": false,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": null,
   "store_timezone_id": "AUS Eastern Standard Time"
  },
@@ -47406,7 +47352,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": null,
   "store_timezone_id": "E. Australia Standard Time"
  },
@@ -47605,7 +47551,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": {
    "url": "https://www.menulog.com.au/restaurants-hungry-jacks-cannon-hill/menu?utm_medium=restaurant_listing&utm_source=hungry-jacks&utm_campaign=direct_links",
    "enabled": false
@@ -47756,7 +47702,7 @@
    "inapp_delivery_enabled": false,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": {
    "url": "https://www.menulog.com.au/restaurants-hungry-jacks-sunbury/menu?utm_medium=restaurant_listing&utm_source=hungry-jacks&utm_campaign=direct_links",
    "enabled": true
@@ -47907,7 +47853,7 @@
    "inapp_delivery_enabled": false,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": null,
   "store_timezone_id": "AUS Central Standard Time"
  },
@@ -48055,7 +48001,7 @@
    "inapp_delivery_enabled": false,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": null,
   "store_timezone_id": "Cen. Australia Standard Time"
  },
@@ -48255,7 +48201,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": {
    "url": "https://www.menulog.com.au/restaurants-hungry-jacks-townsville-domain/menu?utm_medium=restaurant_listing&utm_source=hungry-jacks&utm_campaign=direct_links",
    "enabled": false
@@ -48459,7 +48405,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": null,
   "store_timezone_id": "W. Australia Standard Time"
  },
@@ -48658,7 +48604,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": {
    "url": "https://www.menulog.com.au/restaurants-hungry-jacks-fulham/menu?utm_medium=restaurant_listing&utm_source=hungry-jacks&utm_campaign=direct_links",
    "enabled": false
@@ -48861,7 +48807,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": null,
   "store_timezone_id": "E. Australia Standard Time"
  },
@@ -49060,7 +49006,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": {
    "url": "https://www.menulog.com.au/restaurants-hungry-jacks-clyde-north/menu?utm_medium=restaurant_listing&utm_source=hungry-jacks&utm_campaign=direct_links",
    "enabled": true
@@ -49262,7 +49208,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": {
    "url": "https://www.menulog.com.au/restaurants-hungry-jacks-kedron/menu?utm_medium=restaurant_listing&utm_source=hungry-jacks&utm_campaign=direct_links",
    "enabled": false
@@ -49464,7 +49410,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": {
    "url": "https://www.menulog.com.au/restaurants-hungry-jacks-karingal-hub/menu?utm_medium=restaurant_listing&utm_source=hungry-jacks&utm_campaign=direct_links",
    "enabled": false
@@ -49666,7 +49612,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": {
    "url": "https://www.menulog.com.au/restaurants-hungry-jacks-toowoomba/menu?utm_medium=restaurant_listing&utm_source=hungry-jacks&utm_campaign=direct_links",
    "enabled": false
@@ -49868,7 +49814,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": {
    "url": "",
    "enabled": false
@@ -50070,9 +50016,209 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": null,
   "store_timezone_id": "AUS Eastern Standard Time"
+ },
+ {
+  "item_number": "40133",
+  "store_id": 3683,
+  "store_identifier": "302718",
+  "is_test_store": false,
+  "delivery_vendor_id": null,
+  "order_mode_types": [
+   1,
+   2,
+   16
+  ],
+  "vendor_merchant_code": null,
+  "business_abn": null,
+  "vendor_site_id": "549",
+  "oph_item_number": "",
+  "name": "Cairns North",
+  "long_name": "HJ Cairns North",
+  "entity_name": "Cairns North",
+  "hours": {
+   "dine_in": [
+    {
+     "day_idx": 0,
+     "day_name": "Sun",
+     "is_open": true,
+     "open": "05:00",
+     "close": "05:00"
+    },
+    {
+     "day_idx": 1,
+     "day_name": "Mon",
+     "is_open": true,
+     "open": "05:00",
+     "close": "05:00"
+    },
+    {
+     "day_idx": 2,
+     "day_name": "Tue",
+     "is_open": true,
+     "open": "05:00",
+     "close": "05:00"
+    },
+    {
+     "day_idx": 3,
+     "day_name": "Wed",
+     "is_open": true,
+     "open": "05:00",
+     "close": "05:00"
+    },
+    {
+     "day_idx": 4,
+     "day_name": "Thu",
+     "is_open": true,
+     "open": "05:00",
+     "close": "05:00"
+    },
+    {
+     "day_idx": 5,
+     "day_name": "Fri",
+     "is_open": true,
+     "open": "05:00",
+     "close": "05:00"
+    },
+    {
+     "day_idx": 6,
+     "day_name": "Sat",
+     "is_open": true,
+     "open": "05:00",
+     "close": "05:00"
+    }
+   ],
+   "drive_thru": [
+    {
+     "day_idx": 0,
+     "day_name": "Sun",
+     "is_open": true,
+     "open": "05:00",
+     "close": "05:00"
+    },
+    {
+     "day_idx": 1,
+     "day_name": "Mon",
+     "is_open": true,
+     "open": "05:00",
+     "close": "05:00"
+    },
+    {
+     "day_idx": 2,
+     "day_name": "Tue",
+     "is_open": true,
+     "open": "05:00",
+     "close": "05:00"
+    },
+    {
+     "day_idx": 3,
+     "day_name": "Wed",
+     "is_open": true,
+     "open": "05:00",
+     "close": "05:00"
+    },
+    {
+     "day_idx": 4,
+     "day_name": "Thu",
+     "is_open": true,
+     "open": "05:00",
+     "close": "05:00"
+    },
+    {
+     "day_idx": 5,
+     "day_name": "Fri",
+     "is_open": true,
+     "open": "05:00",
+     "close": "05:00"
+    },
+    {
+     "day_idx": 6,
+     "day_name": "Sat",
+     "is_open": true,
+     "open": "05:00",
+     "close": "05:00"
+    }
+   ],
+   "delivery": [
+    {
+     "day_idx": 0,
+     "day_name": "Sun",
+     "is_open": true,
+     "open": null,
+     "close": null
+    },
+    {
+     "day_idx": 1,
+     "day_name": "Mon",
+     "is_open": true,
+     "open": null,
+     "close": null
+    },
+    {
+     "day_idx": 2,
+     "day_name": "Tue",
+     "is_open": true,
+     "open": null,
+     "close": null
+    },
+    {
+     "day_idx": 3,
+     "day_name": "Wed",
+     "is_open": true,
+     "open": null,
+     "close": null
+    },
+    {
+     "day_idx": 4,
+     "day_name": "Thu",
+     "is_open": true,
+     "open": null,
+     "close": null
+    },
+    {
+     "day_idx": 5,
+     "day_name": "Fri",
+     "is_open": true,
+     "open": null,
+     "close": null
+    },
+    {
+     "day_idx": 6,
+     "day_name": "Sat",
+     "is_open": true,
+     "open": null,
+     "close": null
+    }
+   ],
+   "temp_close": false
+  },
+  "location": {
+   "lat": -16.90603,
+   "long": 145.7589,
+   "suburb": "Cairns North",
+   "address": "331-335 Sheridan Street",
+   "postcode": "4870",
+   "state": "QLD",
+   "phone": ""
+  },
+  "facilities": {
+   "foodcourt": false,
+   "playground": false,
+   "birthdayparty": false,
+   "is24x7": false,
+   "is24x2": false,
+   "dinein": true,
+   "drivethru": true,
+   "preorder": false,
+   "loyalty": true,
+   "inapp_delivery_enabled": true,
+   "barista_coffee": true
+  },
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
+  "menulog": null,
+  "store_timezone_id": "E. Australia Standard Time"
  },
  {
   "item_number": "20030",
@@ -50269,7 +50415,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": {
    "url": "https://www.menulog.com.au/restaurants-hungry-jacks-ashfield/menu?utm_medium=restaurant_listing&utm_source=hungry-jacks&utm_campaign=direct_links",
    "enabled": false
@@ -50471,7 +50617,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": {
    "url": "https://www.menulog.com.au/restaurants-hungry-jacks-hallam/menu?utm_medium=restaurant_listing&utm_source=hungry-jacks&utm_campaign=direct_links",
    "enabled": true
@@ -50622,7 +50768,7 @@
    "inapp_delivery_enabled": false,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": null,
   "store_timezone_id": "E. Australia Standard Time"
  },
@@ -50658,13 +50804,13 @@
      "day_name": "Mon",
      "is_open": true,
      "open": "05:00",
-     "close": "05:00"
+     "close": "22:00"
     },
     {
      "day_idx": 2,
      "day_name": "Tue",
      "is_open": true,
-     "open": "05:00",
+     "open": "06:00",
      "close": "05:00"
     },
     {
@@ -50709,13 +50855,13 @@
      "day_name": "Mon",
      "is_open": true,
      "open": "05:00",
-     "close": "05:00"
+     "close": "22:00"
     },
     {
      "day_idx": 2,
      "day_name": "Tue",
      "is_open": true,
-     "open": "05:00",
+     "open": "06:00",
      "close": "05:00"
     },
     {
@@ -50822,7 +50968,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": null,
   "store_timezone_id": "AUS Eastern Standard Time"
  },
@@ -51021,7 +51167,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": {
    "url": "https://www.menulog.com.au/restaurants-hungry-jacks-joondalup/menu?utm_medium=restaurant_listing&utm_source=hungry-jacks&utm_campaign=direct_links",
    "enabled": false
@@ -51223,7 +51369,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": {
    "url": "https://www.menulog.com.au/restaurants-hungry-jacks-morayfield/menu?utm_medium=restaurant_listing&utm_source=hungry-jacks&utm_campaign=direct_links",
    "enabled": true
@@ -51319,7 +51465,7 @@
      "day_name": "Tue",
      "is_open": true,
      "open": "06:00",
-     "close": "00:00"
+     "close": "22:00"
     },
     {
      "day_idx": 3,
@@ -51425,7 +51571,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": {
    "url": "https://www.menulog.com.au/restaurants-hungry-jacks-whitfords/menu?utm_medium=restaurant_listing&utm_source=hungry-jacks&utm_campaign=direct_links",
    "enabled": false
@@ -51627,7 +51773,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": {
    "url": "https://www.menulog.com.au/restaurants-hungry-jacks-albury/menu/?utm_medium=restaurant_listing&utm_source=hungry-jacks&utm_campaign=direct_links",
    "enabled": true
@@ -51830,7 +51976,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": null,
   "store_timezone_id": "Cen. Australia Standard Time"
  },
@@ -52029,7 +52175,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": {
    "url": "https://www.menulog.com.au/restaurants-hungry-jacks-tumbi-umbi/menu?utm_medium=restaurant_listing&utm_source=hungry-jacks&utm_campaign=direct_links",
    "enabled": false
@@ -52231,7 +52377,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": {
    "url": "https://www.menulog.com.au/restaurants-hungry-jacks-baldivis/menu/?utm_medium=restaurant_listing&utm_source=hungry-jacks&utm_campaign=direct_links",
    "enabled": false
@@ -52433,7 +52579,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": null,
   "store_timezone_id": "AUS Central Standard Time"
  },
@@ -52632,7 +52778,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": {
    "url": "https://www.menulog.com.au/restaurants-hungry-jacks-sylvania/menu?utm_medium=restaurant_listing&utm_source=hungry-jacks&utm_campaign=direct_links",
    "enabled": false
@@ -52834,7 +52980,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": {
    "url": "https://www.menulog.com.au/restaurants-hungry-jacks-woodridge-logan-central/menu?utm_medium=restaurant_listing&utm_source=hungry-jacks&utm_campaign=direct_links",
    "enabled": false
@@ -53036,7 +53182,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": {
    "url": "https://www.menulog.com.au/restaurants-hungry-jacks-mango-hill/menu?utm_medium=restaurant_listing&utm_source=hungry-jacks&utm_campaign=direct_links",
    "enabled": false
@@ -53239,7 +53385,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": null,
   "store_timezone_id": "W. Australia Standard Time"
  },
@@ -53388,7 +53534,7 @@
    "inapp_delivery_enabled": false,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": {
    "url": "https://www.menulog.com.au/restaurants-hungry-jacks-auburn/menu?utm_medium=restaurant_listing&utm_source=hungry-jacks&utm_campaign=direct_links",
    "enabled": true
@@ -53590,7 +53736,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": {
    "url": "https://www.menulog.com.au/restaurants-hungry-jacks-mandurah/menu?utm_medium=restaurant_listing&utm_source=hungry-jacks&utm_campaign=direct_links",
    "enabled": false
@@ -53792,7 +53938,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": null,
   "store_timezone_id": "E. Australia Standard Time"
  },
@@ -53991,7 +54137,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": {
    "url": "https://www.menulog.com.au/restaurants-hungry-jacks-parkmore/menu?utm_medium=restaurant_listing&utm_source=hungry-jacks&utm_campaign=direct_links",
    "enabled": false
@@ -54194,7 +54340,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": null,
   "store_timezone_id": "AUS Eastern Standard Time"
  },
@@ -54393,7 +54539,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": null,
   "store_timezone_id": "AUS Eastern Standard Time"
  },
@@ -54592,7 +54738,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": {
    "url": "https://www.menulog.com.au/restaurants-hungry-jacks-midland/menu?utm_medium=restaurant_listing&utm_source=hungry-jacks&utm_campaign=direct_links",
    "enabled": false
@@ -54794,7 +54940,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": {
    "url": "https://www.menulog.com.au/restaurants-hungry-jacks-morphett-vale/menu?utm_medium=restaurant_listing&utm_source=hungry-jacks&utm_campaign=direct_links",
    "enabled": false
@@ -54996,7 +55142,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": null,
   "store_timezone_id": "AUS Eastern Standard Time"
  },
@@ -55195,7 +55341,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": {
    "url": "https://www.menulog.com.au/restaurants-hungry-jacks-newcomb/menu?utm_medium=restaurant_listing&utm_source=hungry-jacks&utm_campaign=direct_links",
    "enabled": false
@@ -55397,7 +55543,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": {
    "url": "https://www.menulog.com.au/restaurants-hungry-jacks-orange/menu?utm_medium=restaurant_listing&utm_source=hungry-jacks&utm_campaign=direct_links",
    "enabled": false
@@ -55599,7 +55745,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": {
    "url": "https://www.menulog.com.au/restaurants-hungry-jacks-burpengary/menu?utm_medium=restaurant_listing&utm_source=hungry-jacks&utm_campaign=direct_links",
    "enabled": true
@@ -55801,7 +55947,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": {
    "url": "https://www.menulog.com.au/restaurants-hungry-jacks-kirwan-willows/menu?utm_medium=restaurant_listing&utm_source=hungry-jacks&utm_campaign=direct_links",
    "enabled": false
@@ -55953,7 +56099,7 @@
    "inapp_delivery_enabled": false,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": null,
   "store_timezone_id": "AUS Eastern Standard Time"
  },
@@ -56152,9 +56298,209 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": null,
   "store_timezone_id": "AUS Eastern Standard Time"
+ },
+ {
+  "item_number": "40130",
+  "store_id": 3680,
+  "store_identifier": "304333",
+  "is_test_store": false,
+  "delivery_vendor_id": null,
+  "order_mode_types": [
+   1,
+   2,
+   16
+  ],
+  "vendor_merchant_code": null,
+  "business_abn": null,
+  "vendor_site_id": "548",
+  "oph_item_number": "",
+  "name": "Robina",
+  "long_name": "HJ Robina",
+  "entity_name": "Robina",
+  "hours": {
+   "dine_in": [
+    {
+     "day_idx": 0,
+     "day_name": "Sun",
+     "is_open": true,
+     "open": "06:00",
+     "close": "23:00"
+    },
+    {
+     "day_idx": 1,
+     "day_name": "Mon",
+     "is_open": true,
+     "open": "06:00",
+     "close": "23:00"
+    },
+    {
+     "day_idx": 2,
+     "day_name": "Tue",
+     "is_open": true,
+     "open": "06:00",
+     "close": "23:00"
+    },
+    {
+     "day_idx": 3,
+     "day_name": "Wed",
+     "is_open": true,
+     "open": "06:00",
+     "close": "23:00"
+    },
+    {
+     "day_idx": 4,
+     "day_name": "Thu",
+     "is_open": true,
+     "open": "06:00",
+     "close": "23:00"
+    },
+    {
+     "day_idx": 5,
+     "day_name": "Fri",
+     "is_open": true,
+     "open": "06:00",
+     "close": "23:00"
+    },
+    {
+     "day_idx": 6,
+     "day_name": "Sat",
+     "is_open": true,
+     "open": "06:00",
+     "close": "23:00"
+    }
+   ],
+   "drive_thru": [
+    {
+     "day_idx": 0,
+     "day_name": "Sun",
+     "is_open": true,
+     "open": "06:00",
+     "close": "23:00"
+    },
+    {
+     "day_idx": 1,
+     "day_name": "Mon",
+     "is_open": true,
+     "open": "06:00",
+     "close": "23:00"
+    },
+    {
+     "day_idx": 2,
+     "day_name": "Tue",
+     "is_open": true,
+     "open": "06:00",
+     "close": "23:00"
+    },
+    {
+     "day_idx": 3,
+     "day_name": "Wed",
+     "is_open": true,
+     "open": "06:00",
+     "close": "23:00"
+    },
+    {
+     "day_idx": 4,
+     "day_name": "Thu",
+     "is_open": true,
+     "open": "06:00",
+     "close": "23:00"
+    },
+    {
+     "day_idx": 5,
+     "day_name": "Fri",
+     "is_open": true,
+     "open": "06:00",
+     "close": "23:00"
+    },
+    {
+     "day_idx": 6,
+     "day_name": "Sat",
+     "is_open": true,
+     "open": "06:00",
+     "close": "23:00"
+    }
+   ],
+   "delivery": [
+    {
+     "day_idx": 0,
+     "day_name": "Sun",
+     "is_open": true,
+     "open": null,
+     "close": null
+    },
+    {
+     "day_idx": 1,
+     "day_name": "Mon",
+     "is_open": true,
+     "open": null,
+     "close": null
+    },
+    {
+     "day_idx": 2,
+     "day_name": "Tue",
+     "is_open": true,
+     "open": null,
+     "close": null
+    },
+    {
+     "day_idx": 3,
+     "day_name": "Wed",
+     "is_open": true,
+     "open": null,
+     "close": null
+    },
+    {
+     "day_idx": 4,
+     "day_name": "Thu",
+     "is_open": true,
+     "open": null,
+     "close": null
+    },
+    {
+     "day_idx": 5,
+     "day_name": "Fri",
+     "is_open": true,
+     "open": null,
+     "close": null
+    },
+    {
+     "day_idx": 6,
+     "day_name": "Sat",
+     "is_open": true,
+     "open": null,
+     "close": null
+    }
+   ],
+   "temp_close": false
+  },
+  "location": {
+   "lat": -28.08434,
+   "long": 153.39353,
+   "suburb": "Robina",
+   "address": "20 Scottsdale Drive",
+   "postcode": "4226",
+   "state": "QLD",
+   "phone": ""
+  },
+  "facilities": {
+   "foodcourt": false,
+   "playground": false,
+   "birthdayparty": true,
+   "is24x7": false,
+   "is24x2": false,
+   "dinein": true,
+   "drivethru": true,
+   "preorder": false,
+   "loyalty": true,
+   "inapp_delivery_enabled": true,
+   "barista_coffee": true
+  },
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
+  "menulog": null,
+  "store_timezone_id": "E. Australia Standard Time"
  },
  {
   "item_number": "93067",
@@ -56351,7 +56697,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": null,
   "store_timezone_id": "AUS Eastern Standard Time"
  },
@@ -56550,7 +56896,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": {
    "url": "https://www.menulog.com.au/restaurants-hungry-jacks-lightsview/menu?utm_medium=restaurant_listing&utm_source=hungry-jacks&utm_campaign=direct_links",
    "enabled": false
@@ -56752,7 +57098,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": {
    "url": "https://www.menulog.com.au/restaurants-hungry-jacks-woodville/menu",
    "enabled": false
@@ -56954,7 +57300,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": {
    "url": "https://www.menulog.com.au/restaurants-hungry-jacks-st-marys/menu?utm_medium=restaurant_listing&utm_source=hungry-jacks&utm_campaign=direct_links",
    "enabled": true
@@ -57156,7 +57502,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": {
    "url": "https://www.menulog.com.au/restaurants-hungry-jacks-roxburgh-park-coolaroo/menu?utm_medium=restaurant_listing&utm_source=hungry-jacks&utm_campaign=direct_links",
    "enabled": true
@@ -57259,7 +57605,7 @@
      "day_name": "Wed",
      "is_open": true,
      "open": "06:30",
-     "close": "22:00"
+     "close": "22:30"
     },
     {
      "day_idx": 4,
@@ -57358,7 +57704,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": {
    "url": "https://www.menulog.com.au/restaurants-hungry-jacks-sunshine/menu?utm_medium=restaurant_listing&utm_source=hungry-jacks&utm_campaign=direct_links",
    "enabled": false
@@ -57560,7 +57906,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": {
    "url": "https://www.menulog.com.au/restaurants-hungry-jacks-kingswood/menu?utm_medium=restaurant_listing&utm_source=hungry-jacks&utm_campaign=direct_links",
    "enabled": false
@@ -57762,7 +58108,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": {
    "url": "https://www.menulog.com.au/restaurants-hungry-jacks-cavill-ave-surfers-paradise/menu?utm_medium=restaurant_listing&utm_source=hungry-jacks&utm_campaign=direct_links",
    "enabled": false
@@ -57913,7 +58259,7 @@
    "inapp_delivery_enabled": false,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": null,
   "store_timezone_id": "AUS Eastern Standard Time"
  },
@@ -58113,7 +58459,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": {
    "url": "https://www.menulog.com.au/restaurants-hungry-jacks-burwood/menu?utm_medium=restaurant_listing&utm_source=hungry-jacks&utm_campaign=direct_links",
    "enabled": false
@@ -58264,7 +58610,7 @@
    "inapp_delivery_enabled": false,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": null,
   "store_timezone_id": "AUS Eastern Standard Time"
  },
@@ -58463,7 +58809,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": {
    "url": "https://www.menulog.com.au/restaurants-hungry-jacks-port-adelaide/menu?utm_medium=restaurant_listing&utm_source=hungry-jacks&utm_campaign=direct_links",
    "enabled": false
@@ -58665,7 +59011,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": {
    "url": "https://www.menulog.com.au/restaurants-hungry-jacks-edmondson-park/menu?utm_medium=restaurant_listing&utm_source=hungry-jacks&utm_campaign=direct_links",
    "enabled": false
@@ -58867,7 +59213,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": null,
   "store_timezone_id": "AUS Eastern Standard Time"
  },
@@ -59066,7 +59412,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": null,
   "store_timezone_id": "AUS Eastern Standard Time"
  },
@@ -59265,7 +59611,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": {
    "url": "https://www.menulog.com.au/restaurants-hungry-jacks-south-rockhampton/menu?utm_medium=restaurant_listing&utm_source=hungry-jacks&utm_campaign=direct_links",
    "enabled": false
@@ -59467,7 +59813,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": {
    "url": "https://www.menulog.com.au/restaurants-hungry-jacks-rowville/menu?utm_medium=restaurant_listing&utm_source=hungry-jacks&utm_campaign=direct_links",
    "enabled": true
@@ -59618,7 +59964,7 @@
    "inapp_delivery_enabled": false,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": null,
   "store_timezone_id": "AUS Eastern Standard Time"
  },
@@ -59817,7 +60163,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": {
    "url": "https://www.menulog.com.au/restaurants-hungry-jacks-la-trobe/menu?utm_medium=restaurant_listing&utm_source=hungry-jacks&utm_campaign=direct_links",
    "enabled": true
@@ -60019,7 +60365,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": {
    "url": "https://www.menulog.com.au/restaurants-hungry-jacks-notting-hill/menu?utm_medium=restaurant_listing&utm_source=hungry-jacks&utm_campaign=direct_links",
    "enabled": false
@@ -60221,7 +60567,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": null,
   "store_timezone_id": "E. Australia Standard Time"
  },
@@ -60420,7 +60766,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": null,
   "store_timezone_id": "AUS Eastern Standard Time"
  },
@@ -60619,7 +60965,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": null,
   "store_timezone_id": "E. Australia Standard Time"
  },
@@ -60767,7 +61113,7 @@
    "inapp_delivery_enabled": false,
    "barista_coffee": false
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": null,
   "store_timezone_id": "AUS Eastern Standard Time"
  },
@@ -60966,7 +61312,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": null,
   "store_timezone_id": "E. Australia Standard Time"
  },
@@ -61165,7 +61511,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": {
    "url": "https://www.menulog.com.au/restaurants-hungry-jacks-marsden/menu?utm_medium=restaurant_listing&utm_source=hungry-jacks&utm_campaign=direct_links",
    "enabled": false
@@ -61368,7 +61714,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": {
    "url": "https://www.menulog.com.au/restaurants-hungry-jacks-livingston/menu?utm_medium=restaurant_listing&utm_source=hungry-jacks&utm_campaign=direct_links",
    "enabled": false
@@ -61570,7 +61916,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": null,
   "store_timezone_id": "AUS Eastern Standard Time"
  },
@@ -61769,7 +62115,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": null,
   "store_timezone_id": "AUS Eastern Standard Time"
  },
@@ -61968,7 +62314,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": {
    "url": "https://www.menulog.com.au/restaurants-hungry-jacks-springwood/menu",
    "enabled": false
@@ -62170,7 +62516,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": {
    "url": "https://www.menulog.com.au/restaurants-hungry-jacks-coopers-plain/menu?utm_medium=restaurant_listing&utm_source=hungry-jacks&utm_campaign=direct_links",
    "enabled": false
@@ -62372,7 +62718,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": null,
   "store_timezone_id": "AUS Eastern Standard Time"
  },
@@ -62571,7 +62917,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": {
    "url": "https://www.menulog.com.au/restaurants-hungry-jacks-narellan/menu?utm_medium=restaurant_listing&utm_source=hungry-jacks&utm_campaign=direct_links",
    "enabled": false
@@ -62773,7 +63119,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": {
    "url": "https://www.menulog.com.au/restaurants-hungry-jacks-bankstown/menu?utm_medium=restaurant_listing&utm_source=hungry-jacks&utm_campaign=direct_links",
    "enabled": false
@@ -62975,7 +63321,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": {
    "url": "https://www.menulog.com.au/restaurants-hungry-jacks-altona-north/menu?utm_medium=restaurant_listing&utm_source=hungry-jacks&utm_campaign=direct_links",
    "enabled": false
@@ -63177,7 +63523,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": null,
   "store_timezone_id": "E. Australia Standard Time"
  },
@@ -63377,7 +63723,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": {
    "url": "https://www.menulog.com.au/restaurants-hungry-jacks-milperra/menu?utm_medium=restaurant_listing&utm_source=hungry-jacks&utm_campaign=direct_links",
    "enabled": false
@@ -63579,7 +63925,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": {
    "url": "https://www.menulog.com.au/restaurants-hungry-jacks-sheidow-park/menu?utm_medium=restaurant_listing&utm_source=hungry-jacks&utm_campaign=direct_links",
    "enabled": false
@@ -63782,7 +64128,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": null,
   "store_timezone_id": "E. Australia Standard Time"
  },
@@ -63861,13 +64207,13 @@
      "day_name": "Sun",
      "is_open": true,
      "open": "05:00",
-     "close": "05:00"
+     "close": "22:00"
     },
     {
      "day_idx": 1,
      "day_name": "Mon",
      "is_open": true,
-     "open": "05:00",
+     "open": "06:00",
      "close": "05:00"
     },
     {
@@ -63981,7 +64327,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": {
    "url": "https://www.menulog.com.au/restaurants-hungry-jacks-melton-west/menu?utm_medium=restaurant_listing&utm_source=hungry-jacks&utm_campaign=direct_links",
    "enabled": false
@@ -64183,7 +64529,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": {
    "url": "https://www.menulog.com.au/restaurants-hungry-jacks-algester/menu?utm_medium=restaurant_listing&utm_source=hungry-jacks&utm_campaign=direct_links",
    "enabled": false
@@ -64334,7 +64680,7 @@
    "inapp_delivery_enabled": false,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": null,
   "store_timezone_id": "Cen. Australia Standard Time"
  },
@@ -64533,7 +64879,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": {
    "url": "https://www.menulog.com.au/restaurants-hungry-jacks-haywards-bay/menu/?utm_medium=restaurant_listing&utm_source=hungry-jacks&utm_campaign=direct_links",
    "enabled": false
@@ -64735,7 +65081,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": null,
   "store_timezone_id": "E. Australia Standard Time"
  },
@@ -64934,7 +65280,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": {
    "url": "https://www.menulog.com.au/restaurants-hungry-jacks-croydon/menu?utm_medium=restaurant_listing&utm_source=hungry-jacks&utm_campaign=direct_links",
    "enabled": false
@@ -65085,7 +65431,7 @@
    "inapp_delivery_enabled": false,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": null,
   "store_timezone_id": "AUS Eastern Standard Time"
  },
@@ -65284,7 +65630,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": {
    "url": "https://www.menulog.com.au/restaurants-hungry-jacks-south-lakes/menu?utm_medium=restaurant_listing&utm_source=hungry-jacks&utm_campaign=direct_links",
    "enabled": false
@@ -65486,7 +65832,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": {
    "url": "https://www.menulog.com.au/restaurants-hungry-jacks-casula/menu?utm_medium=restaurant_listing&utm_source=hungry-jacks&utm_campaign=direct_links",
    "enabled": false
@@ -65688,7 +66034,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": {
    "url": "https://www.menulog.com.au/restaurants-hungry-jacks-broadmeadow/menu?utm_medium=restaurant_listing&utm_source=hungry-jacks&utm_campaign=direct_links",
    "enabled": false
@@ -65890,7 +66236,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": {
    "url": "https://www.menulog.com.au/restaurants-hungry-jacks-cockburn/?utm_medium=restaurant_listing&utm_source=hungry-jacks&utm_campaign=direct_links",
    "enabled": false
@@ -66092,7 +66438,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": {
    "url": "https://www.menulog.com.au/restaurants-hungry-jacks-Pascoe-Vale/menu?utm_medium=restaurant_listing&utm_source=hungry-jacks&utm_campaign=direct_links",
    "enabled": false
@@ -66243,7 +66589,7 @@
    "inapp_delivery_enabled": false,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": null,
   "store_timezone_id": "AUS Eastern Standard Time"
  },
@@ -66442,7 +66788,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": {
    "url": "https://www.menulog.com.au/restaurants-hungry-jacks-william-street/menu?utm_medium=restaurant_listing&utm_source=hungry-jacks&utm_campaign=direct_links",
    "enabled": false
@@ -66644,7 +66990,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": {
    "url": "https://www.menulog.com.au/restaurants-hungry-jacks-mornington/menu?utm_medium=restaurant_listing&utm_source=hungry-jacks&utm_campaign=direct_links",
    "enabled": false
@@ -66846,7 +67192,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": {
    "url": "https://www.menulog.com.au/restaurants-hungry-jacks-parafield/menu",
    "enabled": false
@@ -66997,7 +67343,7 @@
    "inapp_delivery_enabled": false,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": null,
   "store_timezone_id": "E. Australia Standard Time"
  },
@@ -67196,7 +67542,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": null,
   "store_timezone_id": "W. Australia Standard Time"
  },
@@ -67395,7 +67741,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": {
    "url": "https://www.menulog.com.au/restaurants-hungry-jacks-beeliar/menu?utm_medium=restaurant_listing&utm_source=hungry-jacks&utm_campaign=direct_links",
    "enabled": false
@@ -67597,7 +67943,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": {
    "url": "https://www.menulog.com.au/restaurants-hungry-jacks-beechboro/menu?utm_medium=restaurant_listing&utm_source=hungry-jacks&utm_campaign=direct_links",
    "enabled": false
@@ -67799,7 +68145,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": {
    "url": "https://www.menulog.com.au/restaurants-hungry-jacks-deception-bay/menu?utm_medium=restaurant_listing&utm_source=hungry-jacks&utm_campaign=direct_links",
    "enabled": false
@@ -68001,7 +68347,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": {
    "url": "https://www.menulog.com.au/restaurants-hungry-jacks-beenleigh/menu?utm_medium=restaurant_listing&utm_source=hungry-jacks&utm_campaign=direct_links",
    "enabled": true
@@ -68203,7 +68549,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": {
    "url": "https://www.menulog.com.au/restaurants-hungry-jacks-engadine/menu?utm_medium=restaurant_listing&utm_source=hungry-jacks&utm_campaign=direct_links",
    "enabled": false
@@ -68405,7 +68751,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": {
    "url": "https://www.menulog.com.au/restaurants-hungry-jacks-belmont/menu?utm_medium=restaurant_listing&utm_source=hungry-jacks&utm_campaign=direct_links",
    "enabled": false
@@ -68607,7 +68953,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": {
    "url": "https://www.menulog.com.au/restaurants-hungry-jacks-glengarry/menu?utm_medium=restaurant_listing&utm_source=hungry-jacks&utm_campaign=direct_links",
    "enabled": false
@@ -68758,7 +69104,7 @@
    "inapp_delivery_enabled": false,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": null,
   "store_timezone_id": "AUS Eastern Standard Time"
  },
@@ -68957,7 +69303,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": {
    "url": "https://www.menulog.com.au/restaurants-hungry-jacks-circular-quay/menu?utm_medium=restaurant_listing&utm_source=hungry-jacks&utm_campaign=direct_links",
    "enabled": true
@@ -69159,7 +69505,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": {
    "url": "https://www.menulog.com.au/restaurants-hungry-jacks-fyshwick-act/menu?utm_medium=restaurant_listing&utm_source=hungry-jacks&utm_campaign=direct_links",
    "enabled": false
@@ -69362,7 +69708,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": null,
   "store_timezone_id": "AUS Eastern Standard Time"
  },
@@ -69562,7 +69908,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": null,
   "store_timezone_id": "Cen. Australia Standard Time"
  },
@@ -69761,7 +70107,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": {
    "url": "https://www.menulog.com.au/restaurants-hungry-jacks-pitt-and-park/menu?utm_medium=restaurant_listing&utm_source=hungry-jacks&utm_campaign=direct_links",
    "enabled": true
@@ -69964,7 +70310,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": {
    "url": "https://www.menulog.com.au/restaurants-hungry-jacks-armadale/menu?utm_medium=restaurant_listing&utm_source=hungry-jacks&utm_campaign=direct_links",
    "enabled": false
@@ -70166,7 +70512,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": {
    "url": "https://www.menulog.com.au/restaurants-hungry-jacks-rockhampton-north/menu",
    "enabled": false
@@ -70368,7 +70714,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": {
    "url": "https://www.menulog.com.au/restaurants-hungry-jacks-caroline-springs/menu?utm_medium=restaurant_listing&utm_source=hungry-jacks&utm_campaign=direct_links",
    "enabled": false
@@ -70571,7 +70917,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": {
    "url": "https://www.menulog.com.au/restaurants-hungry-jacks-kelmscott/menu?utm_medium=restaurant_listing&utm_source=hungry-jacks&utm_campaign=direct_links",
    "enabled": false
@@ -70773,7 +71119,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": {
    "url": "https://www.menulog.com.au/restaurants-hungry-jacks-rocklea/menu?utm_medium=restaurant_listing&utm_source=hungry-jacks&utm_campaign=direct_links",
    "enabled": false
@@ -70924,7 +71270,7 @@
    "inapp_delivery_enabled": false,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": null,
   "store_timezone_id": "E. Australia Standard Time"
  },
@@ -71123,7 +71469,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": null,
   "store_timezone_id": "AUS Central Standard Time"
  },
@@ -71322,7 +71668,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": null,
   "store_timezone_id": "E. Australia Standard Time"
  },
@@ -71364,7 +71710,7 @@
      "day_name": "Tue",
      "is_open": true,
      "open": "06:00",
-     "close": "23:00"
+     "close": "22:00"
     },
     {
      "day_idx": 3,
@@ -71415,7 +71761,7 @@
      "day_name": "Tue",
      "is_open": true,
      "open": "06:00",
-     "close": "23:00"
+     "close": "22:00"
     },
     {
      "day_idx": 3,
@@ -71521,7 +71867,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": {
    "url": "https://www.menulog.com.au/restaurants-hungry-jacks-minto/menu?utm_medium=restaurant_listing&utm_source=hungry-jacks&utm_campaign=direct_links",
    "enabled": false
@@ -71672,7 +72018,7 @@
    "inapp_delivery_enabled": false,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": null,
   "store_timezone_id": "AUS Eastern Standard Time"
  },
@@ -71820,7 +72166,7 @@
    "inapp_delivery_enabled": false,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": {
    "url": "https://www.menulog.com.au/restaurants-hungry-jacks-echuca/menu/?utm_medium=restaurant_listing&utm_source=hungry-jacks&utm_campaign=direct_links",
    "enabled": true
@@ -71971,7 +72317,7 @@
    "inapp_delivery_enabled": false,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": null,
   "store_timezone_id": "AUS Eastern Standard Time"
  },
@@ -72170,7 +72516,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": null,
   "store_timezone_id": "AUS Eastern Standard Time"
  },
@@ -72369,7 +72715,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": {
    "url": "https://www.menulog.com.au/restaurants-hungry-jacks-annerley/menu?utm_medium=restaurant_listing&utm_source=hungry-jacks&utm_campaign=direct_links",
    "enabled": false
@@ -72407,13 +72753,13 @@
      "day_name": "Mon",
      "is_open": true,
      "open": "05:00",
-     "close": "00:00"
+     "close": "22:00"
     },
     {
      "day_idx": 2,
      "day_name": "Tue",
      "is_open": true,
-     "open": "05:00",
+     "open": "06:00",
      "close": "00:00"
     },
     {
@@ -72458,13 +72804,13 @@
      "day_name": "Mon",
      "is_open": true,
      "open": "05:00",
-     "close": "05:00"
+     "close": "22:00"
     },
     {
      "day_idx": 2,
      "day_name": "Tue",
      "is_open": true,
-     "open": "05:00",
+     "open": "06:00",
      "close": "05:00"
     },
     {
@@ -72571,7 +72917,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": {
    "url": "https://www.menulog.com.au/restaurants-hungry-jacks-kallangur/menu?utm_medium=restaurant_listing&utm_source=hungry-jacks&utm_campaign=direct_links",
    "enabled": false
@@ -72774,7 +73120,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": {
    "url": "https://www.menulog.com.au/restaurants-hungry-jacks-gosnells/menu?utm_medium=restaurant_listing&utm_source=hungry-jacks&utm_campaign=direct_links",
    "enabled": false
@@ -72870,7 +73216,7 @@
      "day_name": "Tue",
      "is_open": true,
      "open": "06:00",
-     "close": "22:00"
+     "close": "23:00"
     },
     {
      "day_idx": 3,
@@ -72976,7 +73322,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": {
    "url": "https://www.menulog.com.au/restaurants-hungry-jacks-mt-annan/menu?utm_medium=restaurant_listing&utm_source=hungry-jacks&utm_campaign=direct_links",
    "enabled": false
@@ -73178,7 +73524,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": {
    "url": "https://www.menulog.com.au/restaurants-hungry-jacks-wyoming/menu?utm_medium=restaurant_listing&utm_source=hungry-jacks&utm_campaign=direct_links",
    "enabled": false
@@ -73380,7 +73726,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": {
    "url": "https://www.menulog.com.au/restaurants-hungry-jacks-meadow-springs/menu?utm_medium=restaurant_listing&utm_source=hungry-jacks&utm_campaign=direct_links",
    "enabled": false
@@ -73582,7 +73928,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": {
    "url": "https://www.menulog.com.au/restaurants-hungry-jacks-gungahlin/menu?utm_medium=restaurant_listing&utm_source=hungry-jacks&utm_campaign=direct_links",
    "enabled": false
@@ -73784,7 +74130,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": {
    "url": "https://www.menulog.com.au/restaurants-hungry-jacks-fairy-meadows/menu?utm_medium=restaurant_listing&utm_source=hungry-jacks&utm_campaign=direct_links",
    "enabled": false
@@ -73986,7 +74332,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": {
    "url": "https://www.menulog.com.au/restaurants-hungry-jacks-south-toowoomba/menu?utm_medium=restaurant_listing&utm_source=hungry-jacks&utm_campaign=direct_links",
    "enabled": false
@@ -74188,7 +74534,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": {
    "url": "https://www.menulog.com.au/restaurants-hungry-jacks-mackay/menu?utm_medium=restaurant_listing&utm_source=hungry-jacks&utm_campaign=direct_links",
    "enabled": false
@@ -74391,7 +74737,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": null,
   "store_timezone_id": "W. Australia Standard Time"
  },
@@ -74539,7 +74885,7 @@
    "inapp_delivery_enabled": false,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": null,
   "store_timezone_id": "W. Australia Standard Time"
  },
@@ -74738,7 +75084,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": {
    "url": "https://www.menulog.com.au/restaurants-hungry-jacks-springvale/menu?utm_medium=restaurant_listing&utm_source=hungry-jacks&utm_campaign=direct_links",
    "enabled": false
@@ -74940,7 +75286,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": null,
   "store_timezone_id": "W. Australia Standard Time"
  },
@@ -75140,7 +75486,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": null,
   "store_timezone_id": "AUS Eastern Standard Time"
  },
@@ -75341,7 +75687,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": {
    "url": "https://www.menulog.com.au/restaurants-hungry-jacks-innaloo/menu?utm_medium=restaurant_listing&utm_source=hungry-jacks&utm_campaign=direct_links",
    "enabled": false
@@ -75543,7 +75889,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": {
    "url": "https://www.menulog.com.au/restaurants-hungry-jacks-jacana/menu?utm_medium=restaurant_listing&utm_source=hungry-jacks&utm_campaign=direct_links",
    "enabled": false
@@ -75745,7 +76091,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": {
    "url": "https://www.menulog.com.au/restaurants-hungry-jacks-mt-lawley/menu?utm_medium=restaurant_listing&utm_source=hungry-jacks&utm_campaign=direct_links",
    "enabled": false
@@ -75947,7 +76293,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": {
    "url": "https://www.menulog.com.au/restaurants-hungry-jacks-dogswamp/menu?utm_medium=restaurant_listing&utm_source=hungry-jacks&utm_campaign=direct_links",
    "enabled": false
@@ -75992,7 +76338,7 @@
      "day_name": "Tue",
      "is_open": true,
      "open": "06:00",
-     "close": "22:00"
+     "close": "23:00"
     },
     {
      "day_idx": 3,
@@ -76043,7 +76389,7 @@
      "day_name": "Tue",
      "is_open": true,
      "open": "06:00",
-     "close": "22:00"
+     "close": "23:00"
     },
     {
      "day_idx": 3,
@@ -76149,7 +76495,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": {
    "url": "https://www.menulog.com.au/restaurants-hungry-jacks-lakeview-at-mermaid/menu?utm_medium=restaurant_listing&utm_source=hungry-jacks&utm_campaign=direct_links",
    "enabled": false
@@ -76300,7 +76646,7 @@
    "inapp_delivery_enabled": false,
    "barista_coffee": false
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": null,
   "store_timezone_id": "AUS Eastern Standard Time"
  },
@@ -76499,7 +76845,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": null,
   "store_timezone_id": "AUS Eastern Standard Time"
  },
@@ -76698,7 +77044,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": {
    "url": "https://www.menulog.com.au/restaurants-hungry-jacks-bunbury/menu?utm_medium=restaurant_listing&utm_source=hungry-jacks&utm_campaign=direct_links",
    "enabled": false
@@ -76900,7 +77246,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": {
    "url": "https://www.menulog.com.au/restaurants-hungry-jacks-kingsway/menu?utm_medium=restaurant_listing&utm_source=hungry-jacks&utm_campaign=direct_links",
    "enabled": false
@@ -77102,7 +77448,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": {
    "url": "https://www.menulog.com.au/restaurants-hungry-jacks-west-terrace/menu?utm_medium=restaurant_listing&utm_source=hungry-jacks&utm_campaign=direct_links",
    "enabled": false
@@ -77304,7 +77650,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": {
    "url": "https://www.menulog.com.au/restaurants-hungry-jacks-darlinghurst/menu?utm_medium=restaurant_listing&utm_source=hungry-jacks&utm_campaign=direct_links",
    "enabled": false
@@ -77506,7 +77852,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": null,
   "store_timezone_id": "W. Australia Standard Time"
  },
@@ -77706,7 +78052,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": null,
   "store_timezone_id": "AUS Eastern Standard Time"
  },
@@ -77905,7 +78251,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": null,
   "store_timezone_id": "AUS Eastern Standard Time"
  },
@@ -78104,7 +78450,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": null,
   "store_timezone_id": "AUS Eastern Standard Time"
  },
@@ -78303,7 +78649,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": {
    "url": "https://www.menulog.com.au/restaurants-hungry-jacks-rouse-hill/menu?utm_medium=restaurant_listing&utm_source=hungry-jacks&utm_campaign=direct_links",
    "enabled": true
@@ -78334,7 +78680,7 @@
      "day_name": "Sun",
      "is_open": true,
      "open": "06:00",
-     "close": "22:00"
+     "close": "23:00"
     },
     {
      "day_idx": 1,
@@ -78385,7 +78731,7 @@
      "day_name": "Sun",
      "is_open": true,
      "open": "06:00",
-     "close": "22:00"
+     "close": "23:00"
     },
     {
      "day_idx": 1,
@@ -78505,7 +78851,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": {
    "url": "https://www.menulog.com.au/restaurants-hungry-jacks-applecross/menu?utm_medium=restaurant_listing&utm_source=hungry-jacks&utm_campaign=direct_links",
    "enabled": false
@@ -78707,7 +79053,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": {
    "url": "https://www.menulog.com.au/restaurants-hungry-jacks-minchinbury/menu?utm_medium=restaurant_listing&utm_source=hungry-jacks&utm_campaign=direct_links",
    "enabled": false
@@ -78909,7 +79255,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": null,
   "store_timezone_id": "E. Australia Standard Time"
  },
@@ -79108,7 +79454,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": {
    "url": "https://www.menulog.com.au/restaurants-hungry-jacks-mount-gambier/menu?utm_medium=restaurant_listing&utm_source=hungry-jacks&utm_campaign=direct_links",
    "enabled": true
@@ -79310,7 +79656,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": null,
   "store_timezone_id": "E. Australia Standard Time"
  },
@@ -79458,7 +79804,7 @@
    "inapp_delivery_enabled": false,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": null,
   "store_timezone_id": "W. Australia Standard Time"
  },
@@ -79658,7 +80004,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": null,
   "store_timezone_id": "Cen. Australia Standard Time"
  },
@@ -79806,7 +80152,7 @@
    "inapp_delivery_enabled": false,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": null,
   "store_timezone_id": "W. Australia Standard Time"
  },
@@ -79991,7 +80337,7 @@
    "address": "163 Swanston St",
    "postcode": "3000",
    "state": "VIC",
-   "phone": ""
+   "phone": "9959 8880"
   },
   "facilities": {
    "foodcourt": false,
@@ -80006,7 +80352,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": null,
   "store_timezone_id": "AUS Eastern Standard Time"
  },
@@ -80206,7 +80552,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": null,
   "store_timezone_id": "AUS Eastern Standard Time"
  },
@@ -80405,7 +80751,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": {
    "url": "https://www.menulog.com.au/restaurants-hungry-jacks-mawsons-lakes/menu?utm_medium=restaurant_listing&utm_source=hungry-jacks&utm_campaign=direct_links",
    "enabled": false
@@ -80608,7 +80954,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": null,
   "store_timezone_id": "Cen. Australia Standard Time"
  },
@@ -80807,7 +81153,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": null,
   "store_timezone_id": "W. Australia Standard Time"
  },
@@ -81006,7 +81352,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": {
    "url": "https://www.menulog.com.au/restaurants-hungry-jacks-mildura/menu?utm_medium=restaurant_listing&utm_source=hungry-jacks&utm_campaign=direct_links",
    "enabled": false
@@ -81208,7 +81554,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": {
    "url": "https://www.menulog.com.au/restaurants-hungry-jacks-smithfield-sydney/menu?utm_medium=restaurant_listing&utm_source=hungry-jacks&utm_campaign=direct_links",
    "enabled": false
@@ -81359,7 +81705,7 @@
    "inapp_delivery_enabled": false,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": null,
   "store_timezone_id": "E. Australia Standard Time"
  },
@@ -81507,7 +81853,7 @@
    "inapp_delivery_enabled": false,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": null,
   "store_timezone_id": "AUS Eastern Standard Time"
  },
@@ -81706,7 +82052,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": null,
   "store_timezone_id": "AUS Eastern Standard Time"
  },
@@ -81905,7 +82251,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": null,
   "store_timezone_id": "E. Australia Standard Time"
  },
@@ -82104,7 +82450,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": {
    "url": "https://www.menulog.com.au/restaurants-hungry-jacks-mudgeeraba/menu?utm_medium=restaurant_listing&utm_source=hungry-jacks&utm_campaign=direct_links",
    "enabled": false
@@ -82306,7 +82652,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": {
    "url": "https://www.menulog.com.au/restaurants-hungry-jacks-spearwood/menu?utm_medium=restaurant_listing&utm_source=hungry-jacks&utm_campaign=direct_links",
    "enabled": false
@@ -82508,7 +82854,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": null,
   "store_timezone_id": "Cen. Australia Standard Time"
  },
@@ -82708,7 +83054,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": null,
   "store_timezone_id": "AUS Eastern Standard Time"
  },
@@ -82907,7 +83253,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": {
    "url": "https://www.menulog.com.au/restaurants-hungry-jacks-kambah/menu?utm_medium=restaurant_listing&utm_source=hungry-jacks&utm_campaign=direct_links",
    "enabled": false
@@ -83053,12 +83399,12 @@
    "is24x2": false,
    "dinein": false,
    "drivethru": false,
-   "preorder": false,
+   "preorder": true,
    "loyalty": true,
    "inapp_delivery_enabled": false,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": null,
   "store_timezone_id": "E. Australia Standard Time"
  },
@@ -83204,7 +83550,7 @@
    "inapp_delivery_enabled": false,
    "barista_coffee": false
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": null,
   "store_timezone_id": "W. Australia Standard Time"
  },
@@ -83403,7 +83749,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": {
    "url": "https://www.menulog.com.au/restaurants-hungry-jacks-deeragun/menu?utm_medium=restaurant_listing&utm_source=hungry-jacks&utm_campaign=direct_links",
    "enabled": false
@@ -83605,7 +83951,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": {
    "url": "https://www.menulog.com.au/restaurants-hungry-jacks-taringa/menu?utm_medium=restaurant_listing&utm_source=hungry-jacks&utm_campaign=direct_links",
    "enabled": false
@@ -83807,7 +84153,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": {
    "url": "https://www.menulog.com.au/restaurants-hungry-jacks-beakhouse/menu?utm_medium=restaurant_listing&utm_source=hungry-jacks&utm_campaign=direct_links",
    "enabled": true
@@ -84009,7 +84355,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": {
    "url": "https://www.menulog.com.au/restaurants-hungry-jacks-cannington-carousel/menu?utm_medium=restaurant_listing&utm_source=hungry-jacks&utm_campaign=direct_links",
    "enabled": false
@@ -84211,7 +84557,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": {
    "url": "https://www.menulog.com.au/restaurants-hungry-jacks-lake-haven/menu?utm_medium=restaurant_listing&utm_source=hungry-jacks&utm_campaign=direct_links",
    "enabled": false
@@ -84413,7 +84759,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": {
    "url": "https://www.menulog.com.au/restaurants-hungry-jacks-westpoint/menu?utm_medium=restaurant_listing&utm_source=hungry-jacks&utm_campaign=direct_links",
    "enabled": false
@@ -84615,7 +84961,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": {
    "url": "https://www.menulog.com.au/restaurants-hungry-jacks-bulleen/menu?utm_medium=restaurant_listing&utm_source=hungry-jacks&utm_campaign=direct_links",
    "enabled": false
@@ -84817,7 +85163,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": {
    "url": "https://www.menulog.com.au/restaurants-hungry-jacks-banksia-grove/menu?utm_medium=restaurant_listing&utm_source=hungry-jacks&utm_campaign=direct_links",
    "enabled": false
@@ -85019,7 +85365,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": {
    "url": "https://www.menulog.com.au/restaurants-hungry-jacks-anzac/menu/?utm_medium=restaurant_listing&utm_source=hungry-jacks&utm_campaign=direct_links",
    "enabled": false
@@ -85221,7 +85567,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": {
    "url": "https://www.menulog.com.au/restaurants-hungry-jacks-mentone/menu?utm_medium=restaurant_listing&utm_source=hungry-jacks&utm_campaign=direct_links",
    "enabled": true
@@ -85423,7 +85769,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": null,
   "store_timezone_id": "W. Australia Standard Time"
  },
@@ -85622,7 +85968,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": {
    "url": "https://www.menulog.com.au/restaurants-hungry-jacks-springfield/menu?utm_medium=restaurant_listing&utm_source=hungry-jacks&utm_campaign=direct_links",
    "enabled": false
@@ -85824,7 +86170,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": null,
   "store_timezone_id": "E. Australia Standard Time"
  },
@@ -86023,7 +86369,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": {
    "url": "https://www.menulog.com.au/restaurants-hungry-jacks-glen-osmond/menu?utm_medium=restaurant_listing&utm_source=hungry-jacks&utm_campaign=direct_links",
    "enabled": true
@@ -86225,7 +86571,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": null,
   "store_timezone_id": "AUS Eastern Standard Time"
  },
@@ -86373,7 +86719,7 @@
    "inapp_delivery_enabled": false,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": null,
   "store_timezone_id": "Cen. Australia Standard Time"
  },
@@ -86521,7 +86867,7 @@
    "inapp_delivery_enabled": false,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": null,
   "store_timezone_id": "Cen. Australia Standard Time"
  },
@@ -86720,7 +87066,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": {
    "url": "https://www.menulog.com.au/restaurants-hungry-jacks-dalyellup/menu?utm_medium=restaurant_listing&utm_source=hungry-jacks&utm_campaign=direct_links",
    "enabled": false
@@ -86922,7 +87268,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": {
    "url": "https://www.menulog.com.au/restaurants-hungry-jacks-claremont/menu?utm_medium=restaurant_listing&utm_source=hungry-jacks&utm_campaign=direct_links",
    "enabled": false
@@ -87125,7 +87471,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": null,
   "store_timezone_id": "AUS Eastern Standard Time"
  },
@@ -87324,7 +87670,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": {
    "url": "https://www.menulog.com.au/restaurants-hungry-jacks-strathpine/menu?utm_medium=restaurant_listing&utm_source=hungry-jacks&utm_campaign=direct_links",
    "enabled": false
@@ -87526,7 +87872,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": {
    "url": "https://www.menulog.com.au/restaurants-hungry-jacks-oxenford/menu?utm_medium=restaurant_listing&utm_source=hungry-jacks&utm_campaign=direct_links",
    "enabled": false
@@ -87729,7 +88075,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": null,
   "store_timezone_id": "AUS Eastern Standard Time"
  },
@@ -87928,7 +88274,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": null,
   "store_timezone_id": "E. Australia Standard Time"
  },
@@ -88127,7 +88473,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": {
    "url": "https://www.menulog.com.au/restaurants-hungry-jacks-herston/menu?utm_medium=restaurant_listing&utm_source=hungry-jacks&utm_campaign=direct_links",
    "enabled": false
@@ -88329,7 +88675,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": null,
   "store_timezone_id": "AUS Eastern Standard Time"
  },
@@ -88528,7 +88874,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": null,
   "store_timezone_id": "AUS Eastern Standard Time"
  },
@@ -88727,7 +89073,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": {
    "url": "https://www.menulog.com.au/restaurants-hungry-jacks-dandenong/menu?utm_medium=restaurant_listing&utm_source=hungry-jacks&utm_campaign=direct_links",
    "enabled": false
@@ -88929,7 +89275,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": {
    "url": "https://www.menulog.com.au/restaurants-hungry-jacks-melville-palmyra/menu?utm_medium=restaurant_listing&utm_source=hungry-jacks&utm_campaign=direct_links",
    "enabled": false
@@ -89131,7 +89477,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": null,
   "store_timezone_id": "AUS Central Standard Time"
  },
@@ -89330,7 +89676,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": {
    "url": "https://www.menulog.com.au/restaurants-hungry-jacks-tarneit/menu?utm_medium=restaurant_listing&utm_source=hungry-jacks&utm_campaign=direct_links",
    "enabled": false
@@ -89532,7 +89878,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": {
    "url": "https://www.menulog.com.au/restaurants-hungry-jacks-bell-street/menu?utm_medium=restaurant_listing&utm_source=hungry-jacks&utm_campaign=direct_links",
    "enabled": false
@@ -89734,7 +90080,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": null,
   "store_timezone_id": "AUS Eastern Standard Time"
  },
@@ -89882,7 +90228,7 @@
    "inapp_delivery_enabled": false,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": null,
   "store_timezone_id": "AUS Eastern Standard Time"
  },
@@ -90082,7 +90428,7 @@
    "inapp_delivery_enabled": true,
    "barista_coffee": true
   },
-  "last_updated": "2024-09-18T01:18:27.7574347Z",
+  "last_updated": "2024-09-18T23:56:26.5920249Z",
   "menulog": null,
   "store_timezone_id": "Cen. Australia Standard Time"
  }

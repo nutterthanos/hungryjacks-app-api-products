@@ -4,7 +4,7 @@
  "store_name": "Perth Virgin",
  "order_mode": "Delivery",
  "menu_id": 1001,
- "last_updated": "2024-09-17T17:40:14.6453878Z",
+ "last_updated": "2024-09-19T06:23:53.9945798Z",
  "images_category_basepath": "https://s3-ap-southeast-2.amazonaws.com/hungryjack-prod/image/category/1001/",
  "images_item_basepath": "https://s3-ap-southeast-2.amazonaws.com/hungryjack-prod/image/item/1001/",
  "images_promos_basepath": "https://s3-ap-southeast-2.amazonaws.com/hungryjack-prod/image/promo/1001/",
@@ -10928,6 +10928,7 @@
     40264,
     40501,
     40284,
+    40318,
     40321,
     40319,
     40320,
@@ -11022,6 +11023,10 @@
       {
        "id": 40284,
        "diff": 0.6
+      },
+      {
+       "id": 40318,
+       "diff": 1.0
       },
       {
        "id": 40321,
@@ -11164,6 +11169,7 @@
     40264,
     40501,
     40284,
+    40318,
     40321,
     40319,
     40320,
@@ -11288,6 +11294,10 @@
       {
        "id": 40284,
        "diff": 0.6
+      },
+      {
+       "id": 40318,
+       "diff": 1.0
       },
       {
        "id": 40321,
@@ -39208,6 +39218,39 @@
    "description": "Join us for a refreshing Single Estate Ceylon Dilmah Tea, made from fresh, unblended tea. Milk & sugar is optional. Available in Small, Medium or Large. "
   },
   {
+   "sales_item_id": 40318,
+   "pos_item_id": 2155,
+   "name": "Small Cappuccino",
+   "price": 4.5,
+   "image": "2155.png",
+   "thumb": "2155_thumb.png",
+   "image_banner": "2155_banner.png",
+   "image_mobile": "2155_mobile.png",
+   "modifier_groups": [
+    62472,
+    62661,
+    62456,
+    62465,
+    62459,
+    62467
+   ],
+   "default_options": [],
+   "allergens": {
+    "gluten": false,
+    "eggs": false,
+    "milk_and_milk_products": true,
+    "soy": false,
+    "fish_and_crustacea": false,
+    "peanuts": false,
+    "tree_nuts": false,
+    "sesame": false,
+    "sulphites": false
+   },
+   "energy_kj": 552.0,
+   "is_visible": true,
+   "description": "The coffee drinker's favourite the world over. An aromatic shot of espresso, steamed milk with a light silky froth and a delicious sprinkle of chocolate. Available in Small, Medium or Large."
+  },
+  {
    "sales_item_id": 40319,
    "pos_item_id": 2158,
    "name": "Small Flat White",
@@ -39842,39 +39885,6 @@
    "energy_kj": null,
    "is_visible": true,
    "description": null
-  },
-  {
-   "sales_item_id": 40318,
-   "pos_item_id": 2155,
-   "name": "Small Cappuccino",
-   "price": 4.5,
-   "image": "2155.png",
-   "thumb": "2155_thumb.png",
-   "image_banner": "2155_banner.png",
-   "image_mobile": "2155_mobile.png",
-   "modifier_groups": [
-    62472,
-    62661,
-    62456,
-    62465,
-    62459,
-    62467
-   ],
-   "default_options": [],
-   "allergens": {
-    "gluten": false,
-    "eggs": false,
-    "milk_and_milk_products": true,
-    "soy": false,
-    "fish_and_crustacea": false,
-    "peanuts": false,
-    "tree_nuts": false,
-    "sesame": false,
-    "sulphites": false
-   },
-   "energy_kj": 552.0,
-   "is_visible": true,
-   "description": "The coffee drinker's favourite the world over. An aromatic shot of espresso, steamed milk with a light silky froth and a delicious sprinkle of chocolate. Available in Small, Medium or Large."
   },
   {
    "sales_item_id": 41138,
@@ -68127,6 +68137,14 @@
        ]
       },
       {
+       "sales_item_id": 40318,
+       "level": 0,
+       "base_sales_item_id": 40318,
+       "prices": [
+        1.0
+       ]
+      },
+      {
        "sales_item_id": 40321,
        "level": 0,
        "base_sales_item_id": 40321,
@@ -68476,6 +68494,14 @@
        "base_sales_item_id": 40284,
        "prices": [
         0.6
+       ]
+      },
+      {
+       "sales_item_id": 40318,
+       "level": 0,
+       "base_sales_item_id": 40318,
+       "prices": [
+        1.0
        ]
       },
       {
