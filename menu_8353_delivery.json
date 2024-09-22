@@ -4,7 +4,7 @@
  "store_name": "Sale",
  "order_mode": "Delivery",
  "menu_id": 1001,
- "last_updated": "2024-09-19T06:51:54.2040828Z",
+ "last_updated": "2024-09-21T18:11:24.615003Z",
  "images_category_basepath": "https://s3-ap-southeast-2.amazonaws.com/hungryjack-prod/image/category/1001/",
  "images_item_basepath": "https://s3-ap-southeast-2.amazonaws.com/hungryjack-prod/image/item/1001/",
  "images_promos_basepath": "https://s3-ap-southeast-2.amazonaws.com/hungryjack-prod/image/promo/1001/",

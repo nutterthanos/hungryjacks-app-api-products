@@ -4,7 +4,7 @@
  "store_name": "Hindley Street",
  "order_mode": "Delivery",
  "menu_id": 1001,
- "last_updated": "2024-09-19T05:59:50.9312128Z",
+ "last_updated": "2024-09-21T17:17:42.2681499Z",
  "images_category_basepath": "https://s3-ap-southeast-2.amazonaws.com/hungryjack-prod/image/category/1001/",
  "images_item_basepath": "https://s3-ap-southeast-2.amazonaws.com/hungryjack-prod/image/item/1001/",
  "images_promos_basepath": "https://s3-ap-southeast-2.amazonaws.com/hungryjack-prod/image/promo/1001/",
