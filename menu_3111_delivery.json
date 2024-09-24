@@ -4,7 +4,7 @@
  "store_name": "Balga",
  "order_mode": "Delivery",
  "menu_id": 1001,
- "last_updated": "2024-09-23T12:01:16.4217585Z",
+ "last_updated": "2024-09-23T17:23:19.8680021Z",
  "images_category_basepath": "https://s3-ap-southeast-2.amazonaws.com/hungryjack-prod/image/category/1001/",
  "images_item_basepath": "https://s3-ap-southeast-2.amazonaws.com/hungryjack-prod/image/item/1001/",
  "images_promos_basepath": "https://s3-ap-southeast-2.amazonaws.com/hungryjack-prod/image/promo/1001/",
@@ -45659,7 +45659,7 @@
    },
    "energy_kj": 757.0,
    "is_visible": true,
-   "description": "Available from a Jack’s Cafe near you, our iced coffee features a shot of espresso poured over ice and your choice of full cream, skim, soy, almond, oat or lactose-free milk before being topped with cream and a dusting of chocolate powder. The finest outer shell encases a deliciously indulgent syrup. Available at selected Jack's Cafe restaurants only.\r\n<br><br>\r\nAdd KitKat® crumbs and savour every sip of our Barista Iced Drinks Made with KitKat®."
+   "description": "Available from a Jack’s Cafe near you, our iced coffee features a shot of espresso poured over ice and your choice of full cream, skim, soy,  almond, oat or lactose-free milk before being topped with cream and a dusting of chocolate powder. The finest outer shell encases a deliciously indulgent syrup. Available at selected Jack's Cafe restaurants only. \r\n<br/> <br/>\r\nAdd KitKat® crumbs and savour every sip of our Barista Iced Drinks Made with KitKat®."
   },
   {
    "sales_item_id": 41037,
